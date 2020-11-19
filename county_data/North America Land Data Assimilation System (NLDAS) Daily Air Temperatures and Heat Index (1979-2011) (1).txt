@@ -1,0 +1,3175 @@
+"Notes"	"State"	"State Code"	"County"	"County Code"	Avg Daily Max Air Temperature (F)
+	"Alabama"	"01"	"Autauga County, AL"	"01001"	73.65
+	"Alabama"	"01"	"Baldwin County, AL"	"01003"	75.38
+	"Alabama"	"01"	"Barbour County, AL"	"01005"	74.94
+	"Alabama"	"01"	"Bibb County, AL"	"01007"	72.89
+	"Alabama"	"01"	"Blount County, AL"	"01009"	70.35
+	"Alabama"	"01"	"Bullock County, AL"	"01011"	74.23
+	"Alabama"	"01"	"Butler County, AL"	"01013"	74.36
+	"Alabama"	"01"	"Calhoun County, AL"	"01015"	70.79
+	"Alabama"	"01"	"Chambers County, AL"	"01017"	72.02
+	"Alabama"	"01"	"Cherokee County, AL"	"01019"	69.90
+	"Alabama"	"01"	"Chilton County, AL"	"01021"	72.59
+	"Alabama"	"01"	"Choctaw County, AL"	"01023"	74.86
+	"Alabama"	"01"	"Clarke County, AL"	"01025"	75.36
+	"Alabama"	"01"	"Clay County, AL"	"01027"	70.32
+	"Alabama"	"01"	"Cleburne County, AL"	"01029"	69.80
+	"Alabama"	"01"	"Coffee County, AL"	"01031"	75.12
+	"Alabama"	"01"	"Colbert County, AL"	"01033"	69.94
+	"Alabama"	"01"	"Conecuh County, AL"	"01035"	74.95
+	"Alabama"	"01"	"Coosa County, AL"	"01037"	72.14
+	"Alabama"	"01"	"Covington County, AL"	"01039"	75.45
+	"Alabama"	"01"	"Crenshaw County, AL"	"01041"	74.26
+	"Alabama"	"01"	"Cullman County, AL"	"01043"	70.20
+	"Alabama"	"01"	"Dale County, AL"	"01045"	75.53
+	"Alabama"	"01"	"Dallas County, AL"	"01047"	74.57
+	"Alabama"	"01"	"DeKalb County, AL"	"01049"	67.71
+	"Alabama"	"01"	"Elmore County, AL"	"01051"	73.65
+	"Alabama"	"01"	"Escambia County, AL"	"01053"	75.60
+	"Alabama"	"01"	"Etowah County, AL"	"01055"	70.28
+	"Alabama"	"01"	"Fayette County, AL"	"01057"	71.78
+	"Alabama"	"01"	"Franklin County, AL"	"01059"	69.78
+	"Alabama"	"01"	"Geneva County, AL"	"01061"	76.31
+	"Alabama"	"01"	"Greene County, AL"	"01063"	73.92
+	"Alabama"	"01"	"Hale County, AL"	"01065"	73.90
+	"Alabama"	"01"	"Henry County, AL"	"01067"	75.40
+	"Alabama"	"01"	"Houston County, AL"	"01069"	76.55
+	"Alabama"	"01"	"Jackson County, AL"	"01071"	68.12
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	71.61
+	"Alabama"	"01"	"Lamar County, AL"	"01075"	72.15
+	"Alabama"	"01"	"Lauderdale County, AL"	"01077"	69.40
+	"Alabama"	"01"	"Lawrence County, AL"	"01079"	69.87
+	"Alabama"	"01"	"Lee County, AL"	"01081"	73.03
+	"Alabama"	"01"	"Limestone County, AL"	"01083"	69.44
+	"Alabama"	"01"	"Lowndes County, AL"	"01085"	74.54
+	"Alabama"	"01"	"Macon County, AL"	"01087"	74.24
+	"Alabama"	"01"	"Madison County, AL"	"01089"	69.04
+	"Alabama"	"01"	"Marengo County, AL"	"01091"	74.61
+	"Alabama"	"01"	"Marion County, AL"	"01093"	70.59
+	"Alabama"	"01"	"Marshall County, AL"	"01095"	69.29
+	"Alabama"	"01"	"Mobile County, AL"	"01097"	76.11
+	"Alabama"	"01"	"Monroe County, AL"	"01099"	75.13
+	"Alabama"	"01"	"Montgomery County, AL"	"01101"	74.38
+	"Alabama"	"01"	"Morgan County, AL"	"01103"	69.95
+	"Alabama"	"01"	"Perry County, AL"	"01105"	73.82
+	"Alabama"	"01"	"Pickens County, AL"	"01107"	73.17
+	"Alabama"	"01"	"Pike County, AL"	"01109"	74.38
+	"Alabama"	"01"	"Randolph County, AL"	"01111"	70.90
+	"Alabama"	"01"	"Russell County, AL"	"01113"	74.49
+	"Alabama"	"01"	"St. Clair County, AL"	"01115"	70.76
+	"Alabama"	"01"	"Shelby County, AL"	"01117"	71.83
+	"Alabama"	"01"	"Sumter County, AL"	"01119"	74.17
+	"Alabama"	"01"	"Talladega County, AL"	"01121"	71.62
+	"Alabama"	"01"	"Tallapoosa County, AL"	"01123"	72.42
+	"Alabama"	"01"	"Tuscaloosa County, AL"	"01125"	72.85
+	"Alabama"	"01"	"Walker County, AL"	"01127"	71.85
+	"Alabama"	"01"	"Washington County, AL"	"01129"	75.80
+	"Alabama"	"01"	"Wilcox County, AL"	"01131"	75.06
+	"Alabama"	"01"	"Winston County, AL"	"01133"	70.20
+"Total"	"Alabama"	"01"			72.92
+	"Arizona"	"04"	"Apache County, AZ"	"04001"	62.27
+	"Arizona"	"04"	"Cochise County, AZ"	"04003"	73.48
+	"Arizona"	"04"	"Coconino County, AZ"	"04005"	64.11
+	"Arizona"	"04"	"Gila County, AZ"	"04007"	70.29
+	"Arizona"	"04"	"Graham County, AZ"	"04009"	72.99
+	"Arizona"	"04"	"Greenlee County, AZ"	"04011"	68.63
+	"Arizona"	"04"	"La Paz County, AZ"	"04012"	82.22
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	82.29
+	"Arizona"	"04"	"Mohave County, AZ"	"04015"	72.42
+	"Arizona"	"04"	"Navajo County, AZ"	"04017"	64.32
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	78.86
+	"Arizona"	"04"	"Pinal County, AZ"	"04021"	80.70
+	"Arizona"	"04"	"Santa Cruz County, AZ"	"04023"	72.82
+	"Arizona"	"04"	"Yavapai County, AZ"	"04025"	70.01
+	"Arizona"	"04"	"Yuma County, AZ"	"04027"	84.26
+"Total"	"Arizona"	"04"			71.59
+	"Arkansas"	"05"	"Arkansas County, AR"	"05001"	72.83
+	"Arkansas"	"05"	"Ashley County, AR"	"05003"	74.71
+	"Arkansas"	"05"	"Baxter County, AR"	"05005"	69.11
+	"Arkansas"	"05"	"Benton County, AR"	"05007"	67.98
+	"Arkansas"	"05"	"Boone County, AR"	"05009"	67.98
+	"Arkansas"	"05"	"Bradley County, AR"	"05011"	74.31
+	"Arkansas"	"05"	"Calhoun County, AR"	"05013"	74.45
+	"Arkansas"	"05"	"Carroll County, AR"	"05015"	67.22
+	"Arkansas"	"05"	"Chicot County, AR"	"05017"	74.51
+	"Arkansas"	"05"	"Clark County, AR"	"05019"	73.29
+	"Arkansas"	"05"	"Clay County, AR"	"05021"	69.24
+	"Arkansas"	"05"	"Cleburne County, AR"	"05023"	69.22
+	"Arkansas"	"05"	"Cleveland County, AR"	"05025"	73.38
+	"Arkansas"	"05"	"Columbia County, AR"	"05027"	74.84
+	"Arkansas"	"05"	"Conway County, AR"	"05029"	70.73
+	"Arkansas"	"05"	"Craighead County, AR"	"05031"	70.15
+	"Arkansas"	"05"	"Crawford County, AR"	"05033"	69.90
+	"Arkansas"	"05"	"Crittenden County, AR"	"05035"	71.14
+	"Arkansas"	"05"	"Cross County, AR"	"05037"	71.04
+	"Arkansas"	"05"	"Dallas County, AR"	"05039"	73.31
+	"Arkansas"	"05"	"Desha County, AR"	"05041"	73.63
+	"Arkansas"	"05"	"Drew County, AR"	"05043"	73.93
+	"Arkansas"	"05"	"Faulkner County, AR"	"05045"	71.03
+	"Arkansas"	"05"	"Franklin County, AR"	"05047"	70.47
+	"Arkansas"	"05"	"Fulton County, AR"	"05049"	68.26
+	"Arkansas"	"05"	"Garland County, AR"	"05051"	71.27
+	"Arkansas"	"05"	"Grant County, AR"	"05053"	72.90
+	"Arkansas"	"05"	"Greene County, AR"	"05055"	69.55
+	"Arkansas"	"05"	"Hempstead County, AR"	"05057"	74.10
+	"Arkansas"	"05"	"Hot Spring County, AR"	"05059"	72.43
+	"Arkansas"	"05"	"Howard County, AR"	"05061"	72.70
+	"Arkansas"	"05"	"Independence County, AR"	"05063"	70.04
+	"Arkansas"	"05"	"Izard County, AR"	"05065"	69.14
+	"Arkansas"	"05"	"Jackson County, AR"	"05067"	70.71
+	"Arkansas"	"05"	"Jefferson County, AR"	"05069"	72.87
+	"Arkansas"	"05"	"Johnson County, AR"	"05071"	69.11
+	"Arkansas"	"05"	"Lafayette County, AR"	"05073"	75.16
+	"Arkansas"	"05"	"Lawrence County, AR"	"05075"	69.74
+	"Arkansas"	"05"	"Lee County, AR"	"05077"	71.97
+	"Arkansas"	"05"	"Lincoln County, AR"	"05079"	73.33
+	"Arkansas"	"05"	"Little River County, AR"	"05081"	74.69
+	"Arkansas"	"05"	"Logan County, AR"	"05083"	71.41
+	"Arkansas"	"05"	"Lonoke County, AR"	"05085"	72.18
+	"Arkansas"	"05"	"Madison County, AR"	"05087"	66.20
+	"Arkansas"	"05"	"Marion County, AR"	"05089"	69.00
+	"Arkansas"	"05"	"Miller County, AR"	"05091"	75.31
+	"Arkansas"	"05"	"Mississippi County, AR"	"05093"	70.22
+	"Arkansas"	"05"	"Monroe County, AR"	"05095"	72.29
+	"Arkansas"	"05"	"Montgomery County, AR"	"05097"	70.72
+	"Arkansas"	"05"	"Nevada County, AR"	"05099"	74.13
+	"Arkansas"	"05"	"Newton County, AR"	"05101"	66.67
+	"Arkansas"	"05"	"Ouachita County, AR"	"05103"	74.35
+	"Arkansas"	"05"	"Perry County, AR"	"05105"	71.40
+	"Arkansas"	"05"	"Phillips County, AR"	"05107"	72.53
+	"Arkansas"	"05"	"Pike County, AR"	"05109"	72.37
+	"Arkansas"	"05"	"Poinsett County, AR"	"05111"	70.59
+	"Arkansas"	"05"	"Polk County, AR"	"05113"	69.89
+	"Arkansas"	"05"	"Pope County, AR"	"05115"	69.49
+	"Arkansas"	"05"	"Prairie County, AR"	"05117"	72.10
+	"Arkansas"	"05"	"Pulaski County, AR"	"05119"	71.94
+	"Arkansas"	"05"	"Randolph County, AR"	"05121"	68.96
+	"Arkansas"	"05"	"St. Francis County, AR"	"05123"	71.59
+	"Arkansas"	"05"	"Saline County, AR"	"05125"	71.24
+	"Arkansas"	"05"	"Scott County, AR"	"05127"	70.64
+	"Arkansas"	"05"	"Searcy County, AR"	"05129"	67.92
+	"Arkansas"	"05"	"Sebastian County, AR"	"05131"	71.66
+	"Arkansas"	"05"	"Sevier County, AR"	"05133"	73.54
+	"Arkansas"	"05"	"Sharp County, AR"	"05135"	68.78
+	"Arkansas"	"05"	"Stone County, AR"	"05137"	68.46
+	"Arkansas"	"05"	"Union County, AR"	"05139"	75.00
+	"Arkansas"	"05"	"Van Buren County, AR"	"05141"	68.71
+	"Arkansas"	"05"	"Washington County, AR"	"05143"	67.59
+	"Arkansas"	"05"	"White County, AR"	"05145"	70.99
+	"Arkansas"	"05"	"Woodruff County, AR"	"05147"	71.65
+	"Arkansas"	"05"	"Yell County, AR"	"05149"	71.33
+"Total"	"Arkansas"	"05"			71.29
+	"California"	"06"	"Alameda County, CA"	"06001"	69.95
+	"California"	"06"	"Alpine County, CA"	"06003"	50.28
+	"California"	"06"	"Amador County, CA"	"06005"	68.24
+	"California"	"06"	"Butte County, CA"	"06007"	68.98
+	"California"	"06"	"Calaveras County, CA"	"06009"	67.71
+	"California"	"06"	"Colusa County, CA"	"06011"	73.28
+	"California"	"06"	"Contra Costa County, CA"	"06013"	70.66
+	"California"	"06"	"Del Norte County, CA"	"06015"	52.53
+	"California"	"06"	"El Dorado County, CA"	"06017"	60.58
+	"California"	"06"	"Fresno County, CA"	"06019"	68.07
+	"California"	"06"	"Glenn County, CA"	"06021"	71.30
+	"California"	"06"	"Humboldt County, CA"	"06023"	59.71
+	"California"	"06"	"Imperial County, CA"	"06025"	86.48
+	"California"	"06"	"Inyo County, CA"	"06027"	70.39
+	"California"	"06"	"Kern County, CA"	"06029"	75.22
+	"California"	"06"	"Kings County, CA"	"06031"	80.46
+	"California"	"06"	"Lake County, CA"	"06033"	66.08
+	"California"	"06"	"Lassen County, CA"	"06035"	56.72
+	"California"	"06"	"Los Angeles County, CA"	"06037"	71.41
+	"California"	"06"	"Madera County, CA"	"06039"	68.35
+	"California"	"06"	"Marin County, CA"	"06041"	63.61
+	"California"	"06"	"Mariposa County, CA"	"06043"	65.54
+	"California"	"06"	"Mendocino County, CA"	"06045"	64.11
+	"California"	"06"	"Merced County, CA"	"06047"	77.40
+	"California"	"06"	"Modoc County, CA"	"06049"	57.13
+	"California"	"06"	"Mono County, CA"	"06051"	52.13
+	"California"	"06"	"Monterey County, CA"	"06053"	69.56
+	"California"	"06"	"Napa County, CA"	"06055"	70.46
+	"California"	"06"	"Nevada County, CA"	"06057"	58.30
+	"California"	"06"	"Orange County, CA"	"06059"	69.52
+	"California"	"06"	"Placer County, CA"	"06061"	62.55
+	"California"	"06"	"Plumas County, CA"	"06063"	56.13
+	"California"	"06"	"Riverside County, CA"	"06065"	79.04
+	"California"	"06"	"Sacramento County, CA"	"06067"	75.18
+	"California"	"06"	"San Benito County, CA"	"06069"	70.99
+	"California"	"06"	"San Bernardino County, CA"	"06071"	77.08
+	"California"	"06"	"San Diego County, CA"	"06073"	72.19
+	"California"	"06"	"San Francisco County, CA"	"06075"	55.29
+	"California"	"06"	"San Joaquin County, CA"	"06077"	76.10
+	"California"	"06"	"San Luis Obispo County, CA"	"06079"	70.92
+	"California"	"06"	"San Mateo County, CA"	"06081"	65.01
+	"California"	"06"	"Santa Barbara County, CA"	"06083"	69.58
+	"California"	"06"	"Santa Clara County, CA"	"06085"	70.68
+	"California"	"06"	"Santa Cruz County, CA"	"06087"	69.55
+	"California"	"06"	"Shasta County, CA"	"06089"	64.89
+	"California"	"06"	"Sierra County, CA"	"06091"	55.90
+	"California"	"06"	"Siskiyou County, CA"	"06093"	57.95
+	"California"	"06"	"Solano County, CA"	"06095"	73.34
+	"California"	"06"	"Sonoma County, CA"	"06097"	64.50
+	"California"	"06"	"Stanislaus County, CA"	"06099"	75.93
+	"California"	"06"	"Sutter County, CA"	"06101"	75.42
+	"California"	"06"	"Tehama County, CA"	"06103"	67.73
+	"California"	"06"	"Trinity County, CA"	"06105"	60.00
+	"California"	"06"	"Tulare County, CA"	"06107"	66.13
+	"California"	"06"	"Tuolumne County, CA"	"06109"	58.16
+	"California"	"06"	"Ventura County, CA"	"06111"	70.70
+	"California"	"06"	"Yolo County, CA"	"06113"	74.28
+	"California"	"06"	"Yuba County, CA"	"06115"	70.57
+"Total"	"California"	"06"			68.72
+	"Colorado"	"08"	"Adams County, CO"	"08001"	63.41
+	"Colorado"	"08"	"Alamosa County, CO"	"08003"	57.31
+	"Colorado"	"08"	"Arapahoe County, CO"	"08005"	62.12
+	"Colorado"	"08"	"Archuleta County, CO"	"08007"	51.99
+	"Colorado"	"08"	"Baca County, CO"	"08009"	68.18
+	"Colorado"	"08"	"Bent County, CO"	"08011"	68.31
+	"Colorado"	"08"	"Boulder County, CO"	"08013"	56.17
+	"Colorado"	"08"	"Chaffee County, CO"	"08015"	45.25
+	"Colorado"	"08"	"Cheyenne County, CO"	"08017"	65.22
+	"Colorado"	"08"	"Clear Creek County, CO"	"08019"	42.04
+	"Colorado"	"08"	"Conejos County, CO"	"08021"	51.83
+	"Colorado"	"08"	"Costilla County, CO"	"08023"	52.15
+	"Colorado"	"08"	"Crowley County, CO"	"08025"	67.43
+	"Colorado"	"08"	"Custer County, CO"	"08027"	51.13
+	"Colorado"	"08"	"Delta County, CO"	"08029"	56.92
+	"Colorado"	"08"	"Denver County, CO"	"08031"	63.30
+	"Colorado"	"08"	"Dolores County, CO"	"08033"	50.60
+	"Colorado"	"08"	"Douglas County, CO"	"08035"	57.53
+	"Colorado"	"08"	"Eagle County, CO"	"08037"	46.60
+	"Colorado"	"08"	"Elbert County, CO"	"08039"	60.51
+	"Colorado"	"08"	"El Paso County, CO"	"08041"	60.30
+	"Colorado"	"08"	"Fremont County, CO"	"08043"	56.32
+	"Colorado"	"08"	"Garfield County, CO"	"08045"	51.33
+	"Colorado"	"08"	"Gilpin County, CO"	"08047"	48.20
+	"Colorado"	"08"	"Grand County, CO"	"08049"	44.83
+	"Colorado"	"08"	"Gunnison County, CO"	"08051"	46.10
+	"Colorado"	"08"	"Hinsdale County, CO"	"08053"	41.90
+	"Colorado"	"08"	"Huerfano County, CO"	"08055"	57.40
+	"Colorado"	"08"	"Jackson County, CO"	"08057"	45.80
+	"Colorado"	"08"	"Jefferson County, CO"	"08059"	57.10
+	"Colorado"	"08"	"Kiowa County, CO"	"08061"	66.81
+	"Colorado"	"08"	"Kit Carson County, CO"	"08063"	64.15
+	"Colorado"	"08"	"Lake County, CO"	"08065"	39.29
+	"Colorado"	"08"	"La Plata County, CO"	"08067"	53.36
+	"Colorado"	"08"	"Larimer County, CO"	"08069"	51.29
+	"Colorado"	"08"	"Las Animas County, CO"	"08071"	63.24
+	"Colorado"	"08"	"Lincoln County, CO"	"08073"	63.59
+	"Colorado"	"08"	"Logan County, CO"	"08075"	63.15
+	"Colorado"	"08"	"Mesa County, CO"	"08077"	56.75
+	"Colorado"	"08"	"Mineral County, CO"	"08079"	43.25
+	"Colorado"	"08"	"Moffat County, CO"	"08081"	54.32
+	"Colorado"	"08"	"Montezuma County, CO"	"08083"	58.42
+	"Colorado"	"08"	"Montrose County, CO"	"08085"	56.48
+	"Colorado"	"08"	"Morgan County, CO"	"08087"	64.00
+	"Colorado"	"08"	"Otero County, CO"	"08089"	68.19
+	"Colorado"	"08"	"Ouray County, CO"	"08091"	48.14
+	"Colorado"	"08"	"Park County, CO"	"08093"	46.45
+	"Colorado"	"08"	"Phillips County, CO"	"08095"	63.48
+	"Colorado"	"08"	"Pitkin County, CO"	"08097"	43.32
+	"Colorado"	"08"	"Prowers County, CO"	"08099"	68.49
+	"Colorado"	"08"	"Pueblo County, CO"	"08101"	66.03
+	"Colorado"	"08"	"Rio Blanco County, CO"	"08103"	53.43
+	"Colorado"	"08"	"Rio Grande County, CO"	"08105"	50.99
+	"Colorado"	"08"	"Routt County, CO"	"08107"	48.17
+	"Colorado"	"08"	"Saguache County, CO"	"08109"	49.61
+	"Colorado"	"08"	"San Juan County, CO"	"08111"	39.04
+	"Colorado"	"08"	"San Miguel County, CO"	"08113"	52.06
+	"Colorado"	"08"	"Sedgwick County, CO"	"08115"	63.21
+	"Colorado"	"08"	"Summit County, CO"	"08117"	41.18
+	"Colorado"	"08"	"Teller County, CO"	"08119"	50.28
+	"Colorado"	"08"	"Washington County, CO"	"08121"	63.12
+	"Colorado"	"08"	"Weld County, CO"	"08123"	62.76
+	"Colorado"	"08"	"Yuma County, CO"	"08125"	64.32
+"Total"	"Colorado"	"08"			56.55
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	58.15
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	57.31
+	"Connecticut"	"09"	"Litchfield County, CT"	"09005"	55.25
+	"Connecticut"	"09"	"Middlesex County, CT"	"09007"	56.76
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	57.34
+	"Connecticut"	"09"	"New London County, CT"	"09011"	57.34
+	"Connecticut"	"09"	"Tolland County, CT"	"09013"	56.22
+	"Connecticut"	"09"	"Windham County, CT"	"09015"	56.45
+"Total"	"Connecticut"	"09"			56.81
+	"Delaware"	"10"	"Kent County, DE"	"10001"	61.63
+	"Delaware"	"10"	"New Castle County, DE"	"10003"	61.93
+	"Delaware"	"10"	"Sussex County, DE"	"10005"	61.94
+"Total"	"Delaware"	"10"			61.84
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	63.98
+"Total"	"District of Columbia"	"11"			63.98
+	"Florida"	"12"	"Alachua County, FL"	"12001"	79.24
+	"Florida"	"12"	"Baker County, FL"	"12003"	78.45
+	"Florida"	"12"	"Bay County, FL"	"12005"	76.66
+	"Florida"	"12"	"Bradford County, FL"	"12007"	78.76
+	"Florida"	"12"	"Brevard County, FL"	"12009"	80.58
+	"Florida"	"12"	"Broward County, FL"	"12011"	82.66
+	"Florida"	"12"	"Calhoun County, FL"	"12013"	77.16
+	"Florida"	"12"	"Charlotte County, FL"	"12015"	81.47
+	"Florida"	"12"	"Citrus County, FL"	"12017"	80.02
+	"Florida"	"12"	"Clay County, FL"	"12019"	78.84
+	"Florida"	"12"	"Collier County, FL"	"12021"	82.84
+	"Florida"	"12"	"Columbia County, FL"	"12023"	78.50
+	"Florida"	"12"	"Dade County, FL"	"12025"	82.81
+	"Florida"	"12"	"DeSoto County, FL"	"12027"	82.44
+	"Florida"	"12"	"Dixie County, FL"	"12029"	77.75
+	"Florida"	"12"	"Duval County, FL"	"12031"	78.01
+	"Florida"	"12"	"Escambia County, FL"	"12033"	75.06
+	"Florida"	"12"	"Flagler County, FL"	"12035"	79.29
+	"Florida"	"12"	"Franklin County, FL"	"12037"	75.97
+	"Florida"	"12"	"Gadsden County, FL"	"12039"	76.55
+	"Florida"	"12"	"Gilchrist County, FL"	"12041"	78.74
+	"Florida"	"12"	"Glades County, FL"	"12043"	82.86
+	"Florida"	"12"	"Gulf County, FL"	"12045"	77.29
+	"Florida"	"12"	"Hamilton County, FL"	"12047"	77.87
+	"Florida"	"12"	"Hardee County, FL"	"12049"	82.32
+	"Florida"	"12"	"Hendry County, FL"	"12051"	83.28
+	"Florida"	"12"	"Hernando County, FL"	"12053"	79.73
+	"Florida"	"12"	"Highlands County, FL"	"12055"	82.59
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	81.79
+	"Florida"	"12"	"Holmes County, FL"	"12059"	77.01
+	"Florida"	"12"	"Indian River County, FL"	"12061"	82.09
+	"Florida"	"12"	"Jackson County, FL"	"12063"	77.08
+	"Florida"	"12"	"Jefferson County, FL"	"12065"	77.13
+	"Florida"	"12"	"Lafayette County, FL"	"12067"	78.14
+	"Florida"	"12"	"Lake County, FL"	"12069"	81.16
+	"Florida"	"12"	"Lee County, FL"	"12071"	81.15
+	"Florida"	"12"	"Leon County, FL"	"12073"	76.99
+	"Florida"	"12"	"Levy County, FL"	"12075"	78.70
+	"Florida"	"12"	"Liberty County, FL"	"12077"	76.99
+	"Florida"	"12"	"Madison County, FL"	"12079"	77.54
+	"Florida"	"12"	"Manatee County, FL"	"12081"	81.73
+	"Florida"	"12"	"Marion County, FL"	"12083"	80.14
+	"Florida"	"12"	"Martin County, FL"	"12085"	81.16
+	"Florida"	"12"	"Monroe County, FL"	"12087"	82.27
+	"Florida"	"12"	"Nassau County, FL"	"12089"	78.12
+	"Florida"	"12"	"Okaloosa County, FL"	"12091"	76.24
+	"Florida"	"12"	"Okeechobee County, FL"	"12093"	82.21
+	"Florida"	"12"	"Orange County, FL"	"12095"	81.42
+	"Florida"	"12"	"Osceola County, FL"	"12097"	81.92
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	81.87
+	"Florida"	"12"	"Pasco County, FL"	"12101"	80.65
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	77.20
+	"Florida"	"12"	"Polk County, FL"	"12105"	82.00
+	"Florida"	"12"	"Putnam County, FL"	"12107"	79.55
+	"Florida"	"12"	"St. Johns County, FL"	"12109"	78.57
+	"Florida"	"12"	"St. Lucie County, FL"	"12111"	80.77
+	"Florida"	"12"	"Santa Rosa County, FL"	"12113"	75.53
+	"Florida"	"12"	"Sarasota County, FL"	"12115"	81.33
+	"Florida"	"12"	"Seminole County, FL"	"12117"	81.08
+	"Florida"	"12"	"Sumter County, FL"	"12119"	80.86
+	"Florida"	"12"	"Suwannee County, FL"	"12121"	78.21
+	"Florida"	"12"	"Taylor County, FL"	"12123"	76.67
+	"Florida"	"12"	"Union County, FL"	"12125"	78.64
+	"Florida"	"12"	"Volusia County, FL"	"12127"	80.20
+	"Florida"	"12"	"Wakulla County, FL"	"12129"	76.70
+	"Florida"	"12"	"Walton County, FL"	"12131"	76.71
+	"Florida"	"12"	"Washington County, FL"	"12133"	77.19
+"Total"	"Florida"	"12"			79.88
+	"Georgia"	"13"	"Appling County, GA"	"13001"	76.87
+	"Georgia"	"13"	"Atkinson County, GA"	"13003"	77.05
+	"Georgia"	"13"	"Bacon County, GA"	"13005"	77.16
+	"Georgia"	"13"	"Baker County, GA"	"13007"	76.32
+	"Georgia"	"13"	"Baldwin County, GA"	"13009"	73.75
+	"Georgia"	"13"	"Banks County, GA"	"13011"	69.91
+	"Georgia"	"13"	"Barrow County, GA"	"13013"	70.19
+	"Georgia"	"13"	"Bartow County, GA"	"13015"	69.82
+	"Georgia"	"13"	"Ben Hill County, GA"	"13017"	75.78
+	"Georgia"	"13"	"Berrien County, GA"	"13019"	76.57
+	"Georgia"	"13"	"Bibb County, GA"	"13021"	74.17
+	"Georgia"	"13"	"Bleckley County, GA"	"13023"	74.82
+	"Georgia"	"13"	"Brantley County, GA"	"13025"	77.59
+	"Georgia"	"13"	"Brooks County, GA"	"13027"	76.86
+	"Georgia"	"13"	"Bryan County, GA"	"13029"	76.43
+	"Georgia"	"13"	"Bulloch County, GA"	"13031"	75.94
+	"Georgia"	"13"	"Burke County, GA"	"13033"	74.64
+	"Georgia"	"13"	"Butts County, GA"	"13035"	71.78
+	"Georgia"	"13"	"Calhoun County, GA"	"13037"	75.86
+	"Georgia"	"13"	"Camden County, GA"	"13039"	77.52
+	"Georgia"	"13"	"Candler County, GA"	"13043"	75.91
+	"Georgia"	"13"	"Carroll County, GA"	"13045"	70.11
+	"Georgia"	"13"	"Catoosa County, GA"	"13047"	68.93
+	"Georgia"	"13"	"Charlton County, GA"	"13049"	78.11
+	"Georgia"	"13"	"Chatham County, GA"	"13051"	76.59
+	"Georgia"	"13"	"Chattahoochee County, GA"	"13053"	74.27
+	"Georgia"	"13"	"Chattooga County, GA"	"13055"	69.26
+	"Georgia"	"13"	"Cherokee County, GA"	"13057"	69.02
+	"Georgia"	"13"	"Clarke County, GA"	"13059"	71.29
+	"Georgia"	"13"	"Clay County, GA"	"13061"	75.64
+	"Georgia"	"13"	"Clayton County, GA"	"13063"	70.75
+	"Georgia"	"13"	"Clinch County, GA"	"13065"	77.60
+	"Georgia"	"13"	"Cobb County, GA"	"13067"	69.93
+	"Georgia"	"13"	"Coffee County, GA"	"13069"	76.67
+	"Georgia"	"13"	"Colquitt County, GA"	"13071"	76.16
+	"Georgia"	"13"	"Columbia County, GA"	"13073"	73.34
+	"Georgia"	"13"	"Cook County, GA"	"13075"	76.58
+	"Georgia"	"13"	"Coweta County, GA"	"13077"	71.16
+	"Georgia"	"13"	"Crawford County, GA"	"13079"	73.96
+	"Georgia"	"13"	"Crisp County, GA"	"13081"	75.42
+	"Georgia"	"13"	"Dade County, GA"	"13083"	67.43
+	"Georgia"	"13"	"Dawson County, GA"	"13085"	66.24
+	"Georgia"	"13"	"Decatur County, GA"	"13087"	76.62
+	"Georgia"	"13"	"DeKalb County, GA"	"13089"	70.28
+	"Georgia"	"13"	"Dodge County, GA"	"13091"	75.55
+	"Georgia"	"13"	"Dooly County, GA"	"13093"	75.31
+	"Georgia"	"13"	"Dougherty County, GA"	"13095"	76.00
+	"Georgia"	"13"	"Douglas County, GA"	"13097"	70.33
+	"Georgia"	"13"	"Early County, GA"	"13099"	76.24
+	"Georgia"	"13"	"Echols County, GA"	"13101"	77.55
+	"Georgia"	"13"	"Effingham County, GA"	"13103"	76.28
+	"Georgia"	"13"	"Elbert County, GA"	"13105"	71.68
+	"Georgia"	"13"	"Emanuel County, GA"	"13107"	75.20
+	"Georgia"	"13"	"Evans County, GA"	"13109"	76.46
+	"Georgia"	"13"	"Fannin County, GA"	"13111"	64.02
+	"Georgia"	"13"	"Fayette County, GA"	"13113"	71.08
+	"Georgia"	"13"	"Floyd County, GA"	"13115"	70.39
+	"Georgia"	"13"	"Forsyth County, GA"	"13117"	68.61
+	"Georgia"	"13"	"Franklin County, GA"	"13119"	70.31
+	"Georgia"	"13"	"Fulton County, GA"	"13121"	70.15
+	"Georgia"	"13"	"Gilmer County, GA"	"13123"	65.49
+	"Georgia"	"13"	"Glascock County, GA"	"13125"	73.33
+	"Georgia"	"13"	"Glynn County, GA"	"13127"	76.53
+	"Georgia"	"13"	"Gordon County, GA"	"13129"	69.86
+	"Georgia"	"13"	"Grady County, GA"	"13131"	76.39
+	"Georgia"	"13"	"Greene County, GA"	"13133"	72.32
+	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	69.70
+	"Georgia"	"13"	"Habersham County, GA"	"13137"	66.96
+	"Georgia"	"13"	"Hall County, GA"	"13139"	68.93
+	"Georgia"	"13"	"Hancock County, GA"	"13141"	73.22
+	"Georgia"	"13"	"Haralson County, GA"	"13143"	69.18
+	"Georgia"	"13"	"Harris County, GA"	"13145"	72.36
+	"Georgia"	"13"	"Hart County, GA"	"13147"	70.66
+	"Georgia"	"13"	"Heard County, GA"	"13149"	71.55
+	"Georgia"	"13"	"Henry County, GA"	"13151"	71.18
+	"Georgia"	"13"	"Houston County, GA"	"13153"	74.80
+	"Georgia"	"13"	"Irwin County, GA"	"13155"	76.00
+	"Georgia"	"13"	"Jackson County, GA"	"13157"	70.39
+	"Georgia"	"13"	"Jasper County, GA"	"13159"	72.59
+	"Georgia"	"13"	"Jeff Davis County, GA"	"13161"	76.58
+	"Georgia"	"13"	"Jefferson County, GA"	"13163"	74.23
+	"Georgia"	"13"	"Jenkins County, GA"	"13165"	75.25
+	"Georgia"	"13"	"Johnson County, GA"	"13167"	74.52
+	"Georgia"	"13"	"Jones County, GA"	"13169"	73.53
+	"Georgia"	"13"	"Lamar County, GA"	"13171"	72.32
+	"Georgia"	"13"	"Lanier County, GA"	"13173"	76.92
+	"Georgia"	"13"	"Laurens County, GA"	"13175"	74.99
+	"Georgia"	"13"	"Lee County, GA"	"13177"	75.65
+	"Georgia"	"13"	"Liberty County, GA"	"13179"	76.26
+	"Georgia"	"13"	"Lincoln County, GA"	"13181"	72.78
+	"Georgia"	"13"	"Long County, GA"	"13183"	77.03
+	"Georgia"	"13"	"Lowndes County, GA"	"13185"	77.09
+	"Georgia"	"13"	"Lumpkin County, GA"	"13187"	65.78
+	"Georgia"	"13"	"McDuffie County, GA"	"13189"	72.95
+	"Georgia"	"13"	"McIntosh County, GA"	"13191"	75.83
+	"Georgia"	"13"	"Macon County, GA"	"13193"	74.71
+	"Georgia"	"13"	"Madison County, GA"	"13195"	70.84
+	"Georgia"	"13"	"Marion County, GA"	"13197"	73.83
+	"Georgia"	"13"	"Meriwether County, GA"	"13199"	71.70
+	"Georgia"	"13"	"Miller County, GA"	"13201"	76.51
+	"Georgia"	"13"	"Mitchell County, GA"	"13205"	76.22
+	"Georgia"	"13"	"Monroe County, GA"	"13207"	73.13
+	"Georgia"	"13"	"Montgomery County, GA"	"13209"	76.00
+	"Georgia"	"13"	"Morgan County, GA"	"13211"	72.01
+	"Georgia"	"13"	"Murray County, GA"	"13213"	68.09
+	"Georgia"	"13"	"Muscogee County, GA"	"13215"	74.01
+	"Georgia"	"13"	"Newton County, GA"	"13217"	71.58
+	"Georgia"	"13"	"Oconee County, GA"	"13219"	71.44
+	"Georgia"	"13"	"Oglethorpe County, GA"	"13221"	71.75
+	"Georgia"	"13"	"Paulding County, GA"	"13223"	69.77
+	"Georgia"	"13"	"Peach County, GA"	"13225"	74.52
+	"Georgia"	"13"	"Pickens County, GA"	"13227"	67.56
+	"Georgia"	"13"	"Pierce County, GA"	"13229"	77.47
+	"Georgia"	"13"	"Pike County, GA"	"13231"	71.57
+	"Georgia"	"13"	"Polk County, GA"	"13233"	69.87
+	"Georgia"	"13"	"Pulaski County, GA"	"13235"	75.25
+	"Georgia"	"13"	"Putnam County, GA"	"13237"	73.08
+	"Georgia"	"13"	"Quitman County, GA"	"13239"	75.20
+	"Georgia"	"13"	"Rabun County, GA"	"13241"	63.55
+	"Georgia"	"13"	"Randolph County, GA"	"13243"	75.21
+	"Georgia"	"13"	"Richmond County, GA"	"13245"	73.86
+	"Georgia"	"13"	"Rockdale County, GA"	"13247"	71.14
+	"Georgia"	"13"	"Schley County, GA"	"13249"	74.33
+	"Georgia"	"13"	"Screven County, GA"	"13251"	75.57
+	"Georgia"	"13"	"Seminole County, GA"	"13253"	76.71
+	"Georgia"	"13"	"Spalding County, GA"	"13255"	71.53
+	"Georgia"	"13"	"Stephens County, GA"	"13257"	69.73
+	"Georgia"	"13"	"Stewart County, GA"	"13259"	74.45
+	"Georgia"	"13"	"Sumter County, GA"	"13261"	75.20
+	"Georgia"	"13"	"Talbot County, GA"	"13263"	73.06
+	"Georgia"	"13"	"Taliaferro County, GA"	"13265"	72.54
+	"Georgia"	"13"	"Tattnall County, GA"	"13267"	76.64
+	"Georgia"	"13"	"Taylor County, GA"	"13269"	74.05
+	"Georgia"	"13"	"Telfair County, GA"	"13271"	76.36
+	"Georgia"	"13"	"Terrell County, GA"	"13273"	75.28
+	"Georgia"	"13"	"Thomas County, GA"	"13275"	76.59
+	"Georgia"	"13"	"Tift County, GA"	"13277"	75.97
+	"Georgia"	"13"	"Toombs County, GA"	"13279"	76.12
+	"Georgia"	"13"	"Towns County, GA"	"13281"	62.38
+	"Georgia"	"13"	"Treutlen County, GA"	"13283"	75.46
+	"Georgia"	"13"	"Troup County, GA"	"13285"	71.99
+	"Georgia"	"13"	"Turner County, GA"	"13287"	75.61
+	"Georgia"	"13"	"Twiggs County, GA"	"13289"	74.26
+	"Georgia"	"13"	"Union County, GA"	"13291"	63.17
+	"Georgia"	"13"	"Upson County, GA"	"13293"	72.59
+	"Georgia"	"13"	"Walker County, GA"	"13295"	68.07
+	"Georgia"	"13"	"Walton County, GA"	"13297"	71.01
+	"Georgia"	"13"	"Ware County, GA"	"13299"	77.59
+	"Georgia"	"13"	"Warren County, GA"	"13301"	73.02
+	"Georgia"	"13"	"Washington County, GA"	"13303"	74.08
+	"Georgia"	"13"	"Wayne County, GA"	"13305"	77.20
+	"Georgia"	"13"	"Webster County, GA"	"13307"	74.67
+	"Georgia"	"13"	"Wheeler County, GA"	"13309"	76.24
+	"Georgia"	"13"	"White County, GA"	"13311"	66.09
+	"Georgia"	"13"	"Whitfield County, GA"	"13313"	69.36
+	"Georgia"	"13"	"Wilcox County, GA"	"13315"	75.56
+	"Georgia"	"13"	"Wilkes County, GA"	"13317"	72.43
+	"Georgia"	"13"	"Wilkinson County, GA"	"13319"	74.31
+	"Georgia"	"13"	"Worth County, GA"	"13321"	75.72
+"Total"	"Georgia"	"13"			73.65
+	"Idaho"	"16"	"Ada County, ID"	"16001"	63.24
+	"Idaho"	"16"	"Adams County, ID"	"16003"	52.44
+	"Idaho"	"16"	"Bannock County, ID"	"16005"	54.38
+	"Idaho"	"16"	"Bear Lake County, ID"	"16007"	50.40
+	"Idaho"	"16"	"Benewah County, ID"	"16009"	55.00
+	"Idaho"	"16"	"Bingham County, ID"	"16011"	56.18
+	"Idaho"	"16"	"Blaine County, ID"	"16013"	51.32
+	"Idaho"	"16"	"Boise County, ID"	"16015"	51.84
+	"Idaho"	"16"	"Bonner County, ID"	"16017"	52.62
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	51.85
+	"Idaho"	"16"	"Boundary County, ID"	"16021"	49.46
+	"Idaho"	"16"	"Butte County, ID"	"16023"	52.32
+	"Idaho"	"16"	"Camas County, ID"	"16025"	50.11
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	65.07
+	"Idaho"	"16"	"Caribou County, ID"	"16029"	51.03
+	"Idaho"	"16"	"Cassia County, ID"	"16031"	56.59
+	"Idaho"	"16"	"Clark County, ID"	"16033"	49.84
+	"Idaho"	"16"	"Clearwater County, ID"	"16035"	53.68
+	"Idaho"	"16"	"Custer County, ID"	"16037"	45.15
+	"Idaho"	"16"	"Elmore County, ID"	"16039"	57.19
+	"Idaho"	"16"	"Franklin County, ID"	"16041"	54.63
+	"Idaho"	"16"	"Fremont County, ID"	"16043"	49.83
+	"Idaho"	"16"	"Gem County, ID"	"16045"	60.20
+	"Idaho"	"16"	"Gooding County, ID"	"16047"	60.50
+	"Idaho"	"16"	"Idaho County, ID"	"16049"	50.93
+	"Idaho"	"16"	"Jefferson County, ID"	"16051"	56.19
+	"Idaho"	"16"	"Jerome County, ID"	"16053"	61.37
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	55.04
+	"Idaho"	"16"	"Latah County, ID"	"16057"	56.47
+	"Idaho"	"16"	"Lemhi County, ID"	"16059"	47.08
+	"Idaho"	"16"	"Lewis County, ID"	"16061"	56.28
+	"Idaho"	"16"	"Lincoln County, ID"	"16063"	59.22
+	"Idaho"	"16"	"Madison County, ID"	"16065"	52.96
+	"Idaho"	"16"	"Minidoka County, ID"	"16067"	59.44
+	"Idaho"	"16"	"Nez Perce County, ID"	"16069"	59.85
+	"Idaho"	"16"	"Oneida County, ID"	"16071"	55.61
+	"Idaho"	"16"	"Owyhee County, ID"	"16073"	57.84
+	"Idaho"	"16"	"Payette County, ID"	"16075"	64.36
+	"Idaho"	"16"	"Power County, ID"	"16077"	56.53
+	"Idaho"	"16"	"Shoshone County, ID"	"16079"	50.85
+	"Idaho"	"16"	"Teton County, ID"	"16081"	48.37
+	"Idaho"	"16"	"Twin Falls County, ID"	"16083"	58.53
+	"Idaho"	"16"	"Valley County, ID"	"16085"	47.51
+	"Idaho"	"16"	"Washington County, ID"	"16087"	58.49
+"Total"	"Idaho"	"16"			53.15
+	"Illinois"	"17"	"Adams County, IL"	"17001"	62.21
+	"Illinois"	"17"	"Alexander County, IL"	"17003"	67.06
+	"Illinois"	"17"	"Bond County, IL"	"17005"	64.11
+	"Illinois"	"17"	"Boone County, IL"	"17007"	56.34
+	"Illinois"	"17"	"Brown County, IL"	"17009"	62.39
+	"Illinois"	"17"	"Bureau County, IL"	"17011"	58.90
+	"Illinois"	"17"	"Calhoun County, IL"	"17013"	64.06
+	"Illinois"	"17"	"Carroll County, IL"	"17015"	57.35
+	"Illinois"	"17"	"Cass County, IL"	"17017"	62.46
+	"Illinois"	"17"	"Champaign County, IL"	"17019"	60.64
+	"Illinois"	"17"	"Christian County, IL"	"17021"	62.62
+	"Illinois"	"17"	"Clark County, IL"	"17023"	62.46
+	"Illinois"	"17"	"Clay County, IL"	"17025"	64.16
+	"Illinois"	"17"	"Clinton County, IL"	"17027"	64.82
+	"Illinois"	"17"	"Coles County, IL"	"17029"	62.04
+	"Illinois"	"17"	"Cook County, IL"	"17031"	57.44
+	"Illinois"	"17"	"Crawford County, IL"	"17033"	63.30
+	"Illinois"	"17"	"Cumberland County, IL"	"17035"	62.77
+	"Illinois"	"17"	"DeKalb County, IL"	"17037"	57.10
+	"Illinois"	"17"	"De Witt County, IL"	"17039"	61.01
+	"Illinois"	"17"	"Douglas County, IL"	"17041"	61.68
+	"Illinois"	"17"	"DuPage County, IL"	"17043"	57.23
+	"Illinois"	"17"	"Edgar County, IL"	"17045"	61.57
+	"Illinois"	"17"	"Edwards County, IL"	"17047"	64.68
+	"Illinois"	"17"	"Effingham County, IL"	"17049"	63.32
+	"Illinois"	"17"	"Fayette County, IL"	"17051"	63.59
+	"Illinois"	"17"	"Ford County, IL"	"17053"	59.58
+	"Illinois"	"17"	"Franklin County, IL"	"17055"	65.60
+	"Illinois"	"17"	"Fulton County, IL"	"17057"	61.19
+	"Illinois"	"17"	"Gallatin County, IL"	"17059"	65.82
+	"Illinois"	"17"	"Greene County, IL"	"17061"	63.60
+	"Illinois"	"17"	"Grundy County, IL"	"17063"	59.11
+	"Illinois"	"17"	"Hamilton County, IL"	"17065"	65.40
+	"Illinois"	"17"	"Hancock County, IL"	"17067"	61.47
+	"Illinois"	"17"	"Hardin County, IL"	"17069"	65.71
+	"Illinois"	"17"	"Henderson County, IL"	"17071"	60.49
+	"Illinois"	"17"	"Henry County, IL"	"17073"	59.13
+	"Illinois"	"17"	"Iroquois County, IL"	"17075"	59.56
+	"Illinois"	"17"	"Jackson County, IL"	"17077"	65.80
+	"Illinois"	"17"	"Jasper County, IL"	"17079"	63.40
+	"Illinois"	"17"	"Jefferson County, IL"	"17081"	64.91
+	"Illinois"	"17"	"Jersey County, IL"	"17083"	64.09
+	"Illinois"	"17"	"Jo Daviess County, IL"	"17085"	56.46
+	"Illinois"	"17"	"Johnson County, IL"	"17087"	65.80
+	"Illinois"	"17"	"Kane County, IL"	"17089"	56.97
+	"Illinois"	"17"	"Kankakee County, IL"	"17091"	59.00
+	"Illinois"	"17"	"Kendall County, IL"	"17093"	58.11
+	"Illinois"	"17"	"Knox County, IL"	"17095"	59.93
+	"Illinois"	"17"	"Lake County, IL"	"17097"	55.94
+	"Illinois"	"17"	"LaSalle County, IL"	"17099"	59.06
+	"Illinois"	"17"	"Lawrence County, IL"	"17101"	64.15
+	"Illinois"	"17"	"Lee County, IL"	"17103"	57.89
+	"Illinois"	"17"	"Livingston County, IL"	"17105"	59.46
+	"Illinois"	"17"	"Logan County, IL"	"17107"	61.51
+	"Illinois"	"17"	"McDonough County, IL"	"17109"	61.21
+	"Illinois"	"17"	"McHenry County, IL"	"17111"	55.92
+	"Illinois"	"17"	"McLean County, IL"	"17113"	59.94
+	"Illinois"	"17"	"Macon County, IL"	"17115"	61.64
+	"Illinois"	"17"	"Macoupin County, IL"	"17117"	63.37
+	"Illinois"	"17"	"Madison County, IL"	"17119"	64.47
+	"Illinois"	"17"	"Marion County, IL"	"17121"	64.21
+	"Illinois"	"17"	"Marshall County, IL"	"17123"	59.76
+	"Illinois"	"17"	"Mason County, IL"	"17125"	61.95
+	"Illinois"	"17"	"Massac County, IL"	"17127"	66.67
+	"Illinois"	"17"	"Menard County, IL"	"17129"	62.21
+	"Illinois"	"17"	"Mercer County, IL"	"17131"	59.64
+	"Illinois"	"17"	"Monroe County, IL"	"17133"	65.43
+	"Illinois"	"17"	"Montgomery County, IL"	"17135"	63.15
+	"Illinois"	"17"	"Morgan County, IL"	"17137"	62.66
+	"Illinois"	"17"	"Moultrie County, IL"	"17139"	62.10
+	"Illinois"	"17"	"Ogle County, IL"	"17141"	56.93
+	"Illinois"	"17"	"Peoria County, IL"	"17143"	60.20
+	"Illinois"	"17"	"Perry County, IL"	"17145"	65.44
+	"Illinois"	"17"	"Piatt County, IL"	"17147"	61.25
+	"Illinois"	"17"	"Pike County, IL"	"17149"	62.94
+	"Illinois"	"17"	"Pope County, IL"	"17151"	65.86
+	"Illinois"	"17"	"Pulaski County, IL"	"17153"	66.77
+	"Illinois"	"17"	"Putnam County, IL"	"17155"	59.57
+	"Illinois"	"17"	"Randolph County, IL"	"17157"	65.78
+	"Illinois"	"17"	"Richland County, IL"	"17159"	63.95
+	"Illinois"	"17"	"Rock Island County, IL"	"17161"	59.14
+	"Illinois"	"17"	"St. Clair County, IL"	"17163"	65.14
+	"Illinois"	"17"	"Saline County, IL"	"17165"	65.74
+	"Illinois"	"17"	"Sangamon County, IL"	"17167"	62.60
+	"Illinois"	"17"	"Schuyler County, IL"	"17169"	62.01
+	"Illinois"	"17"	"Scott County, IL"	"17171"	63.03
+	"Illinois"	"17"	"Shelby County, IL"	"17173"	62.55
+	"Illinois"	"17"	"Stark County, IL"	"17175"	59.41
+	"Illinois"	"17"	"Stephenson County, IL"	"17177"	56.17
+	"Illinois"	"17"	"Tazewell County, IL"	"17179"	60.78
+	"Illinois"	"17"	"Union County, IL"	"17181"	65.88
+	"Illinois"	"17"	"Vermilion County, IL"	"17183"	60.68
+	"Illinois"	"17"	"Wabash County, IL"	"17185"	64.69
+	"Illinois"	"17"	"Warren County, IL"	"17187"	60.18
+	"Illinois"	"17"	"Washington County, IL"	"17189"	65.15
+	"Illinois"	"17"	"Wayne County, IL"	"17191"	64.88
+	"Illinois"	"17"	"White County, IL"	"17193"	65.46
+	"Illinois"	"17"	"Whiteside County, IL"	"17195"	58.54
+	"Illinois"	"17"	"Will County, IL"	"17197"	58.30
+	"Illinois"	"17"	"Williamson County, IL"	"17199"	65.63
+	"Illinois"	"17"	"Winnebago County, IL"	"17201"	56.56
+	"Illinois"	"17"	"Woodford County, IL"	"17203"	59.84
+"Total"	"Illinois"	"17"			61.42
+	"Indiana"	"18"	"Adams County, IN"	"18001"	59.23
+	"Indiana"	"18"	"Allen County, IN"	"18003"	58.77
+	"Indiana"	"18"	"Bartholomew County, IN"	"18005"	62.00
+	"Indiana"	"18"	"Benton County, IN"	"18007"	59.66
+	"Indiana"	"18"	"Blackford County, IN"	"18009"	59.36
+	"Indiana"	"18"	"Boone County, IN"	"18011"	60.08
+	"Indiana"	"18"	"Brown County, IN"	"18013"	61.72
+	"Indiana"	"18"	"Carroll County, IN"	"18015"	59.88
+	"Indiana"	"18"	"Cass County, IN"	"18017"	59.25
+	"Indiana"	"18"	"Clark County, IN"	"18019"	63.73
+	"Indiana"	"18"	"Clay County, IN"	"18021"	61.92
+	"Indiana"	"18"	"Clinton County, IN"	"18023"	59.94
+	"Indiana"	"18"	"Crawford County, IN"	"18025"	64.04
+	"Indiana"	"18"	"Daviess County, IN"	"18027"	63.84
+	"Indiana"	"18"	"Dearborn County, IN"	"18029"	61.95
+	"Indiana"	"18"	"Decatur County, IN"	"18031"	61.27
+	"Indiana"	"18"	"De Kalb County, IN"	"18033"	57.64
+	"Indiana"	"18"	"Delaware County, IN"	"18035"	59.47
+	"Indiana"	"18"	"Dubois County, IN"	"18037"	64.49
+	"Indiana"	"18"	"Elkhart County, IN"	"18039"	57.37
+	"Indiana"	"18"	"Fayette County, IN"	"18041"	60.42
+	"Indiana"	"18"	"Floyd County, IN"	"18043"	64.17
+	"Indiana"	"18"	"Fountain County, IN"	"18045"	60.70
+	"Indiana"	"18"	"Franklin County, IN"	"18047"	61.00
+	"Indiana"	"18"	"Fulton County, IN"	"18049"	58.68
+	"Indiana"	"18"	"Gibson County, IN"	"18051"	64.86
+	"Indiana"	"18"	"Grant County, IN"	"18053"	59.47
+	"Indiana"	"18"	"Greene County, IN"	"18055"	62.93
+	"Indiana"	"18"	"Hamilton County, IN"	"18057"	60.34
+	"Indiana"	"18"	"Hancock County, IN"	"18059"	60.46
+	"Indiana"	"18"	"Harrison County, IN"	"18061"	64.28
+	"Indiana"	"18"	"Hendricks County, IN"	"18063"	60.51
+	"Indiana"	"18"	"Henry County, IN"	"18065"	59.52
+	"Indiana"	"18"	"Howard County, IN"	"18067"	59.65
+	"Indiana"	"18"	"Huntington County, IN"	"18069"	59.25
+	"Indiana"	"18"	"Jackson County, IN"	"18071"	62.92
+	"Indiana"	"18"	"Jasper County, IN"	"18073"	58.86
+	"Indiana"	"18"	"Jay County, IN"	"18075"	59.23
+	"Indiana"	"18"	"Jefferson County, IN"	"18077"	62.58
+	"Indiana"	"18"	"Jennings County, IN"	"18079"	62.35
+	"Indiana"	"18"	"Johnson County, IN"	"18081"	61.30
+	"Indiana"	"18"	"Knox County, IN"	"18083"	64.22
+	"Indiana"	"18"	"Kosciusko County, IN"	"18085"	58.17
+	"Indiana"	"18"	"Lagrange County, IN"	"18087"	57.03
+	"Indiana"	"18"	"Lake County, IN"	"18089"	58.25
+	"Indiana"	"18"	"La Porte County, IN"	"18091"	57.53
+	"Indiana"	"18"	"Lawrence County, IN"	"18093"	62.80
+	"Indiana"	"18"	"Madison County, IN"	"18095"	59.85
+	"Indiana"	"18"	"Marion County, IN"	"18097"	60.96
+	"Indiana"	"18"	"Marshall County, IN"	"18099"	58.03
+	"Indiana"	"18"	"Martin County, IN"	"18101"	63.64
+	"Indiana"	"18"	"Miami County, IN"	"18103"	59.10
+	"Indiana"	"18"	"Monroe County, IN"	"18105"	61.69
+	"Indiana"	"18"	"Montgomery County, IN"	"18107"	60.46
+	"Indiana"	"18"	"Morgan County, IN"	"18109"	61.40
+	"Indiana"	"18"	"Newton County, IN"	"18111"	59.21
+	"Indiana"	"18"	"Noble County, IN"	"18113"	57.44
+	"Indiana"	"18"	"Ohio County, IN"	"18115"	62.47
+	"Indiana"	"18"	"Orange County, IN"	"18117"	63.48
+	"Indiana"	"18"	"Owen County, IN"	"18119"	61.80
+	"Indiana"	"18"	"Parke County, IN"	"18121"	61.27
+	"Indiana"	"18"	"Perry County, IN"	"18123"	64.76
+	"Indiana"	"18"	"Pike County, IN"	"18125"	64.58
+	"Indiana"	"18"	"Porter County, IN"	"18127"	58.02
+	"Indiana"	"18"	"Posey County, IN"	"18129"	65.51
+	"Indiana"	"18"	"Pulaski County, IN"	"18131"	59.08
+	"Indiana"	"18"	"Putnam County, IN"	"18133"	60.84
+	"Indiana"	"18"	"Randolph County, IN"	"18135"	59.02
+	"Indiana"	"18"	"Ripley County, IN"	"18137"	61.68
+	"Indiana"	"18"	"Rush County, IN"	"18139"	60.34
+	"Indiana"	"18"	"St. Joseph County, IN"	"18141"	57.49
+	"Indiana"	"18"	"Scott County, IN"	"18143"	63.23
+	"Indiana"	"18"	"Shelby County, IN"	"18145"	61.24
+	"Indiana"	"18"	"Spencer County, IN"	"18147"	65.17
+	"Indiana"	"18"	"Starke County, IN"	"18149"	58.28
+	"Indiana"	"18"	"Steuben County, IN"	"18151"	56.66
+	"Indiana"	"18"	"Sullivan County, IN"	"18153"	63.03
+	"Indiana"	"18"	"Switzerland County, IN"	"18155"	62.73
+	"Indiana"	"18"	"Tippecanoe County, IN"	"18157"	60.24
+	"Indiana"	"18"	"Tipton County, IN"	"18159"	59.84
+	"Indiana"	"18"	"Union County, IN"	"18161"	60.32
+	"Indiana"	"18"	"Vanderburgh County, IN"	"18163"	65.35
+	"Indiana"	"18"	"Vermillion County, IN"	"18165"	61.49
+	"Indiana"	"18"	"Vigo County, IN"	"18167"	62.39
+	"Indiana"	"18"	"Wabash County, IN"	"18169"	59.24
+	"Indiana"	"18"	"Warren County, IN"	"18171"	60.31
+	"Indiana"	"18"	"Warrick County, IN"	"18173"	65.32
+	"Indiana"	"18"	"Washington County, IN"	"18175"	62.87
+	"Indiana"	"18"	"Wayne County, IN"	"18177"	59.44
+	"Indiana"	"18"	"Wells County, IN"	"18179"	59.24
+	"Indiana"	"18"	"White County, IN"	"18181"	59.64
+	"Indiana"	"18"	"Whitley County, IN"	"18183"	58.22
+"Total"	"Indiana"	"18"			60.77
+	"Iowa"	"19"	"Adair County, IA"	"19001"	59.09
+	"Iowa"	"19"	"Adams County, IA"	"19003"	60.03
+	"Iowa"	"19"	"Allamakee County, IA"	"19005"	54.70
+	"Iowa"	"19"	"Appanoose County, IA"	"19007"	60.28
+	"Iowa"	"19"	"Audubon County, IA"	"19009"	58.29
+	"Iowa"	"19"	"Benton County, IA"	"19011"	57.68
+	"Iowa"	"19"	"Black Hawk County, IA"	"19013"	56.85
+	"Iowa"	"19"	"Boone County, IA"	"19015"	57.88
+	"Iowa"	"19"	"Bremer County, IA"	"19017"	55.87
+	"Iowa"	"19"	"Buchanan County, IA"	"19019"	56.49
+	"Iowa"	"19"	"Buena Vista County, IA"	"19021"	56.67
+	"Iowa"	"19"	"Butler County, IA"	"19023"	56.23
+	"Iowa"	"19"	"Calhoun County, IA"	"19025"	57.38
+	"Iowa"	"19"	"Carroll County, IA"	"19027"	57.96
+	"Iowa"	"19"	"Cass County, IA"	"19029"	59.55
+	"Iowa"	"19"	"Cedar County, IA"	"19031"	58.10
+	"Iowa"	"19"	"Cerro Gordo County, IA"	"19033"	55.14
+	"Iowa"	"19"	"Cherokee County, IA"	"19035"	56.87
+	"Iowa"	"19"	"Chickasaw County, IA"	"19037"	54.79
+	"Iowa"	"19"	"Clarke County, IA"	"19039"	59.85
+	"Iowa"	"19"	"Clay County, IA"	"19041"	55.82
+	"Iowa"	"19"	"Clayton County, IA"	"19043"	55.44
+	"Iowa"	"19"	"Clinton County, IA"	"19045"	58.08
+	"Iowa"	"19"	"Crawford County, IA"	"19047"	58.22
+	"Iowa"	"19"	"Dallas County, IA"	"19049"	59.11
+	"Iowa"	"19"	"Davis County, IA"	"19051"	60.40
+	"Iowa"	"19"	"Decatur County, IA"	"19053"	60.53
+	"Iowa"	"19"	"Delaware County, IA"	"19055"	56.07
+	"Iowa"	"19"	"Des Moines County, IA"	"19057"	60.13
+	"Iowa"	"19"	"Dickinson County, IA"	"19059"	55.04
+	"Iowa"	"19"	"Dubuque County, IA"	"19061"	56.14
+	"Iowa"	"19"	"Emmet County, IA"	"19063"	55.00
+	"Iowa"	"19"	"Fayette County, IA"	"19065"	54.99
+	"Iowa"	"19"	"Floyd County, IA"	"19067"	55.35
+	"Iowa"	"19"	"Franklin County, IA"	"19069"	55.85
+	"Iowa"	"19"	"Fremont County, IA"	"19071"	61.88
+	"Iowa"	"19"	"Greene County, IA"	"19073"	58.09
+	"Iowa"	"19"	"Grundy County, IA"	"19075"	56.72
+	"Iowa"	"19"	"Guthrie County, IA"	"19077"	58.68
+	"Iowa"	"19"	"Hamilton County, IA"	"19079"	56.92
+	"Iowa"	"19"	"Hancock County, IA"	"19081"	55.33
+	"Iowa"	"19"	"Hardin County, IA"	"19083"	56.57
+	"Iowa"	"19"	"Harrison County, IA"	"19085"	59.99
+	"Iowa"	"19"	"Henry County, IA"	"19087"	60.31
+	"Iowa"	"19"	"Howard County, IA"	"19089"	53.75
+	"Iowa"	"19"	"Humboldt County, IA"	"19091"	56.67
+	"Iowa"	"19"	"Ida County, IA"	"19093"	57.46
+	"Iowa"	"19"	"Iowa County, IA"	"19095"	58.61
+	"Iowa"	"19"	"Jackson County, IA"	"19097"	57.26
+	"Iowa"	"19"	"Jasper County, IA"	"19099"	58.84
+	"Iowa"	"19"	"Jefferson County, IA"	"19101"	60.04
+	"Iowa"	"19"	"Johnson County, IA"	"19103"	58.83
+	"Iowa"	"19"	"Jones County, IA"	"19105"	57.10
+	"Iowa"	"19"	"Keokuk County, IA"	"19107"	59.57
+	"Iowa"	"19"	"Kossuth County, IA"	"19109"	55.47
+	"Iowa"	"19"	"Lee County, IA"	"19111"	60.99
+	"Iowa"	"19"	"Linn County, IA"	"19113"	57.70
+	"Iowa"	"19"	"Louisa County, IA"	"19115"	59.80
+	"Iowa"	"19"	"Lucas County, IA"	"19117"	59.91
+	"Iowa"	"19"	"Lyon County, IA"	"19119"	56.59
+	"Iowa"	"19"	"Madison County, IA"	"19121"	59.53
+	"Iowa"	"19"	"Mahaska County, IA"	"19123"	59.68
+	"Iowa"	"19"	"Marion County, IA"	"19125"	59.95
+	"Iowa"	"19"	"Marshall County, IA"	"19127"	57.53
+	"Iowa"	"19"	"Mills County, IA"	"19129"	61.26
+	"Iowa"	"19"	"Mitchell County, IA"	"19131"	54.31
+	"Iowa"	"19"	"Monona County, IA"	"19133"	59.47
+	"Iowa"	"19"	"Monroe County, IA"	"19135"	60.05
+	"Iowa"	"19"	"Montgomery County, IA"	"19137"	60.47
+	"Iowa"	"19"	"Muscatine County, IA"	"19139"	59.21
+	"Iowa"	"19"	"O'Brien County, IA"	"19141"	56.15
+	"Iowa"	"19"	"Osceola County, IA"	"19143"	55.12
+	"Iowa"	"19"	"Page County, IA"	"19145"	61.05
+	"Iowa"	"19"	"Palo Alto County, IA"	"19147"	55.94
+	"Iowa"	"19"	"Plymouth County, IA"	"19149"	57.89
+	"Iowa"	"19"	"Pocahontas County, IA"	"19151"	56.72
+	"Iowa"	"19"	"Polk County, IA"	"19153"	59.19
+	"Iowa"	"19"	"Pottawattamie County, IA"	"19155"	60.22
+	"Iowa"	"19"	"Poweshiek County, IA"	"19157"	58.52
+	"Iowa"	"19"	"Ringgold County, IA"	"19159"	60.26
+	"Iowa"	"19"	"Sac County, IA"	"19161"	57.44
+	"Iowa"	"19"	"Scott County, IA"	"19163"	58.76
+	"Iowa"	"19"	"Shelby County, IA"	"19165"	59.04
+	"Iowa"	"19"	"Sioux County, IA"	"19167"	57.05
+	"Iowa"	"19"	"Story County, IA"	"19169"	57.82
+	"Iowa"	"19"	"Tama County, IA"	"19171"	57.63
+	"Iowa"	"19"	"Taylor County, IA"	"19173"	60.43
+	"Iowa"	"19"	"Union County, IA"	"19175"	59.64
+	"Iowa"	"19"	"Van Buren County, IA"	"19177"	60.60
+	"Iowa"	"19"	"Wapello County, IA"	"19179"	60.14
+	"Iowa"	"19"	"Warren County, IA"	"19181"	59.78
+	"Iowa"	"19"	"Washington County, IA"	"19183"	59.47
+	"Iowa"	"19"	"Wayne County, IA"	"19185"	60.26
+	"Iowa"	"19"	"Webster County, IA"	"19187"	57.23
+	"Iowa"	"19"	"Winnebago County, IA"	"19189"	54.61
+	"Iowa"	"19"	"Winneshiek County, IA"	"19191"	54.30
+	"Iowa"	"19"	"Woodbury County, IA"	"19193"	58.55
+	"Iowa"	"19"	"Worth County, IA"	"19195"	54.36
+	"Iowa"	"19"	"Wright County, IA"	"19197"	56.19
+"Total"	"Iowa"	"19"			57.82
+	"Kansas"	"20"	"Allen County, KS"	"20001"	66.61
+	"Kansas"	"20"	"Anderson County, KS"	"20003"	65.87
+	"Kansas"	"20"	"Atchison County, KS"	"20005"	63.85
+	"Kansas"	"20"	"Barber County, KS"	"20007"	69.78
+	"Kansas"	"20"	"Barton County, KS"	"20009"	67.20
+	"Kansas"	"20"	"Bourbon County, KS"	"20011"	66.69
+	"Kansas"	"20"	"Brown County, KS"	"20013"	63.33
+	"Kansas"	"20"	"Butler County, KS"	"20015"	66.98
+	"Kansas"	"20"	"Chase County, KS"	"20017"	66.21
+	"Kansas"	"20"	"Chautauqua County, KS"	"20019"	68.92
+	"Kansas"	"20"	"Cherokee County, KS"	"20021"	68.02
+	"Kansas"	"20"	"Cheyenne County, KS"	"20023"	65.25
+	"Kansas"	"20"	"Clark County, KS"	"20025"	70.24
+	"Kansas"	"20"	"Clay County, KS"	"20027"	65.58
+	"Kansas"	"20"	"Cloud County, KS"	"20029"	65.36
+	"Kansas"	"20"	"Coffey County, KS"	"20031"	66.17
+	"Kansas"	"20"	"Comanche County, KS"	"20033"	69.82
+	"Kansas"	"20"	"Cowley County, KS"	"20035"	68.38
+	"Kansas"	"20"	"Crawford County, KS"	"20037"	67.18
+	"Kansas"	"20"	"Decatur County, KS"	"20039"	65.33
+	"Kansas"	"20"	"Dickinson County, KS"	"20041"	66.44
+	"Kansas"	"20"	"Doniphan County, KS"	"20043"	63.31
+	"Kansas"	"20"	"Douglas County, KS"	"20045"	65.16
+	"Kansas"	"20"	"Edwards County, KS"	"20047"	68.12
+	"Kansas"	"20"	"Elk County, KS"	"20049"	67.97
+	"Kansas"	"20"	"Ellis County, KS"	"20051"	67.01
+	"Kansas"	"20"	"Ellsworth County, KS"	"20053"	66.82
+	"Kansas"	"20"	"Finney County, KS"	"20055"	68.77
+	"Kansas"	"20"	"Ford County, KS"	"20057"	68.40
+	"Kansas"	"20"	"Franklin County, KS"	"20059"	65.55
+	"Kansas"	"20"	"Geary County, KS"	"20061"	65.80
+	"Kansas"	"20"	"Gove County, KS"	"20063"	67.10
+	"Kansas"	"20"	"Graham County, KS"	"20065"	66.33
+	"Kansas"	"20"	"Grant County, KS"	"20067"	70.01
+	"Kansas"	"20"	"Gray County, KS"	"20069"	68.73
+	"Kansas"	"20"	"Greeley County, KS"	"20071"	67.01
+	"Kansas"	"20"	"Greenwood County, KS"	"20073"	66.93
+	"Kansas"	"20"	"Hamilton County, KS"	"20075"	68.58
+	"Kansas"	"20"	"Harper County, KS"	"20077"	69.85
+	"Kansas"	"20"	"Harvey County, KS"	"20079"	67.56
+	"Kansas"	"20"	"Haskell County, KS"	"20081"	69.07
+	"Kansas"	"20"	"Hodgeman County, KS"	"20083"	68.59
+	"Kansas"	"20"	"Jackson County, KS"	"20085"	64.12
+	"Kansas"	"20"	"Jefferson County, KS"	"20087"	64.46
+	"Kansas"	"20"	"Jewell County, KS"	"20089"	64.98
+	"Kansas"	"20"	"Johnson County, KS"	"20091"	64.68
+	"Kansas"	"20"	"Kearny County, KS"	"20093"	68.74
+	"Kansas"	"20"	"Kingman County, KS"	"20095"	68.53
+	"Kansas"	"20"	"Kiowa County, KS"	"20097"	68.48
+	"Kansas"	"20"	"Labette County, KS"	"20099"	68.18
+	"Kansas"	"20"	"Lane County, KS"	"20101"	67.70
+	"Kansas"	"20"	"Leavenworth County, KS"	"20103"	64.64
+	"Kansas"	"20"	"Lincoln County, KS"	"20105"	66.74
+	"Kansas"	"20"	"Linn County, KS"	"20107"	66.00
+	"Kansas"	"20"	"Logan County, KS"	"20109"	67.13
+	"Kansas"	"20"	"Lyon County, KS"	"20111"	66.03
+	"Kansas"	"20"	"McPherson County, KS"	"20113"	66.94
+	"Kansas"	"20"	"Marion County, KS"	"20115"	66.58
+	"Kansas"	"20"	"Marshall County, KS"	"20117"	63.78
+	"Kansas"	"20"	"Meade County, KS"	"20119"	69.82
+	"Kansas"	"20"	"Miami County, KS"	"20121"	65.14
+	"Kansas"	"20"	"Mitchell County, KS"	"20123"	66.16
+	"Kansas"	"20"	"Montgomery County, KS"	"20125"	68.74
+	"Kansas"	"20"	"Morris County, KS"	"20127"	65.51
+	"Kansas"	"20"	"Morton County, KS"	"20129"	70.32
+	"Kansas"	"20"	"Nemaha County, KS"	"20131"	63.21
+	"Kansas"	"20"	"Neosho County, KS"	"20133"	67.40
+	"Kansas"	"20"	"Ness County, KS"	"20135"	67.88
+	"Kansas"	"20"	"Norton County, KS"	"20137"	65.53
+	"Kansas"	"20"	"Osage County, KS"	"20139"	65.49
+	"Kansas"	"20"	"Osborne County, KS"	"20141"	66.22
+	"Kansas"	"20"	"Ottawa County, KS"	"20143"	66.56
+	"Kansas"	"20"	"Pawnee County, KS"	"20145"	67.91
+	"Kansas"	"20"	"Phillips County, KS"	"20147"	65.75
+	"Kansas"	"20"	"Pottawatomie County, KS"	"20149"	64.72
+	"Kansas"	"20"	"Pratt County, KS"	"20151"	68.07
+	"Kansas"	"20"	"Rawlins County, KS"	"20153"	65.27
+	"Kansas"	"20"	"Reno County, KS"	"20155"	67.87
+	"Kansas"	"20"	"Republic County, KS"	"20157"	64.41
+	"Kansas"	"20"	"Rice County, KS"	"20159"	67.29
+	"Kansas"	"20"	"Riley County, KS"	"20161"	65.13
+	"Kansas"	"20"	"Rooks County, KS"	"20163"	66.66
+	"Kansas"	"20"	"Rush County, KS"	"20165"	67.75
+	"Kansas"	"20"	"Russell County, KS"	"20167"	67.09
+	"Kansas"	"20"	"Saline County, KS"	"20169"	67.27
+	"Kansas"	"20"	"Scott County, KS"	"20171"	67.68
+	"Kansas"	"20"	"Sedgwick County, KS"	"20173"	68.40
+	"Kansas"	"20"	"Seward County, KS"	"20175"	70.18
+	"Kansas"	"20"	"Shawnee County, KS"	"20177"	65.25
+	"Kansas"	"20"	"Sheridan County, KS"	"20179"	66.04
+	"Kansas"	"20"	"Sherman County, KS"	"20181"	65.23
+	"Kansas"	"20"	"Smith County, KS"	"20183"	65.58
+	"Kansas"	"20"	"Stafford County, KS"	"20185"	67.88
+	"Kansas"	"20"	"Stanton County, KS"	"20187"	69.87
+	"Kansas"	"20"	"Stevens County, KS"	"20189"	70.27
+	"Kansas"	"20"	"Sumner County, KS"	"20191"	69.36
+	"Kansas"	"20"	"Thomas County, KS"	"20193"	65.60
+	"Kansas"	"20"	"Trego County, KS"	"20195"	67.24
+	"Kansas"	"20"	"Wabaunsee County, KS"	"20197"	64.98
+	"Kansas"	"20"	"Wallace County, KS"	"20199"	66.15
+	"Kansas"	"20"	"Washington County, KS"	"20201"	64.05
+	"Kansas"	"20"	"Wichita County, KS"	"20203"	67.40
+	"Kansas"	"20"	"Wilson County, KS"	"20205"	67.85
+	"Kansas"	"20"	"Woodson County, KS"	"20207"	67.04
+	"Kansas"	"20"	"Wyandotte County, KS"	"20209"	64.75
+"Total"	"Kansas"	"20"			66.97
+	"Kentucky"	"21"	"Adair County, KY"	"21001"	65.19
+	"Kentucky"	"21"	"Allen County, KY"	"21003"	66.15
+	"Kentucky"	"21"	"Anderson County, KY"	"21005"	63.83
+	"Kentucky"	"21"	"Ballard County, KY"	"21007"	67.07
+	"Kentucky"	"21"	"Barren County, KY"	"21009"	65.66
+	"Kentucky"	"21"	"Bath County, KY"	"21011"	63.76
+	"Kentucky"	"21"	"Bell County, KY"	"21013"	63.38
+	"Kentucky"	"21"	"Boone County, KY"	"21015"	62.63
+	"Kentucky"	"21"	"Bourbon County, KY"	"21017"	63.19
+	"Kentucky"	"21"	"Boyd County, KY"	"21019"	63.96
+	"Kentucky"	"21"	"Boyle County, KY"	"21021"	63.84
+	"Kentucky"	"21"	"Bracken County, KY"	"21023"	62.96
+	"Kentucky"	"21"	"Breathitt County, KY"	"21025"	64.55
+	"Kentucky"	"21"	"Breckinridge County, KY"	"21027"	64.74
+	"Kentucky"	"21"	"Bullitt County, KY"	"21029"	64.70
+	"Kentucky"	"21"	"Butler County, KY"	"21031"	65.93
+	"Kentucky"	"21"	"Caldwell County, KY"	"21033"	66.28
+	"Kentucky"	"21"	"Calloway County, KY"	"21035"	67.18
+	"Kentucky"	"21"	"Campbell County, KY"	"21037"	62.83
+	"Kentucky"	"21"	"Carlisle County, KY"	"21039"	67.42
+	"Kentucky"	"21"	"Carroll County, KY"	"21041"	63.17
+	"Kentucky"	"21"	"Carter County, KY"	"21043"	63.39
+	"Kentucky"	"21"	"Casey County, KY"	"21045"	64.45
+	"Kentucky"	"21"	"Christian County, KY"	"21047"	66.37
+	"Kentucky"	"21"	"Clark County, KY"	"21049"	63.72
+	"Kentucky"	"21"	"Clay County, KY"	"21051"	64.42
+	"Kentucky"	"21"	"Clinton County, KY"	"21053"	65.36
+	"Kentucky"	"21"	"Crittenden County, KY"	"21055"	66.11
+	"Kentucky"	"21"	"Cumberland County, KY"	"21057"	65.95
+	"Kentucky"	"21"	"Daviess County, KY"	"21059"	65.59
+	"Kentucky"	"21"	"Edmonson County, KY"	"21061"	65.54
+	"Kentucky"	"21"	"Elliott County, KY"	"21063"	63.51
+	"Kentucky"	"21"	"Estill County, KY"	"21065"	64.40
+	"Kentucky"	"21"	"Fayette County, KY"	"21067"	63.21
+	"Kentucky"	"21"	"Fleming County, KY"	"21069"	63.19
+	"Kentucky"	"21"	"Floyd County, KY"	"21071"	64.58
+	"Kentucky"	"21"	"Franklin County, KY"	"21073"	63.57
+	"Kentucky"	"21"	"Fulton County, KY"	"21075"	68.16
+	"Kentucky"	"21"	"Gallatin County, KY"	"21077"	63.05
+	"Kentucky"	"21"	"Garrard County, KY"	"21079"	64.17
+	"Kentucky"	"21"	"Grant County, KY"	"21081"	62.76
+	"Kentucky"	"21"	"Graves County, KY"	"21083"	67.18
+	"Kentucky"	"21"	"Grayson County, KY"	"21085"	65.02
+	"Kentucky"	"21"	"Green County, KY"	"21087"	65.20
+	"Kentucky"	"21"	"Greenup County, KY"	"21089"	63.67
+	"Kentucky"	"21"	"Hancock County, KY"	"21091"	65.08
+	"Kentucky"	"21"	"Hardin County, KY"	"21093"	64.53
+	"Kentucky"	"21"	"Harlan County, KY"	"21095"	61.77
+	"Kentucky"	"21"	"Harrison County, KY"	"21097"	63.18
+	"Kentucky"	"21"	"Hart County, KY"	"21099"	65.18
+	"Kentucky"	"21"	"Henderson County, KY"	"21101"	65.73
+	"Kentucky"	"21"	"Henry County, KY"	"21103"	63.11
+	"Kentucky"	"21"	"Hickman County, KY"	"21105"	67.79
+	"Kentucky"	"21"	"Hopkins County, KY"	"21107"	66.13
+	"Kentucky"	"21"	"Jackson County, KY"	"21109"	63.78
+	"Kentucky"	"21"	"Jefferson County, KY"	"21111"	64.44
+	"Kentucky"	"21"	"Jessamine County, KY"	"21113"	63.66
+	"Kentucky"	"21"	"Johnson County, KY"	"21115"	64.58
+	"Kentucky"	"21"	"Kenton County, KY"	"21117"	62.60
+	"Kentucky"	"21"	"Knott County, KY"	"21119"	63.78
+	"Kentucky"	"21"	"Knox County, KY"	"21121"	64.60
+	"Kentucky"	"21"	"Larue County, KY"	"21123"	64.48
+	"Kentucky"	"21"	"Laurel County, KY"	"21125"	64.47
+	"Kentucky"	"21"	"Lawrence County, KY"	"21127"	64.43
+	"Kentucky"	"21"	"Lee County, KY"	"21129"	64.32
+	"Kentucky"	"21"	"Leslie County, KY"	"21131"	63.45
+	"Kentucky"	"21"	"Letcher County, KY"	"21133"	62.95
+	"Kentucky"	"21"	"Lewis County, KY"	"21135"	62.92
+	"Kentucky"	"21"	"Lincoln County, KY"	"21137"	63.91
+	"Kentucky"	"21"	"Livingston County, KY"	"21139"	66.65
+	"Kentucky"	"21"	"Logan County, KY"	"21141"	66.37
+	"Kentucky"	"21"	"Lyon County, KY"	"21143"	66.89
+	"Kentucky"	"21"	"McCracken County, KY"	"21145"	66.99
+	"Kentucky"	"21"	"McCreary County, KY"	"21147"	65.27
+	"Kentucky"	"21"	"McLean County, KY"	"21149"	65.84
+	"Kentucky"	"21"	"Madison County, KY"	"21151"	64.09
+	"Kentucky"	"21"	"Magoffin County, KY"	"21153"	64.25
+	"Kentucky"	"21"	"Marion County, KY"	"21155"	64.41
+	"Kentucky"	"21"	"Marshall County, KY"	"21157"	67.11
+	"Kentucky"	"21"	"Martin County, KY"	"21159"	64.44
+	"Kentucky"	"21"	"Mason County, KY"	"21161"	62.90
+	"Kentucky"	"21"	"Meade County, KY"	"21163"	64.66
+	"Kentucky"	"21"	"Menifee County, KY"	"21165"	63.31
+	"Kentucky"	"21"	"Mercer County, KY"	"21167"	63.90
+	"Kentucky"	"21"	"Metcalfe County, KY"	"21169"	65.25
+	"Kentucky"	"21"	"Monroe County, KY"	"21171"	65.81
+	"Kentucky"	"21"	"Montgomery County, KY"	"21173"	63.78
+	"Kentucky"	"21"	"Morgan County, KY"	"21175"	63.80
+	"Kentucky"	"21"	"Muhlenberg County, KY"	"21177"	65.96
+	"Kentucky"	"21"	"Nelson County, KY"	"21179"	64.70
+	"Kentucky"	"21"	"Nicholas County, KY"	"21181"	63.23
+	"Kentucky"	"21"	"Ohio County, KY"	"21183"	65.54
+	"Kentucky"	"21"	"Oldham County, KY"	"21185"	63.65
+	"Kentucky"	"21"	"Owen County, KY"	"21187"	62.86
+	"Kentucky"	"21"	"Owsley County, KY"	"21189"	64.45
+	"Kentucky"	"21"	"Pendleton County, KY"	"21191"	63.04
+	"Kentucky"	"21"	"Perry County, KY"	"21193"	64.19
+	"Kentucky"	"21"	"Pike County, KY"	"21195"	64.06
+	"Kentucky"	"21"	"Powell County, KY"	"21197"	64.01
+	"Kentucky"	"21"	"Pulaski County, KY"	"21199"	64.76
+	"Kentucky"	"21"	"Robertson County, KY"	"21201"	63.13
+	"Kentucky"	"21"	"Rockcastle County, KY"	"21203"	63.93
+	"Kentucky"	"21"	"Rowan County, KY"	"21205"	63.35
+	"Kentucky"	"21"	"Russell County, KY"	"21207"	65.09
+	"Kentucky"	"21"	"Scott County, KY"	"21209"	63.19
+	"Kentucky"	"21"	"Shelby County, KY"	"21211"	63.39
+	"Kentucky"	"21"	"Simpson County, KY"	"21213"	66.15
+	"Kentucky"	"21"	"Spencer County, KY"	"21215"	64.24
+	"Kentucky"	"21"	"Taylor County, KY"	"21217"	64.58
+	"Kentucky"	"21"	"Todd County, KY"	"21219"	66.39
+	"Kentucky"	"21"	"Trigg County, KY"	"21221"	66.93
+	"Kentucky"	"21"	"Trimble County, KY"	"21223"	62.92
+	"Kentucky"	"21"	"Union County, KY"	"21225"	66.02
+	"Kentucky"	"21"	"Warren County, KY"	"21227"	66.16
+	"Kentucky"	"21"	"Washington County, KY"	"21229"	64.33
+	"Kentucky"	"21"	"Wayne County, KY"	"21231"	65.14
+	"Kentucky"	"21"	"Webster County, KY"	"21233"	65.95
+	"Kentucky"	"21"	"Whitley County, KY"	"21235"	65.00
+	"Kentucky"	"21"	"Wolfe County, KY"	"21237"	63.92
+	"Kentucky"	"21"	"Woodford County, KY"	"21239"	63.63
+"Total"	"Kentucky"	"21"			64.75
+	"Louisiana"	"22"	"Acadia Parish, LA"	"22001"	77.07
+	"Louisiana"	"22"	"Allen Parish, LA"	"22003"	77.03
+	"Louisiana"	"22"	"Ascension Parish, LA"	"22005"	77.67
+	"Louisiana"	"22"	"Assumption Parish, LA"	"22007"	77.73
+	"Louisiana"	"22"	"Avoyelles Parish, LA"	"22009"	77.36
+	"Louisiana"	"22"	"Beauregard Parish, LA"	"22011"	77.30
+	"Louisiana"	"22"	"Bienville Parish, LA"	"22013"	76.10
+	"Louisiana"	"22"	"Bossier Parish, LA"	"22015"	76.18
+	"Louisiana"	"22"	"Caddo Parish, LA"	"22017"	76.48
+	"Louisiana"	"22"	"Calcasieu Parish, LA"	"22019"	77.45
+	"Louisiana"	"22"	"Caldwell Parish, LA"	"22021"	76.32
+	"Louisiana"	"22"	"Cameron Parish, LA"	"22023"	76.07
+	"Louisiana"	"22"	"Catahoula Parish, LA"	"22025"	77.09
+	"Louisiana"	"22"	"Claiborne Parish, LA"	"22027"	75.27
+	"Louisiana"	"22"	"Concordia Parish, LA"	"22029"	77.18
+	"Louisiana"	"22"	"De Soto Parish, LA"	"22031"	76.92
+	"Louisiana"	"22"	"East Baton Rouge Parish, LA"	"22033"	77.22
+	"Louisiana"	"22"	"East Carroll Parish, LA"	"22035"	75.33
+	"Louisiana"	"22"	"East Feliciana Parish, LA"	"22037"	76.46
+	"Louisiana"	"22"	"Evangeline Parish, LA"	"22039"	76.94
+	"Louisiana"	"22"	"Franklin Parish, LA"	"22041"	76.47
+	"Louisiana"	"22"	"Grant Parish, LA"	"22043"	76.89
+	"Louisiana"	"22"	"Iberia Parish, LA"	"22045"	76.22
+	"Louisiana"	"22"	"Iberville Parish, LA"	"22047"	77.58
+	"Louisiana"	"22"	"Jackson Parish, LA"	"22049"	75.80
+	"Louisiana"	"22"	"Jefferson Parish, LA"	"22051"	77.72
+	"Louisiana"	"22"	"Jefferson Davis Parish, LA"	"22053"	77.24
+	"Louisiana"	"22"	"Lafayette Parish, LA"	"22055"	77.04
+	"Louisiana"	"22"	"Lafourche Parish, LA"	"22057"	77.32
+	"Louisiana"	"22"	"LaSalle Parish, LA"	"22059"	76.86
+	"Louisiana"	"22"	"Lincoln Parish, LA"	"22061"	75.53
+	"Louisiana"	"22"	"Livingston Parish, LA"	"22063"	77.46
+	"Louisiana"	"22"	"Madison Parish, LA"	"22065"	75.79
+	"Louisiana"	"22"	"Morehouse Parish, LA"	"22067"	75.34
+	"Louisiana"	"22"	"Natchitoches Parish, LA"	"22069"	76.84
+	"Louisiana"	"22"	"Orleans Parish, LA"	"22071"	77.35
+	"Louisiana"	"22"	"Ouachita Parish, LA"	"22073"	76.01
+	"Louisiana"	"22"	"Plaquemines Parish, LA"	"22075"	75.45
+	"Louisiana"	"22"	"Pointe Coupee Parish, LA"	"22077"	77.43
+	"Louisiana"	"22"	"Rapides Parish, LA"	"22079"	76.88
+	"Louisiana"	"22"	"Red River Parish, LA"	"22081"	76.86
+	"Louisiana"	"22"	"Richland Parish, LA"	"22083"	76.03
+	"Louisiana"	"22"	"Sabine Parish, LA"	"22085"	76.83
+	"Louisiana"	"22"	"St. Bernard Parish, LA"	"22087"	75.62
+	"Louisiana"	"22"	"St. Charles Parish, LA"	"22089"	77.87
+	"Louisiana"	"22"	"St. Helena Parish, LA"	"22091"	76.53
+	"Louisiana"	"22"	"St. James Parish, LA"	"22093"	77.73
+	"Louisiana"	"22"	"St. John the Baptist Parish, LA"	"22095"	77.72
+	"Louisiana"	"22"	"St. Landry Parish, LA"	"22097"	77.25
+	"Louisiana"	"22"	"St. Martin Parish, LA"	"22099"	77.41
+	"Louisiana"	"22"	"St. Mary Parish, LA"	"22101"	77.06
+	"Louisiana"	"22"	"St. Tammany Parish, LA"	"22103"	77.09
+	"Louisiana"	"22"	"Tangipahoa Parish, LA"	"22105"	77.03
+	"Louisiana"	"22"	"Tensas Parish, LA"	"22107"	76.56
+	"Louisiana"	"22"	"Terrebonne Parish, LA"	"22109"	77.12
+	"Louisiana"	"22"	"Union Parish, LA"	"22111"	75.41
+	"Louisiana"	"22"	"Vermilion Parish, LA"	"22113"	76.72
+	"Louisiana"	"22"	"Vernon Parish, LA"	"22115"	76.59
+	"Louisiana"	"22"	"Washington Parish, LA"	"22117"	76.38
+	"Louisiana"	"22"	"Webster Parish, LA"	"22119"	75.90
+	"Louisiana"	"22"	"West Baton Rouge Parish, LA"	"22121"	77.50
+	"Louisiana"	"22"	"West Carroll Parish, LA"	"22123"	75.24
+	"Louisiana"	"22"	"West Feliciana Parish, LA"	"22125"	76.97
+	"Louisiana"	"22"	"Winn Parish, LA"	"22127"	76.53
+"Total"	"Louisiana"	"22"			76.70
+	"Maine"	"23"	"Androscoggin County, ME"	"23001"	52.20
+	"Maine"	"23"	"Aroostook County, ME"	"23003"	47.14
+	"Maine"	"23"	"Cumberland County, ME"	"23005"	52.06
+	"Maine"	"23"	"Franklin County, ME"	"23007"	47.14
+	"Maine"	"23"	"Hancock County, ME"	"23009"	51.48
+	"Maine"	"23"	"Kennebec County, ME"	"23011"	52.03
+	"Maine"	"23"	"Knox County, ME"	"23013"	51.69
+	"Maine"	"23"	"Lincoln County, ME"	"23015"	51.42
+	"Maine"	"23"	"Oxford County, ME"	"23017"	49.11
+	"Maine"	"23"	"Penobscot County, ME"	"23019"	50.26
+	"Maine"	"23"	"Piscataquis County, ME"	"23021"	47.57
+	"Maine"	"23"	"Sagadahoc County, ME"	"23023"	51.37
+	"Maine"	"23"	"Somerset County, ME"	"23025"	47.71
+	"Maine"	"23"	"Waldo County, ME"	"23027"	51.66
+	"Maine"	"23"	"Washington County, ME"	"23029"	51.06
+	"Maine"	"23"	"York County, ME"	"23031"	53.12
+"Total"	"Maine"	"23"			49.08
+	"Maryland"	"24"	"Allegany County, MD"	"24001"	59.30
+	"Maryland"	"24"	"Anne Arundel County, MD"	"24003"	60.99
+	"Maryland"	"24"	"Baltimore County, MD"	"24005"	61.62
+	"Maryland"	"24"	"Calvert County, MD"	"24009"	61.15
+	"Maryland"	"24"	"Caroline County, MD"	"24011"	63.24
+	"Maryland"	"24"	"Carroll County, MD"	"24013"	60.82
+	"Maryland"	"24"	"Cecil County, MD"	"24015"	62.35
+	"Maryland"	"24"	"Charles County, MD"	"24017"	65.13
+	"Maryland"	"24"	"Dorchester County, MD"	"24019"	61.65
+	"Maryland"	"24"	"Frederick County, MD"	"24021"	61.60
+	"Maryland"	"24"	"Garrett County, MD"	"24023"	55.30
+	"Maryland"	"24"	"Harford County, MD"	"24025"	61.79
+	"Maryland"	"24"	"Howard County, MD"	"24027"	62.34
+	"Maryland"	"24"	"Kent County, MD"	"24029"	63.00
+	"Maryland"	"24"	"Montgomery County, MD"	"24031"	62.94
+	"Maryland"	"24"	"Prince George's County, MD"	"24033"	63.41
+	"Maryland"	"24"	"Queen Anne's County, MD"	"24035"	63.12
+	"Maryland"	"24"	"St. Mary's County, MD"	"24037"	62.46
+	"Maryland"	"24"	"Somerset County, MD"	"24039"	62.96
+	"Maryland"	"24"	"Talbot County, MD"	"24041"	62.43
+	"Maryland"	"24"	"Washington County, MD"	"24043"	61.46
+	"Maryland"	"24"	"Wicomico County, MD"	"24045"	63.38
+	"Maryland"	"24"	"Worcester County, MD"	"24047"	61.88
+	"Maryland"	"24"	"Baltimore city, MD"	"24510"	62.45
+"Total"	"Maryland"	"24"			61.62
+	"Massachusetts"	"25"	"Barnstable County, MA"	"25001"	53.36
+	"Massachusetts"	"25"	"Berkshire County, MA"	"25003"	52.11
+	"Massachusetts"	"25"	"Bristol County, MA"	"25005"	57.64
+	"Massachusetts"	"25"	"Dukes County, MA"	"25007"	52.70
+	"Massachusetts"	"25"	"Essex County, MA"	"25009"	54.53
+	"Massachusetts"	"25"	"Franklin County, MA"	"25011"	53.83
+	"Massachusetts"	"25"	"Hampden County, MA"	"25013"	55.59
+	"Massachusetts"	"25"	"Hampshire County, MA"	"25015"	54.51
+	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	56.24
+	"Massachusetts"	"25"	"Nantucket County, MA"	"25019"	52.36
+	"Massachusetts"	"25"	"Norfolk County, MA"	"25021"	56.96
+	"Massachusetts"	"25"	"Plymouth County, MA"	"25023"	56.78
+	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	57.14
+	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	54.88
+"Total"	"Massachusetts"	"25"			54.94
+	"Michigan"	"26"	"Alcona County, MI"	"26001"	51.45
+	"Michigan"	"26"	"Alger County, MI"	"26003"	47.62
+	"Michigan"	"26"	"Allegan County, MI"	"26005"	54.72
+	"Michigan"	"26"	"Alpena County, MI"	"26007"	49.84
+	"Michigan"	"26"	"Antrim County, MI"	"26009"	50.74
+	"Michigan"	"26"	"Arenac County, MI"	"26011"	53.17
+	"Michigan"	"26"	"Baraga County, MI"	"26013"	47.50
+	"Michigan"	"26"	"Barry County, MI"	"26015"	55.52
+	"Michigan"	"26"	"Bay County, MI"	"26017"	54.30
+	"Michigan"	"26"	"Benzie County, MI"	"26019"	51.82
+	"Michigan"	"26"	"Berrien County, MI"	"26021"	56.54
+	"Michigan"	"26"	"Branch County, MI"	"26023"	56.31
+	"Michigan"	"26"	"Calhoun County, MI"	"26025"	55.82
+	"Michigan"	"26"	"Cass County, MI"	"26027"	56.65
+	"Michigan"	"26"	"Charlevoix County, MI"	"26029"	49.80
+	"Michigan"	"26"	"Cheboygan County, MI"	"26031"	48.37
+	"Michigan"	"26"	"Chippewa County, MI"	"26033"	48.31
+	"Michigan"	"26"	"Clare County, MI"	"26035"	52.80
+	"Michigan"	"26"	"Clinton County, MI"	"26037"	55.60
+	"Michigan"	"26"	"Crawford County, MI"	"26039"	51.52
+	"Michigan"	"26"	"Delta County, MI"	"26041"	49.90
+	"Michigan"	"26"	"Dickinson County, MI"	"26043"	49.56
+	"Michigan"	"26"	"Eaton County, MI"	"26045"	55.70
+	"Michigan"	"26"	"Emmet County, MI"	"26047"	47.95
+	"Michigan"	"26"	"Genesee County, MI"	"26049"	55.34
+	"Michigan"	"26"	"Gladwin County, MI"	"26051"	53.97
+	"Michigan"	"26"	"Gogebic County, MI"	"26053"	46.92
+	"Michigan"	"26"	"Grand Traverse County, MI"	"26055"	52.18
+	"Michigan"	"26"	"Gratiot County, MI"	"26057"	55.08
+	"Michigan"	"26"	"Hillsdale County, MI"	"26059"	56.06
+	"Michigan"	"26"	"Houghton County, MI"	"26061"	47.55
+	"Michigan"	"26"	"Huron County, MI"	"26063"	53.09
+	"Michigan"	"26"	"Ingham County, MI"	"26065"	55.65
+	"Michigan"	"26"	"Ionia County, MI"	"26067"	55.38
+	"Michigan"	"26"	"Iosco County, MI"	"26069"	53.04
+	"Michigan"	"26"	"Iron County, MI"	"26071"	48.35
+	"Michigan"	"26"	"Isabella County, MI"	"26073"	53.99
+	"Michigan"	"26"	"Jackson County, MI"	"26075"	55.93
+	"Michigan"	"26"	"Kalamazoo County, MI"	"26077"	55.83
+	"Michigan"	"26"	"Kalkaska County, MI"	"26079"	51.90
+	"Michigan"	"26"	"Kent County, MI"	"26081"	55.17
+	"Michigan"	"26"	"Keweenaw County, MI"	"26083"	44.14
+	"Michigan"	"26"	"Lake County, MI"	"26085"	52.80
+	"Michigan"	"26"	"Lapeer County, MI"	"26087"	54.72
+	"Michigan"	"26"	"Leelanau County, MI"	"26089"	49.71
+	"Michigan"	"26"	"Lenawee County, MI"	"26091"	56.88
+	"Michigan"	"26"	"Livingston County, MI"	"26093"	55.59
+	"Michigan"	"26"	"Luce County, MI"	"26095"	47.75
+	"Michigan"	"26"	"Mackinac County, MI"	"26097"	48.37
+	"Michigan"	"26"	"Macomb County, MI"	"26099"	56.38
+	"Michigan"	"26"	"Manistee County, MI"	"26101"	52.59
+	"Michigan"	"26"	"Marquette County, MI"	"26103"	46.90
+	"Michigan"	"26"	"Mason County, MI"	"26105"	52.93
+	"Michigan"	"26"	"Mecosta County, MI"	"26107"	53.43
+	"Michigan"	"26"	"Menominee County, MI"	"26109"	50.07
+	"Michigan"	"26"	"Midland County, MI"	"26111"	54.75
+	"Michigan"	"26"	"Missaukee County, MI"	"26113"	51.88
+	"Michigan"	"26"	"Monroe County, MI"	"26115"	57.78
+	"Michigan"	"26"	"Montcalm County, MI"	"26117"	54.43
+	"Michigan"	"26"	"Montmorency County, MI"	"26119"	51.21
+	"Michigan"	"26"	"Muskegon County, MI"	"26121"	54.00
+	"Michigan"	"26"	"Newaygo County, MI"	"26123"	53.87
+	"Michigan"	"26"	"Oakland County, MI"	"26125"	55.33
+	"Michigan"	"26"	"Oceana County, MI"	"26127"	52.70
+	"Michigan"	"26"	"Ogemaw County, MI"	"26129"	52.60
+	"Michigan"	"26"	"Ontonagon County, MI"	"26131"	47.35
+	"Michigan"	"26"	"Osceola County, MI"	"26133"	52.25
+	"Michigan"	"26"	"Oscoda County, MI"	"26135"	51.60
+	"Michigan"	"26"	"Otsego County, MI"	"26137"	50.35
+	"Michigan"	"26"	"Ottawa County, MI"	"26139"	54.62
+	"Michigan"	"26"	"Presque Isle County, MI"	"26141"	47.80
+	"Michigan"	"26"	"Roscommon County, MI"	"26143"	52.38
+	"Michigan"	"26"	"Saginaw County, MI"	"26145"	55.43
+	"Michigan"	"26"	"St. Clair County, MI"	"26147"	55.66
+	"Michigan"	"26"	"St. Joseph County, MI"	"26149"	56.57
+	"Michigan"	"26"	"Sanilac County, MI"	"26151"	53.82
+	"Michigan"	"26"	"Schoolcraft County, MI"	"26153"	48.51
+	"Michigan"	"26"	"Shiawassee County, MI"	"26155"	55.48
+	"Michigan"	"26"	"Tuscola County, MI"	"26157"	54.49
+	"Michigan"	"26"	"Van Buren County, MI"	"26159"	55.83
+	"Michigan"	"26"	"Washtenaw County, MI"	"26161"	56.25
+	"Michigan"	"26"	"Wayne County, MI"	"26163"	57.27
+	"Michigan"	"26"	"Wexford County, MI"	"26165"	51.75
+"Total"	"Michigan"	"26"			52.10
+	"Minnesota"	"27"	"Aitkin County, MN"	"27001"	50.22
+	"Minnesota"	"27"	"Anoka County, MN"	"27003"	52.72
+	"Minnesota"	"27"	"Becker County, MN"	"27005"	49.75
+	"Minnesota"	"27"	"Beltrami County, MN"	"27007"	49.18
+	"Minnesota"	"27"	"Benton County, MN"	"27009"	51.97
+	"Minnesota"	"27"	"Big Stone County, MN"	"27011"	54.43
+	"Minnesota"	"27"	"Blue Earth County, MN"	"27013"	54.31
+	"Minnesota"	"27"	"Brown County, MN"	"27015"	54.58
+	"Minnesota"	"27"	"Carlton County, MN"	"27017"	49.84
+	"Minnesota"	"27"	"Carver County, MN"	"27019"	53.27
+	"Minnesota"	"27"	"Cass County, MN"	"27021"	50.19
+	"Minnesota"	"27"	"Chippewa County, MN"	"27023"	54.52
+	"Minnesota"	"27"	"Chisago County, MN"	"27025"	52.26
+	"Minnesota"	"27"	"Clay County, MN"	"27027"	51.34
+	"Minnesota"	"27"	"Clearwater County, MN"	"27029"	49.36
+	"Minnesota"	"27"	"Cook County, MN"	"27031"	43.82
+	"Minnesota"	"27"	"Cottonwood County, MN"	"27033"	54.29
+	"Minnesota"	"27"	"Crow Wing County, MN"	"27035"	51.10
+	"Minnesota"	"27"	"Dakota County, MN"	"27037"	53.45
+	"Minnesota"	"27"	"Dodge County, MN"	"27039"	53.11
+	"Minnesota"	"27"	"Douglas County, MN"	"27041"	51.43
+	"Minnesota"	"27"	"Faribault County, MN"	"27043"	54.48
+	"Minnesota"	"27"	"Fillmore County, MN"	"27045"	53.63
+	"Minnesota"	"27"	"Freeborn County, MN"	"27047"	53.74
+	"Minnesota"	"27"	"Goodhue County, MN"	"27049"	53.16
+	"Minnesota"	"27"	"Grant County, MN"	"27051"	52.73
+	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	53.12
+	"Minnesota"	"27"	"Houston County, MN"	"27055"	54.16
+	"Minnesota"	"27"	"Hubbard County, MN"	"27057"	49.72
+	"Minnesota"	"27"	"Isanti County, MN"	"27059"	52.21
+	"Minnesota"	"27"	"Itasca County, MN"	"27061"	49.11
+	"Minnesota"	"27"	"Jackson County, MN"	"27063"	54.58
+	"Minnesota"	"27"	"Kanabec County, MN"	"27065"	51.38
+	"Minnesota"	"27"	"Kandiyohi County, MN"	"27067"	53.10
+	"Minnesota"	"27"	"Kittson County, MN"	"27069"	48.87
+	"Minnesota"	"27"	"Koochiching County, MN"	"27071"	48.67
+	"Minnesota"	"27"	"Lac qui Parle County, MN"	"27073"	55.08
+	"Minnesota"	"27"	"Lake County, MN"	"27075"	46.63
+	"Minnesota"	"27"	"Lake of the Woods County, MN"	"27077"	46.88
+	"Minnesota"	"27"	"Le Sueur County, MN"	"27079"	53.78
+	"Minnesota"	"27"	"Lincoln County, MN"	"27081"	53.96
+	"Minnesota"	"27"	"Lyon County, MN"	"27083"	54.68
+	"Minnesota"	"27"	"McLeod County, MN"	"27085"	53.18
+	"Minnesota"	"27"	"Mahnomen County, MN"	"27087"	49.64
+	"Minnesota"	"27"	"Marshall County, MN"	"27089"	49.05
+	"Minnesota"	"27"	"Martin County, MN"	"27091"	54.61
+	"Minnesota"	"27"	"Meeker County, MN"	"27093"	52.78
+	"Minnesota"	"27"	"Mille Lacs County, MN"	"27095"	51.38
+	"Minnesota"	"27"	"Morrison County, MN"	"27097"	51.59
+	"Minnesota"	"27"	"Mower County, MN"	"27099"	53.32
+	"Minnesota"	"27"	"Murray County, MN"	"27101"	54.17
+	"Minnesota"	"27"	"Nicollet County, MN"	"27103"	54.03
+	"Minnesota"	"27"	"Nobles County, MN"	"27105"	54.44
+	"Minnesota"	"27"	"Norman County, MN"	"27107"	50.82
+	"Minnesota"	"27"	"Olmsted County, MN"	"27109"	53.32
+	"Minnesota"	"27"	"Otter Tail County, MN"	"27111"	50.79
+	"Minnesota"	"27"	"Pennington County, MN"	"27113"	49.20
+	"Minnesota"	"27"	"Pine County, MN"	"27115"	50.91
+	"Minnesota"	"27"	"Pipestone County, MN"	"27117"	54.57
+	"Minnesota"	"27"	"Polk County, MN"	"27119"	50.15
+	"Minnesota"	"27"	"Pope County, MN"	"27121"	52.43
+	"Minnesota"	"27"	"Ramsey County, MN"	"27123"	53.07
+	"Minnesota"	"27"	"Red Lake County, MN"	"27125"	49.56
+	"Minnesota"	"27"	"Redwood County, MN"	"27127"	54.83
+	"Minnesota"	"27"	"Renville County, MN"	"27129"	53.97
+	"Minnesota"	"27"	"Rice County, MN"	"27131"	53.23
+	"Minnesota"	"27"	"Rock County, MN"	"27133"	55.48
+	"Minnesota"	"27"	"Roseau County, MN"	"27135"	47.97
+	"Minnesota"	"27"	"St. Louis County, MN"	"27137"	47.96
+	"Minnesota"	"27"	"Scott County, MN"	"27139"	53.57
+	"Minnesota"	"27"	"Sherburne County, MN"	"27141"	52.60
+	"Minnesota"	"27"	"Sibley County, MN"	"27143"	53.57
+	"Minnesota"	"27"	"Stearns County, MN"	"27145"	52.19
+	"Minnesota"	"27"	"Steele County, MN"	"27147"	53.24
+	"Minnesota"	"27"	"Stevens County, MN"	"27149"	53.51
+	"Minnesota"	"27"	"Swift County, MN"	"27151"	54.10
+	"Minnesota"	"27"	"Todd County, MN"	"27153"	51.32
+	"Minnesota"	"27"	"Traverse County, MN"	"27155"	53.85
+	"Minnesota"	"27"	"Wabasha County, MN"	"27157"	53.41
+	"Minnesota"	"27"	"Wadena County, MN"	"27159"	50.76
+	"Minnesota"	"27"	"Waseca County, MN"	"27161"	53.74
+	"Minnesota"	"27"	"Washington County, MN"	"27163"	52.90
+	"Minnesota"	"27"	"Watonwan County, MN"	"27165"	54.66
+	"Minnesota"	"27"	"Wilkin County, MN"	"27167"	52.68
+	"Minnesota"	"27"	"Winona County, MN"	"27169"	53.46
+	"Minnesota"	"27"	"Wright County, MN"	"27171"	52.78
+	"Minnesota"	"27"	"Yellow Medicine County, MN"	"27173"	54.86
+"Total"	"Minnesota"	"27"			50.96
+	"Mississippi"	"28"	"Adams County, MS"	"28001"	76.38
+	"Mississippi"	"28"	"Alcorn County, MS"	"28003"	70.04
+	"Mississippi"	"28"	"Amite County, MS"	"28005"	75.70
+	"Mississippi"	"28"	"Attala County, MS"	"28007"	73.09
+	"Mississippi"	"28"	"Benton County, MS"	"28009"	69.86
+	"Mississippi"	"28"	"Bolivar County, MS"	"28011"	73.65
+	"Mississippi"	"28"	"Calhoun County, MS"	"28013"	72.07
+	"Mississippi"	"28"	"Carroll County, MS"	"28015"	73.00
+	"Mississippi"	"28"	"Chickasaw County, MS"	"28017"	72.04
+	"Mississippi"	"28"	"Choctaw County, MS"	"28019"	72.35
+	"Mississippi"	"28"	"Claiborne County, MS"	"28021"	75.73
+	"Mississippi"	"28"	"Clarke County, MS"	"28023"	74.31
+	"Mississippi"	"28"	"Clay County, MS"	"28025"	72.73
+	"Mississippi"	"28"	"Coahoma County, MS"	"28027"	72.70
+	"Mississippi"	"28"	"Copiah County, MS"	"28029"	74.99
+	"Mississippi"	"28"	"Covington County, MS"	"28031"	74.95
+	"Mississippi"	"28"	"DeSoto County, MS"	"28033"	71.05
+	"Mississippi"	"28"	"Forrest County, MS"	"28035"	75.90
+	"Mississippi"	"28"	"Franklin County, MS"	"28037"	75.52
+	"Mississippi"	"28"	"George County, MS"	"28039"	76.32
+	"Mississippi"	"28"	"Greene County, MS"	"28041"	76.10
+	"Mississippi"	"28"	"Grenada County, MS"	"28043"	72.72
+	"Mississippi"	"28"	"Hancock County, MS"	"28045"	76.76
+	"Mississippi"	"28"	"Harrison County, MS"	"28047"	76.03
+	"Mississippi"	"28"	"Hinds County, MS"	"28049"	74.84
+	"Mississippi"	"28"	"Holmes County, MS"	"28051"	73.81
+	"Mississippi"	"28"	"Humphreys County, MS"	"28053"	74.44
+	"Mississippi"	"28"	"Issaquena County, MS"	"28055"	74.96
+	"Mississippi"	"28"	"Itawamba County, MS"	"28057"	71.24
+	"Mississippi"	"28"	"Jackson County, MS"	"28059"	76.22
+	"Mississippi"	"28"	"Jasper County, MS"	"28061"	74.05
+	"Mississippi"	"28"	"Jefferson County, MS"	"28063"	75.72
+	"Mississippi"	"28"	"Jefferson Davis County, MS"	"28065"	74.87
+	"Mississippi"	"28"	"Jones County, MS"	"28067"	75.33
+	"Mississippi"	"28"	"Kemper County, MS"	"28069"	73.38
+	"Mississippi"	"28"	"Lafayette County, MS"	"28071"	71.20
+	"Mississippi"	"28"	"Lamar County, MS"	"28073"	75.50
+	"Mississippi"	"28"	"Lauderdale County, MS"	"28075"	73.63
+	"Mississippi"	"28"	"Lawrence County, MS"	"28077"	75.24
+	"Mississippi"	"28"	"Leake County, MS"	"28079"	73.50
+	"Mississippi"	"28"	"Lee County, MS"	"28081"	71.59
+	"Mississippi"	"28"	"Leflore County, MS"	"28083"	73.85
+	"Mississippi"	"28"	"Lincoln County, MS"	"28085"	75.08
+	"Mississippi"	"28"	"Lowndes County, MS"	"28087"	73.10
+	"Mississippi"	"28"	"Madison County, MS"	"28089"	74.17
+	"Mississippi"	"28"	"Marion County, MS"	"28091"	75.63
+	"Mississippi"	"28"	"Marshall County, MS"	"28093"	70.38
+	"Mississippi"	"28"	"Monroe County, MS"	"28095"	72.34
+	"Mississippi"	"28"	"Montgomery County, MS"	"28097"	72.66
+	"Mississippi"	"28"	"Neshoba County, MS"	"28099"	73.17
+	"Mississippi"	"28"	"Newton County, MS"	"28101"	73.58
+	"Mississippi"	"28"	"Noxubee County, MS"	"28103"	73.36
+	"Mississippi"	"28"	"Oktibbeha County, MS"	"28105"	72.79
+	"Mississippi"	"28"	"Panola County, MS"	"28107"	71.73
+	"Mississippi"	"28"	"Pearl River County, MS"	"28109"	76.37
+	"Mississippi"	"28"	"Perry County, MS"	"28111"	76.07
+	"Mississippi"	"28"	"Pike County, MS"	"28113"	75.60
+	"Mississippi"	"28"	"Pontotoc County, MS"	"28115"	71.30
+	"Mississippi"	"28"	"Prentiss County, MS"	"28117"	70.56
+	"Mississippi"	"28"	"Quitman County, MS"	"28119"	72.64
+	"Mississippi"	"28"	"Rankin County, MS"	"28121"	74.32
+	"Mississippi"	"28"	"Scott County, MS"	"28123"	73.73
+	"Mississippi"	"28"	"Sharkey County, MS"	"28125"	74.84
+	"Mississippi"	"28"	"Simpson County, MS"	"28127"	74.49
+	"Mississippi"	"28"	"Smith County, MS"	"28129"	74.23
+	"Mississippi"	"28"	"Stone County, MS"	"28131"	76.33
+	"Mississippi"	"28"	"Sunflower County, MS"	"28133"	73.94
+	"Mississippi"	"28"	"Tallahatchie County, MS"	"28135"	72.94
+	"Mississippi"	"28"	"Tate County, MS"	"28137"	71.33
+	"Mississippi"	"28"	"Tippah County, MS"	"28139"	69.98
+	"Mississippi"	"28"	"Tishomingo County, MS"	"28141"	70.15
+	"Mississippi"	"28"	"Tunica County, MS"	"28143"	71.97
+	"Mississippi"	"28"	"Union County, MS"	"28145"	70.76
+	"Mississippi"	"28"	"Walthall County, MS"	"28147"	75.47
+	"Mississippi"	"28"	"Warren County, MS"	"28149"	75.30
+	"Mississippi"	"28"	"Washington County, MS"	"28151"	74.42
+	"Mississippi"	"28"	"Wayne County, MS"	"28153"	75.27
+	"Mississippi"	"28"	"Webster County, MS"	"28155"	72.30
+	"Mississippi"	"28"	"Wilkinson County, MS"	"28157"	76.43
+	"Mississippi"	"28"	"Winston County, MS"	"28159"	72.70
+	"Mississippi"	"28"	"Yalobusha County, MS"	"28161"	71.94
+	"Mississippi"	"28"	"Yazoo County, MS"	"28163"	74.31
+"Total"	"Mississippi"	"28"			73.78
+	"Missouri"	"29"	"Adair County, MO"	"29001"	61.42
+	"Missouri"	"29"	"Andrew County, MO"	"29003"	62.72
+	"Missouri"	"29"	"Atchison County, MO"	"29005"	62.37
+	"Missouri"	"29"	"Audrain County, MO"	"29007"	63.29
+	"Missouri"	"29"	"Barry County, MO"	"29009"	66.86
+	"Missouri"	"29"	"Barton County, MO"	"29011"	66.96
+	"Missouri"	"29"	"Bates County, MO"	"29013"	65.92
+	"Missouri"	"29"	"Benton County, MO"	"29015"	65.56
+	"Missouri"	"29"	"Bollinger County, MO"	"29017"	66.19
+	"Missouri"	"29"	"Boone County, MO"	"29019"	64.07
+	"Missouri"	"29"	"Buchanan County, MO"	"29021"	63.46
+	"Missouri"	"29"	"Butler County, MO"	"29023"	68.59
+	"Missouri"	"29"	"Caldwell County, MO"	"29025"	63.18
+	"Missouri"	"29"	"Callaway County, MO"	"29027"	63.94
+	"Missouri"	"29"	"Camden County, MO"	"29029"	65.48
+	"Missouri"	"29"	"Cape Girardeau County, MO"	"29031"	66.40
+	"Missouri"	"29"	"Carroll County, MO"	"29033"	63.94
+	"Missouri"	"29"	"Carter County, MO"	"29035"	66.91
+	"Missouri"	"29"	"Cass County, MO"	"29037"	64.91
+	"Missouri"	"29"	"Cedar County, MO"	"29039"	66.43
+	"Missouri"	"29"	"Chariton County, MO"	"29041"	63.73
+	"Missouri"	"29"	"Christian County, MO"	"29043"	66.03
+	"Missouri"	"29"	"Clark County, MO"	"29045"	61.47
+	"Missouri"	"29"	"Clay County, MO"	"29047"	64.07
+	"Missouri"	"29"	"Clinton County, MO"	"29049"	63.29
+	"Missouri"	"29"	"Cole County, MO"	"29051"	65.39
+	"Missouri"	"29"	"Cooper County, MO"	"29053"	64.67
+	"Missouri"	"29"	"Crawford County, MO"	"29055"	64.83
+	"Missouri"	"29"	"Dade County, MO"	"29057"	66.41
+	"Missouri"	"29"	"Dallas County, MO"	"29059"	65.37
+	"Missouri"	"29"	"Daviess County, MO"	"29061"	62.87
+	"Missouri"	"29"	"DeKalb County, MO"	"29063"	62.76
+	"Missouri"	"29"	"Dent County, MO"	"29065"	64.84
+	"Missouri"	"29"	"Douglas County, MO"	"29067"	66.40
+	"Missouri"	"29"	"Dunklin County, MO"	"29069"	69.43
+	"Missouri"	"29"	"Franklin County, MO"	"29071"	64.80
+	"Missouri"	"29"	"Gasconade County, MO"	"29073"	64.50
+	"Missouri"	"29"	"Gentry County, MO"	"29075"	62.16
+	"Missouri"	"29"	"Greene County, MO"	"29077"	65.80
+	"Missouri"	"29"	"Grundy County, MO"	"29079"	62.39
+	"Missouri"	"29"	"Harrison County, MO"	"29081"	61.65
+	"Missouri"	"29"	"Henry County, MO"	"29083"	65.71
+	"Missouri"	"29"	"Hickory County, MO"	"29085"	65.76
+	"Missouri"	"29"	"Holt County, MO"	"29087"	63.04
+	"Missouri"	"29"	"Howard County, MO"	"29089"	64.24
+	"Missouri"	"29"	"Howell County, MO"	"29091"	66.68
+	"Missouri"	"29"	"Iron County, MO"	"29093"	64.81
+	"Missouri"	"29"	"Jackson County, MO"	"29095"	64.46
+	"Missouri"	"29"	"Jasper County, MO"	"29097"	67.13
+	"Missouri"	"29"	"Jefferson County, MO"	"29099"	65.08
+	"Missouri"	"29"	"Johnson County, MO"	"29101"	64.88
+	"Missouri"	"29"	"Knox County, MO"	"29103"	61.78
+	"Missouri"	"29"	"Laclede County, MO"	"29105"	65.05
+	"Missouri"	"29"	"Lafayette County, MO"	"29107"	64.39
+	"Missouri"	"29"	"Lawrence County, MO"	"29109"	66.22
+	"Missouri"	"29"	"Lewis County, MO"	"29111"	62.16
+	"Missouri"	"29"	"Lincoln County, MO"	"29113"	63.88
+	"Missouri"	"29"	"Linn County, MO"	"29115"	62.55
+	"Missouri"	"29"	"Livingston County, MO"	"29117"	63.21
+	"Missouri"	"29"	"McDonald County, MO"	"29119"	68.18
+	"Missouri"	"29"	"Macon County, MO"	"29121"	62.44
+	"Missouri"	"29"	"Madison County, MO"	"29123"	65.60
+	"Missouri"	"29"	"Maries County, MO"	"29125"	65.13
+	"Missouri"	"29"	"Marion County, MO"	"29127"	62.89
+	"Missouri"	"29"	"Mercer County, MO"	"29129"	61.20
+	"Missouri"	"29"	"Miller County, MO"	"29131"	65.35
+	"Missouri"	"29"	"Mississippi County, MO"	"29133"	67.93
+	"Missouri"	"29"	"Moniteau County, MO"	"29135"	64.95
+	"Missouri"	"29"	"Monroe County, MO"	"29137"	63.19
+	"Missouri"	"29"	"Montgomery County, MO"	"29139"	63.68
+	"Missouri"	"29"	"Morgan County, MO"	"29141"	64.76
+	"Missouri"	"29"	"New Madrid County, MO"	"29143"	68.66
+	"Missouri"	"29"	"Newton County, MO"	"29145"	67.52
+	"Missouri"	"29"	"Nodaway County, MO"	"29147"	61.78
+	"Missouri"	"29"	"Oregon County, MO"	"29149"	67.33
+	"Missouri"	"29"	"Osage County, MO"	"29151"	64.98
+	"Missouri"	"29"	"Ozark County, MO"	"29153"	68.35
+	"Missouri"	"29"	"Pemiscot County, MO"	"29155"	69.33
+	"Missouri"	"29"	"Perry County, MO"	"29157"	65.74
+	"Missouri"	"29"	"Pettis County, MO"	"29159"	64.74
+	"Missouri"	"29"	"Phelps County, MO"	"29161"	65.10
+	"Missouri"	"29"	"Pike County, MO"	"29163"	63.25
+	"Missouri"	"29"	"Platte County, MO"	"29165"	64.21
+	"Missouri"	"29"	"Polk County, MO"	"29167"	65.90
+	"Missouri"	"29"	"Pulaski County, MO"	"29169"	65.37
+	"Missouri"	"29"	"Putnam County, MO"	"29171"	60.73
+	"Missouri"	"29"	"Ralls County, MO"	"29173"	63.04
+	"Missouri"	"29"	"Randolph County, MO"	"29175"	63.40
+	"Missouri"	"29"	"Ray County, MO"	"29177"	63.90
+	"Missouri"	"29"	"Reynolds County, MO"	"29179"	65.50
+	"Missouri"	"29"	"Ripley County, MO"	"29181"	67.93
+	"Missouri"	"29"	"St. Charles County, MO"	"29183"	64.63
+	"Missouri"	"29"	"St. Clair County, MO"	"29185"	66.29
+	"Missouri"	"29"	"Ste. Genevieve County, MO"	"29186"	65.20
+	"Missouri"	"29"	"St. Francois County, MO"	"29187"	64.71
+	"Missouri"	"29"	"St. Louis County, MO"	"29189"	64.87
+	"Missouri"	"29"	"Saline County, MO"	"29195"	64.47
+	"Missouri"	"29"	"Schuyler County, MO"	"29197"	60.74
+	"Missouri"	"29"	"Scotland County, MO"	"29199"	61.29
+	"Missouri"	"29"	"Scott County, MO"	"29201"	67.33
+	"Missouri"	"29"	"Shannon County, MO"	"29203"	65.99
+	"Missouri"	"29"	"Shelby County, MO"	"29205"	62.40
+	"Missouri"	"29"	"Stoddard County, MO"	"29207"	68.00
+	"Missouri"	"29"	"Stone County, MO"	"29209"	67.31
+	"Missouri"	"29"	"Sullivan County, MO"	"29211"	61.53
+	"Missouri"	"29"	"Taney County, MO"	"29213"	67.85
+	"Missouri"	"29"	"Texas County, MO"	"29215"	65.13
+	"Missouri"	"29"	"Vernon County, MO"	"29217"	66.77
+	"Missouri"	"29"	"Warren County, MO"	"29219"	63.88
+	"Missouri"	"29"	"Washington County, MO"	"29221"	64.75
+	"Missouri"	"29"	"Wayne County, MO"	"29223"	67.00
+	"Missouri"	"29"	"Webster County, MO"	"29225"	64.95
+	"Missouri"	"29"	"Worth County, MO"	"29227"	61.35
+	"Missouri"	"29"	"Wright County, MO"	"29229"	65.01
+	"Missouri"	"29"	"St. Louis city, MO"	"29510"	65.09
+"Total"	"Missouri"	"29"			64.86
+	"Montana"	"30"	"Beaverhead County, MT"	"30001"	45.80
+	"Montana"	"30"	"Big Horn County, MT"	"30003"	57.55
+	"Montana"	"30"	"Blaine County, MT"	"30005"	54.11
+	"Montana"	"30"	"Broadwater County, MT"	"30007"	52.90
+	"Montana"	"30"	"Carbon County, MT"	"30009"	52.25
+	"Montana"	"30"	"Carter County, MT"	"30011"	57.23
+	"Montana"	"30"	"Cascade County, MT"	"30013"	53.59
+	"Montana"	"30"	"Chouteau County, MT"	"30015"	55.84
+	"Montana"	"30"	"Custer County, MT"	"30017"	58.03
+	"Montana"	"30"	"Daniels County, MT"	"30019"	52.39
+	"Montana"	"30"	"Dawson County, MT"	"30021"	55.46
+	"Montana"	"30"	"Deer Lodge County, MT"	"30023"	46.12
+	"Montana"	"30"	"Fallon County, MT"	"30025"	56.12
+	"Montana"	"30"	"Fergus County, MT"	"30027"	54.82
+	"Montana"	"30"	"Flathead County, MT"	"30029"	47.46
+	"Montana"	"30"	"Gallatin County, MT"	"30031"	48.69
+	"Montana"	"30"	"Garfield County, MT"	"30033"	56.80
+	"Montana"	"30"	"Glacier County, MT"	"30035"	48.15
+	"Montana"	"30"	"Golden Valley County, MT"	"30037"	55.90
+	"Montana"	"30"	"Granite County, MT"	"30039"	47.52
+	"Montana"	"30"	"Hill County, MT"	"30041"	54.43
+	"Montana"	"30"	"Jefferson County, MT"	"30043"	49.59
+	"Montana"	"30"	"Judith Basin County, MT"	"30045"	51.17
+	"Montana"	"30"	"Lake County, MT"	"30047"	52.11
+	"Montana"	"30"	"Lewis and Clark County, MT"	"30049"	49.41
+	"Montana"	"30"	"Liberty County, MT"	"30051"	54.24
+	"Montana"	"30"	"Lincoln County, MT"	"30053"	49.29
+	"Montana"	"30"	"McCone County, MT"	"30055"	55.53
+	"Montana"	"30"	"Madison County, MT"	"30057"	47.39
+	"Montana"	"30"	"Meagher County, MT"	"30059"	48.67
+	"Montana"	"30"	"Mineral County, MT"	"30061"	50.02
+	"Montana"	"30"	"Missoula County, MT"	"30063"	50.36
+	"Montana"	"30"	"Musselshell County, MT"	"30065"	57.76
+	"Montana"	"30"	"Park County, MT"	"30067"	46.10
+	"Montana"	"30"	"Petroleum County, MT"	"30069"	57.91
+	"Montana"	"30"	"Phillips County, MT"	"30071"	54.84
+	"Montana"	"30"	"Pondera County, MT"	"30073"	52.72
+	"Montana"	"30"	"Powder River County, MT"	"30075"	58.30
+	"Montana"	"30"	"Powell County, MT"	"30077"	48.55
+	"Montana"	"30"	"Prairie County, MT"	"30079"	56.55
+	"Montana"	"30"	"Ravalli County, MT"	"30081"	48.40
+	"Montana"	"30"	"Richland County, MT"	"30083"	54.75
+	"Montana"	"30"	"Roosevelt County, MT"	"30085"	53.67
+	"Montana"	"30"	"Rosebud County, MT"	"30087"	58.21
+	"Montana"	"30"	"Sanders County, MT"	"30089"	51.44
+	"Montana"	"30"	"Sheridan County, MT"	"30091"	52.63
+	"Montana"	"30"	"Silver Bow County, MT"	"30093"	47.66
+	"Montana"	"30"	"Stillwater County, MT"	"30095"	53.89
+	"Montana"	"30"	"Sweet Grass County, MT"	"30097"	50.67
+	"Montana"	"30"	"Teton County, MT"	"30099"	51.69
+	"Montana"	"30"	"Toole County, MT"	"30101"	53.59
+	"Montana"	"30"	"Treasure County, MT"	"30103"	58.91
+	"Montana"	"30"	"Valley County, MT"	"30105"	54.08
+	"Montana"	"30"	"Wheatland County, MT"	"30107"	53.26
+	"Montana"	"30"	"Wibaux County, MT"	"30109"	54.93
+	"Montana"	"30"	"Yellowstone County, MT"	"30111"	58.93
+	"Montana"	"30"	"Yellowstone National Park, MT"	"30113"	44.19
+"Total"	"Montana"	"30"			52.94
+	"Nebraska"	"31"	"Adams County, NE"	"31001"	63.07
+	"Nebraska"	"31"	"Antelope County, NE"	"31003"	59.63
+	"Nebraska"	"31"	"Arthur County, NE"	"31005"	60.76
+	"Nebraska"	"31"	"Banner County, NE"	"31007"	61.20
+	"Nebraska"	"31"	"Blaine County, NE"	"31009"	60.38
+	"Nebraska"	"31"	"Boone County, NE"	"31011"	60.28
+	"Nebraska"	"31"	"Box Butte County, NE"	"31013"	60.29
+	"Nebraska"	"31"	"Boyd County, NE"	"31015"	59.84
+	"Nebraska"	"31"	"Brown County, NE"	"31017"	59.54
+	"Nebraska"	"31"	"Buffalo County, NE"	"31019"	62.74
+	"Nebraska"	"31"	"Burt County, NE"	"31021"	60.07
+	"Nebraska"	"31"	"Butler County, NE"	"31023"	60.94
+	"Nebraska"	"31"	"Cass County, NE"	"31025"	61.62
+	"Nebraska"	"31"	"Cedar County, NE"	"31027"	59.03
+	"Nebraska"	"31"	"Chase County, NE"	"31029"	64.26
+	"Nebraska"	"31"	"Cherry County, NE"	"31031"	59.38
+	"Nebraska"	"31"	"Cheyenne County, NE"	"31033"	61.92
+	"Nebraska"	"31"	"Clay County, NE"	"31035"	62.77
+	"Nebraska"	"31"	"Colfax County, NE"	"31037"	60.42
+	"Nebraska"	"31"	"Cuming County, NE"	"31039"	59.72
+	"Nebraska"	"31"	"Custer County, NE"	"31041"	61.20
+	"Nebraska"	"31"	"Dakota County, NE"	"31043"	59.11
+	"Nebraska"	"31"	"Dawes County, NE"	"31045"	60.37
+	"Nebraska"	"31"	"Dawson County, NE"	"31047"	62.74
+	"Nebraska"	"31"	"Deuel County, NE"	"31049"	62.80
+	"Nebraska"	"31"	"Dixon County, NE"	"31051"	59.00
+	"Nebraska"	"31"	"Dodge County, NE"	"31053"	60.52
+	"Nebraska"	"31"	"Douglas County, NE"	"31055"	61.23
+	"Nebraska"	"31"	"Dundy County, NE"	"31057"	64.98
+	"Nebraska"	"31"	"Fillmore County, NE"	"31059"	62.42
+	"Nebraska"	"31"	"Franklin County, NE"	"31061"	64.00
+	"Nebraska"	"31"	"Frontier County, NE"	"31063"	63.71
+	"Nebraska"	"31"	"Furnas County, NE"	"31065"	64.76
+	"Nebraska"	"31"	"Gage County, NE"	"31067"	62.73
+	"Nebraska"	"31"	"Garden County, NE"	"31069"	61.56
+	"Nebraska"	"31"	"Garfield County, NE"	"31071"	60.06
+	"Nebraska"	"31"	"Gosper County, NE"	"31073"	63.43
+	"Nebraska"	"31"	"Grant County, NE"	"31075"	59.60
+	"Nebraska"	"31"	"Greeley County, NE"	"31077"	60.83
+	"Nebraska"	"31"	"Hall County, NE"	"31079"	62.49
+	"Nebraska"	"31"	"Hamilton County, NE"	"31081"	62.32
+	"Nebraska"	"31"	"Harlan County, NE"	"31083"	64.47
+	"Nebraska"	"31"	"Hayes County, NE"	"31085"	63.88
+	"Nebraska"	"31"	"Hitchcock County, NE"	"31087"	65.08
+	"Nebraska"	"31"	"Holt County, NE"	"31089"	59.51
+	"Nebraska"	"31"	"Hooker County, NE"	"31091"	59.97
+	"Nebraska"	"31"	"Howard County, NE"	"31093"	62.15
+	"Nebraska"	"31"	"Jefferson County, NE"	"31095"	63.16
+	"Nebraska"	"31"	"Johnson County, NE"	"31097"	62.45
+	"Nebraska"	"31"	"Kearney County, NE"	"31099"	63.11
+	"Nebraska"	"31"	"Keith County, NE"	"31101"	62.78
+	"Nebraska"	"31"	"Keya Paha County, NE"	"31103"	59.45
+	"Nebraska"	"31"	"Kimball County, NE"	"31105"	60.83
+	"Nebraska"	"31"	"Knox County, NE"	"31107"	59.55
+	"Nebraska"	"31"	"Lancaster County, NE"	"31109"	62.18
+	"Nebraska"	"31"	"Lincoln County, NE"	"31111"	62.61
+	"Nebraska"	"31"	"Logan County, NE"	"31113"	60.89
+	"Nebraska"	"31"	"Loup County, NE"	"31115"	60.14
+	"Nebraska"	"31"	"McPherson County, NE"	"31117"	60.84
+	"Nebraska"	"31"	"Madison County, NE"	"31119"	59.89
+	"Nebraska"	"31"	"Merrick County, NE"	"31121"	61.96
+	"Nebraska"	"31"	"Morrill County, NE"	"31123"	61.96
+	"Nebraska"	"31"	"Nance County, NE"	"31125"	61.25
+	"Nebraska"	"31"	"Nemaha County, NE"	"31127"	62.73
+	"Nebraska"	"31"	"Nuckolls County, NE"	"31129"	63.65
+	"Nebraska"	"31"	"Otoe County, NE"	"31131"	62.26
+	"Nebraska"	"31"	"Pawnee County, NE"	"31133"	62.63
+	"Nebraska"	"31"	"Perkins County, NE"	"31135"	63.16
+	"Nebraska"	"31"	"Phelps County, NE"	"31137"	63.23
+	"Nebraska"	"31"	"Pierce County, NE"	"31139"	59.22
+	"Nebraska"	"31"	"Platte County, NE"	"31141"	60.78
+	"Nebraska"	"31"	"Polk County, NE"	"31143"	61.34
+	"Nebraska"	"31"	"Red Willow County, NE"	"31145"	65.07
+	"Nebraska"	"31"	"Richardson County, NE"	"31147"	63.20
+	"Nebraska"	"31"	"Rock County, NE"	"31149"	59.27
+	"Nebraska"	"31"	"Saline County, NE"	"31151"	62.40
+	"Nebraska"	"31"	"Sarpy County, NE"	"31153"	61.53
+	"Nebraska"	"31"	"Saunders County, NE"	"31155"	61.31
+	"Nebraska"	"31"	"Scotts Bluff County, NE"	"31157"	62.62
+	"Nebraska"	"31"	"Seward County, NE"	"31159"	61.68
+	"Nebraska"	"31"	"Sheridan County, NE"	"31161"	59.62
+	"Nebraska"	"31"	"Sherman County, NE"	"31163"	61.88
+	"Nebraska"	"31"	"Sioux County, NE"	"31165"	60.03
+	"Nebraska"	"31"	"Stanton County, NE"	"31167"	59.79
+	"Nebraska"	"31"	"Thayer County, NE"	"31169"	63.37
+	"Nebraska"	"31"	"Thomas County, NE"	"31171"	60.24
+	"Nebraska"	"31"	"Thurston County, NE"	"31173"	59.24
+	"Nebraska"	"31"	"Valley County, NE"	"31175"	60.99
+	"Nebraska"	"31"	"Washington County, NE"	"31177"	60.78
+	"Nebraska"	"31"	"Wayne County, NE"	"31179"	59.18
+	"Nebraska"	"31"	"Webster County, NE"	"31181"	63.89
+	"Nebraska"	"31"	"Wheeler County, NE"	"31183"	59.79
+	"Nebraska"	"31"	"York County, NE"	"31185"	62.00
+"Total"	"Nebraska"	"31"			61.28
+	"Nevada"	"32"	"Churchill County, NV"	"32001"	62.97
+	"Nevada"	"32"	"Clark County, NV"	"32003"	74.63
+	"Nevada"	"32"	"Douglas County, NV"	"32005"	57.69
+	"Nevada"	"32"	"Elko County, NV"	"32007"	55.34
+	"Nevada"	"32"	"Esmeralda County, NV"	"32009"	62.14
+	"Nevada"	"32"	"Eureka County, NV"	"32011"	57.22
+	"Nevada"	"32"	"Humboldt County, NV"	"32013"	57.63
+	"Nevada"	"32"	"Lander County, NV"	"32015"	57.81
+	"Nevada"	"32"	"Lincoln County, NV"	"32017"	64.71
+	"Nevada"	"32"	"Lyon County, NV"	"32019"	60.80
+	"Nevada"	"32"	"Mineral County, NV"	"32021"	59.99
+	"Nevada"	"32"	"Nye County, NV"	"32023"	61.61
+	"Nevada"	"32"	"Pershing County, NV"	"32027"	60.44
+	"Nevada"	"32"	"Storey County, NV"	"32029"	60.14
+	"Nevada"	"32"	"Washoe County, NV"	"32031"	57.79
+	"Nevada"	"32"	"White Pine County, NV"	"32033"	55.73
+	"Nevada"	"32"	"Carson City, NV"	"32510"	59.25
+"Total"	"Nevada"	"32"			60.29
+	"New Hampshire"	"33"	"Belknap County, NH"	"33001"	52.21
+	"New Hampshire"	"33"	"Carroll County, NH"	"33003"	50.67
+	"New Hampshire"	"33"	"Cheshire County, NH"	"33005"	52.59
+	"New Hampshire"	"33"	"Coos County, NH"	"33007"	46.62
+	"New Hampshire"	"33"	"Grafton County, NH"	"33009"	48.77
+	"New Hampshire"	"33"	"Hillsborough County, NH"	"33011"	53.79
+	"New Hampshire"	"33"	"Merrimack County, NH"	"33013"	53.09
+	"New Hampshire"	"33"	"Rockingham County, NH"	"33015"	54.68
+	"New Hampshire"	"33"	"Strafford County, NH"	"33017"	53.69
+	"New Hampshire"	"33"	"Sullivan County, NH"	"33019"	51.39
+"Total"	"New Hampshire"	"33"			50.70
+	"New Jersey"	"34"	"Atlantic County, NJ"	"34001"	62.05
+	"New Jersey"	"34"	"Bergen County, NJ"	"34003"	59.62
+	"New Jersey"	"34"	"Burlington County, NJ"	"34005"	61.78
+	"New Jersey"	"34"	"Camden County, NJ"	"34007"	62.26
+	"New Jersey"	"34"	"Cape May County, NJ"	"34009"	58.91
+	"New Jersey"	"34"	"Cumberland County, NJ"	"34011"	61.37
+	"New Jersey"	"34"	"Essex County, NJ"	"34013"	59.98
+	"New Jersey"	"34"	"Gloucester County, NJ"	"34015"	62.37
+	"New Jersey"	"34"	"Hudson County, NJ"	"34017"	60.35
+	"New Jersey"	"34"	"Hunterdon County, NJ"	"34019"	59.49
+	"New Jersey"	"34"	"Mercer County, NJ"	"34021"	61.04
+	"New Jersey"	"34"	"Middlesex County, NJ"	"34023"	60.73
+	"New Jersey"	"34"	"Monmouth County, NJ"	"34025"	60.01
+	"New Jersey"	"34"	"Morris County, NJ"	"34027"	58.15
+	"New Jersey"	"34"	"Ocean County, NJ"	"34029"	61.24
+	"New Jersey"	"34"	"Passaic County, NJ"	"34031"	57.91
+	"New Jersey"	"34"	"Salem County, NJ"	"34033"	61.72
+	"New Jersey"	"34"	"Somerset County, NJ"	"34035"	60.21
+	"New Jersey"	"34"	"Sussex County, NJ"	"34037"	57.02
+	"New Jersey"	"34"	"Union County, NJ"	"34039"	60.17
+	"New Jersey"	"34"	"Warren County, NJ"	"34041"	58.21
+"Total"	"New Jersey"	"34"			60.31
+	"New Mexico"	"35"	"Bernalillo County, NM"	"35001"	66.13
+	"New Mexico"	"35"	"Catron County, NM"	"35003"	61.14
+	"New Mexico"	"35"	"Chaves County, NM"	"35005"	73.65
+	"New Mexico"	"35"	"Cibola County, NM"	"35006"	60.99
+	"New Mexico"	"35"	"Colfax County, NM"	"35007"	58.25
+	"New Mexico"	"35"	"Curry County, NM"	"35009"	71.05
+	"New Mexico"	"35"	"DeBaca County, NM"	"35011"	72.52
+	"New Mexico"	"35"	"Dona Ana County, NM"	"35013"	74.25
+	"New Mexico"	"35"	"Eddy County, NM"	"35015"	75.94
+	"New Mexico"	"35"	"Grant County, NM"	"35017"	68.06
+	"New Mexico"	"35"	"Guadalupe County, NM"	"35019"	69.31
+	"New Mexico"	"35"	"Harding County, NM"	"35021"	68.11
+	"New Mexico"	"35"	"Hidalgo County, NM"	"35023"	73.23
+	"New Mexico"	"35"	"Lea County, NM"	"35025"	74.88
+	"New Mexico"	"35"	"Lincoln County, NM"	"35027"	66.88
+	"New Mexico"	"35"	"Los Alamos County, NM"	"35028"	56.29
+	"New Mexico"	"35"	"Luna County, NM"	"35029"	74.21
+	"New Mexico"	"35"	"McKinley County, NM"	"35031"	60.89
+	"New Mexico"	"35"	"Mora County, NM"	"35033"	60.16
+	"New Mexico"	"35"	"Otero County, NM"	"35035"	70.19
+	"New Mexico"	"35"	"Quay County, NM"	"35037"	71.15
+	"New Mexico"	"35"	"Rio Arriba County, NM"	"35039"	56.16
+	"New Mexico"	"35"	"Roosevelt County, NM"	"35041"	72.20
+	"New Mexico"	"35"	"Sandoval County, NM"	"35043"	61.29
+	"New Mexico"	"35"	"San Juan County, NM"	"35045"	62.78
+	"New Mexico"	"35"	"San Miguel County, NM"	"35047"	65.01
+	"New Mexico"	"35"	"Santa Fe County, NM"	"35049"	61.65
+	"New Mexico"	"35"	"Sierra County, NM"	"35051"	69.31
+	"New Mexico"	"35"	"Socorro County, NM"	"35053"	67.00
+	"New Mexico"	"35"	"Taos County, NM"	"35055"	53.38
+	"New Mexico"	"35"	"Torrance County, NM"	"35057"	63.84
+	"New Mexico"	"35"	"Union County, NM"	"35059"	65.88
+	"New Mexico"	"35"	"Valencia County, NM"	"35061"	69.26
+"Total"	"New Mexico"	"35"			66.61
+	"New York"	"36"	"Albany County, NY"	"36001"	54.06
+	"New York"	"36"	"Allegany County, NY"	"36003"	52.15
+	"New York"	"36"	"Bronx County, NY"	"36005"	60.40
+	"New York"	"36"	"Broome County, NY"	"36007"	53.53
+	"New York"	"36"	"Cattaraugus County, NY"	"36009"	52.40
+	"New York"	"36"	"Cayuga County, NY"	"36011"	53.95
+	"New York"	"36"	"Chautauqua County, NY"	"36013"	53.15
+	"New York"	"36"	"Chemung County, NY"	"36015"	54.06
+	"New York"	"36"	"Chenango County, NY"	"36017"	52.23
+	"New York"	"36"	"Clinton County, NY"	"36019"	49.86
+	"New York"	"36"	"Columbia County, NY"	"36021"	55.36
+	"New York"	"36"	"Cortland County, NY"	"36023"	52.10
+	"New York"	"36"	"Delaware County, NY"	"36025"	51.37
+	"New York"	"36"	"Dutchess County, NY"	"36027"	56.70
+	"New York"	"36"	"Erie County, NY"	"36029"	54.19
+	"New York"	"36"	"Essex County, NY"	"36031"	49.13
+	"New York"	"36"	"Franklin County, NY"	"36033"	48.60
+	"New York"	"36"	"Fulton County, NY"	"36035"	51.73
+	"New York"	"36"	"Genesee County, NY"	"36037"	54.17
+	"New York"	"36"	"Greene County, NY"	"36039"	52.92
+	"New York"	"36"	"Hamilton County, NY"	"36041"	48.36
+	"New York"	"36"	"Herkimer County, NY"	"36043"	50.28
+	"New York"	"36"	"Jefferson County, NY"	"36045"	51.89
+	"New York"	"36"	"Kings County, NY"	"36047"	60.56
+	"New York"	"36"	"Lewis County, NY"	"36049"	50.28
+	"New York"	"36"	"Livingston County, NY"	"36051"	54.27
+	"New York"	"36"	"Madison County, NY"	"36053"	52.02
+	"New York"	"36"	"Monroe County, NY"	"36055"	54.71
+	"New York"	"36"	"Montgomery County, NY"	"36057"	53.84
+	"New York"	"36"	"Nassau County, NY"	"36059"	58.75
+	"New York"	"36"	"New York County, NY"	"36061"	60.40
+	"New York"	"36"	"Niagara County, NY"	"36063"	53.75
+	"New York"	"36"	"Oneida County, NY"	"36065"	52.74
+	"New York"	"36"	"Onondaga County, NY"	"36067"	53.50
+	"New York"	"36"	"Ontario County, NY"	"36069"	54.03
+	"New York"	"36"	"Orange County, NY"	"36071"	57.35
+	"New York"	"36"	"Orleans County, NY"	"36073"	54.26
+	"New York"	"36"	"Oswego County, NY"	"36075"	52.82
+	"New York"	"36"	"Otsego County, NY"	"36077"	51.48
+	"New York"	"36"	"Putnam County, NY"	"36079"	56.83
+	"New York"	"36"	"Queens County, NY"	"36081"	60.64
+	"New York"	"36"	"Rensselaer County, NY"	"36083"	53.59
+	"New York"	"36"	"Richmond County, NY"	"36085"	59.68
+	"New York"	"36"	"Rockland County, NY"	"36087"	58.87
+	"New York"	"36"	"St. Lawrence County, NY"	"36089"	50.99
+	"New York"	"36"	"Saratoga County, NY"	"36091"	53.82
+	"New York"	"36"	"Schenectady County, NY"	"36093"	54.32
+	"New York"	"36"	"Schoharie County, NY"	"36095"	51.81
+	"New York"	"36"	"Schuyler County, NY"	"36097"	53.49
+	"New York"	"36"	"Seneca County, NY"	"36099"	54.72
+	"New York"	"36"	"Steuben County, NY"	"36101"	53.05
+	"New York"	"36"	"Suffolk County, NY"	"36103"	55.44
+	"New York"	"36"	"Sullivan County, NY"	"36105"	53.93
+	"New York"	"36"	"Tioga County, NY"	"36107"	54.10
+	"New York"	"36"	"Tompkins County, NY"	"36109"	53.53
+	"New York"	"36"	"Ulster County, NY"	"36111"	53.84
+	"New York"	"36"	"Warren County, NY"	"36113"	50.71
+	"New York"	"36"	"Washington County, NY"	"36115"	53.59
+	"New York"	"36"	"Wayne County, NY"	"36117"	54.32
+	"New York"	"36"	"Westchester County, NY"	"36119"	58.17
+	"New York"	"36"	"Wyoming County, NY"	"36121"	52.40
+	"New York"	"36"	"Yates County, NY"	"36123"	54.33
+"Total"	"New York"	"36"			52.59
+	"North Carolina"	"37"	"Alamance County, NC"	"37001"	68.11
+	"North Carolina"	"37"	"Alexander County, NC"	"37003"	66.66
+	"North Carolina"	"37"	"Alleghany County, NC"	"37005"	60.10
+	"North Carolina"	"37"	"Anson County, NC"	"37007"	71.03
+	"North Carolina"	"37"	"Ashe County, NC"	"37009"	58.04
+	"North Carolina"	"37"	"Avery County, NC"	"37011"	56.79
+	"North Carolina"	"37"	"Beaufort County, NC"	"37013"	70.51
+	"North Carolina"	"37"	"Bertie County, NC"	"37015"	69.60
+	"North Carolina"	"37"	"Bladen County, NC"	"37017"	71.70
+	"North Carolina"	"37"	"Brunswick County, NC"	"37019"	71.81
+	"North Carolina"	"37"	"Buncombe County, NC"	"37021"	61.70
+	"North Carolina"	"37"	"Burke County, NC"	"37023"	65.87
+	"North Carolina"	"37"	"Cabarrus County, NC"	"37025"	69.37
+	"North Carolina"	"37"	"Caldwell County, NC"	"37027"	65.07
+	"North Carolina"	"37"	"Camden County, NC"	"37029"	67.60
+	"North Carolina"	"37"	"Carteret County, NC"	"37031"	70.11
+	"North Carolina"	"37"	"Caswell County, NC"	"37033"	67.81
+	"North Carolina"	"37"	"Catawba County, NC"	"37035"	67.91
+	"North Carolina"	"37"	"Chatham County, NC"	"37037"	69.52
+	"North Carolina"	"37"	"Cherokee County, NC"	"37039"	63.85
+	"North Carolina"	"37"	"Chowan County, NC"	"37041"	69.61
+	"North Carolina"	"37"	"Clay County, NC"	"37043"	62.41
+	"North Carolina"	"37"	"Cleveland County, NC"	"37045"	68.71
+	"North Carolina"	"37"	"Columbus County, NC"	"37047"	72.16
+	"North Carolina"	"37"	"Craven County, NC"	"37049"	70.80
+	"North Carolina"	"37"	"Cumberland County, NC"	"37051"	71.02
+	"North Carolina"	"37"	"Currituck County, NC"	"37053"	66.21
+	"North Carolina"	"37"	"Dare County, NC"	"37055"	67.42
+	"North Carolina"	"37"	"Davidson County, NC"	"37057"	68.42
+	"North Carolina"	"37"	"Davie County, NC"	"37059"	68.21
+	"North Carolina"	"37"	"Duplin County, NC"	"37061"	71.28
+	"North Carolina"	"37"	"Durham County, NC"	"37063"	68.98
+	"North Carolina"	"37"	"Edgecombe County, NC"	"37065"	69.79
+	"North Carolina"	"37"	"Forsyth County, NC"	"37067"	67.34
+	"North Carolina"	"37"	"Franklin County, NC"	"37069"	69.03
+	"North Carolina"	"37"	"Gaston County, NC"	"37071"	69.31
+	"North Carolina"	"37"	"Gates County, NC"	"37073"	69.00
+	"North Carolina"	"37"	"Graham County, NC"	"37075"	61.60
+	"North Carolina"	"37"	"Granville County, NC"	"37077"	68.40
+	"North Carolina"	"37"	"Greene County, NC"	"37079"	70.41
+	"North Carolina"	"37"	"Guilford County, NC"	"37081"	67.76
+	"North Carolina"	"37"	"Halifax County, NC"	"37083"	69.04
+	"North Carolina"	"37"	"Harnett County, NC"	"37085"	70.46
+	"North Carolina"	"37"	"Haywood County, NC"	"37087"	58.58
+	"North Carolina"	"37"	"Henderson County, NC"	"37089"	62.66
+	"North Carolina"	"37"	"Hertford County, NC"	"37091"	69.04
+	"North Carolina"	"37"	"Hoke County, NC"	"37093"	70.99
+	"North Carolina"	"37"	"Hyde County, NC"	"37095"	70.26
+	"North Carolina"	"37"	"Iredell County, NC"	"37097"	67.98
+	"North Carolina"	"37"	"Jackson County, NC"	"37099"	60.04
+	"North Carolina"	"37"	"Johnston County, NC"	"37101"	70.08
+	"North Carolina"	"37"	"Jones County, NC"	"37103"	71.40
+	"North Carolina"	"37"	"Lee County, NC"	"37105"	70.19
+	"North Carolina"	"37"	"Lenoir County, NC"	"37107"	70.71
+	"North Carolina"	"37"	"Lincoln County, NC"	"37109"	68.56
+	"North Carolina"	"37"	"McDowell County, NC"	"37111"	63.84
+	"North Carolina"	"37"	"Macon County, NC"	"37113"	60.18
+	"North Carolina"	"37"	"Madison County, NC"	"37115"	61.22
+	"North Carolina"	"37"	"Martin County, NC"	"37117"	69.95
+	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	69.47
+	"North Carolina"	"37"	"Mitchell County, NC"	"37121"	59.45
+	"North Carolina"	"37"	"Montgomery County, NC"	"37123"	69.83
+	"North Carolina"	"37"	"Moore County, NC"	"37125"	70.04
+	"North Carolina"	"37"	"Nash County, NC"	"37127"	69.45
+	"North Carolina"	"37"	"New Hanover County, NC"	"37129"	71.36
+	"North Carolina"	"37"	"Northampton County, NC"	"37131"	69.16
+	"North Carolina"	"37"	"Onslow County, NC"	"37133"	71.69
+	"North Carolina"	"37"	"Orange County, NC"	"37135"	68.19
+	"North Carolina"	"37"	"Pamlico County, NC"	"37137"	70.75
+	"North Carolina"	"37"	"Pasquotank County, NC"	"37139"	68.23
+	"North Carolina"	"37"	"Pender County, NC"	"37141"	71.71
+	"North Carolina"	"37"	"Perquimans County, NC"	"37143"	69.17
+	"North Carolina"	"37"	"Person County, NC"	"37145"	67.81
+	"North Carolina"	"37"	"Pitt County, NC"	"37147"	70.34
+	"North Carolina"	"37"	"Polk County, NC"	"37149"	66.48
+	"North Carolina"	"37"	"Randolph County, NC"	"37151"	68.86
+	"North Carolina"	"37"	"Richmond County, NC"	"37153"	70.90
+	"North Carolina"	"37"	"Robeson County, NC"	"37155"	71.72
+	"North Carolina"	"37"	"Rockingham County, NC"	"37157"	67.48
+	"North Carolina"	"37"	"Rowan County, NC"	"37159"	68.64
+	"North Carolina"	"37"	"Rutherford County, NC"	"37161"	67.54
+	"North Carolina"	"37"	"Sampson County, NC"	"37163"	71.04
+	"North Carolina"	"37"	"Scotland County, NC"	"37165"	71.21
+	"North Carolina"	"37"	"Stanly County, NC"	"37167"	69.97
+	"North Carolina"	"37"	"Stokes County, NC"	"37169"	66.51
+	"North Carolina"	"37"	"Surry County, NC"	"37171"	65.11
+	"North Carolina"	"37"	"Swain County, NC"	"37173"	60.49
+	"North Carolina"	"37"	"Transylvania County, NC"	"37175"	61.28
+	"North Carolina"	"37"	"Tyrrell County, NC"	"37177"	69.13
+	"North Carolina"	"37"	"Union County, NC"	"37179"	70.12
+	"North Carolina"	"37"	"Vance County, NC"	"37181"	68.47
+	"North Carolina"	"37"	"Wake County, NC"	"37183"	69.51
+	"North Carolina"	"37"	"Warren County, NC"	"37185"	68.48
+	"North Carolina"	"37"	"Washington County, NC"	"37187"	69.96
+	"North Carolina"	"37"	"Watauga County, NC"	"37189"	57.47
+	"North Carolina"	"37"	"Wayne County, NC"	"37191"	70.43
+	"North Carolina"	"37"	"Wilkes County, NC"	"37193"	64.96
+	"North Carolina"	"37"	"Wilson County, NC"	"37195"	69.99
+	"North Carolina"	"37"	"Yadkin County, NC"	"37197"	67.39
+	"North Carolina"	"37"	"Yancey County, NC"	"37199"	58.71
+"Total"	"North Carolina"	"37"			68.12
+	"North Dakota"	"38"	"Adams County, ND"	"38001"	55.47
+	"North Dakota"	"38"	"Barnes County, ND"	"38003"	51.46
+	"North Dakota"	"38"	"Benson County, ND"	"38005"	50.00
+	"North Dakota"	"38"	"Billings County, ND"	"38007"	54.58
+	"North Dakota"	"38"	"Bottineau County, ND"	"38009"	49.76
+	"North Dakota"	"38"	"Bowman County, ND"	"38011"	56.03
+	"North Dakota"	"38"	"Burke County, ND"	"38013"	49.84
+	"North Dakota"	"38"	"Burleigh County, ND"	"38015"	52.95
+	"North Dakota"	"38"	"Cass County, ND"	"38017"	51.79
+	"North Dakota"	"38"	"Cavalier County, ND"	"38019"	47.97
+	"North Dakota"	"38"	"Dickey County, ND"	"38021"	53.19
+	"North Dakota"	"38"	"Divide County, ND"	"38023"	51.32
+	"North Dakota"	"38"	"Dunn County, ND"	"38025"	53.81
+	"North Dakota"	"38"	"Eddy County, ND"	"38027"	50.26
+	"North Dakota"	"38"	"Emmons County, ND"	"38029"	54.24
+	"North Dakota"	"38"	"Foster County, ND"	"38031"	50.72
+	"North Dakota"	"38"	"Golden Valley County, ND"	"38033"	55.02
+	"North Dakota"	"38"	"Grand Forks County, ND"	"38035"	50.20
+	"North Dakota"	"38"	"Grant County, ND"	"38037"	54.90
+	"North Dakota"	"38"	"Griggs County, ND"	"38039"	50.35
+	"North Dakota"	"38"	"Hettinger County, ND"	"38041"	54.93
+	"North Dakota"	"38"	"Kidder County, ND"	"38043"	52.23
+	"North Dakota"	"38"	"LaMoure County, ND"	"38045"	52.56
+	"North Dakota"	"38"	"Logan County, ND"	"38047"	52.38
+	"North Dakota"	"38"	"McHenry County, ND"	"38049"	51.04
+	"North Dakota"	"38"	"McIntosh County, ND"	"38051"	52.96
+	"North Dakota"	"38"	"McKenzie County, ND"	"38053"	53.41
+	"North Dakota"	"38"	"McLean County, ND"	"38055"	52.37
+	"North Dakota"	"38"	"Mercer County, ND"	"38057"	53.56
+	"North Dakota"	"38"	"Morton County, ND"	"38059"	54.09
+	"North Dakota"	"38"	"Mountrail County, ND"	"38061"	51.36
+	"North Dakota"	"38"	"Nelson County, ND"	"38063"	49.32
+	"North Dakota"	"38"	"Oliver County, ND"	"38065"	53.05
+	"North Dakota"	"38"	"Pembina County, ND"	"38067"	49.38
+	"North Dakota"	"38"	"Pierce County, ND"	"38069"	50.24
+	"North Dakota"	"38"	"Ramsey County, ND"	"38071"	49.29
+	"North Dakota"	"38"	"Ransom County, ND"	"38073"	52.61
+	"North Dakota"	"38"	"Renville County, ND"	"38075"	49.96
+	"North Dakota"	"38"	"Richland County, ND"	"38077"	53.16
+	"North Dakota"	"38"	"Rolette County, ND"	"38079"	48.32
+	"North Dakota"	"38"	"Sargent County, ND"	"38081"	53.28
+	"North Dakota"	"38"	"Sheridan County, ND"	"38083"	51.52
+	"North Dakota"	"38"	"Sioux County, ND"	"38085"	55.29
+	"North Dakota"	"38"	"Slope County, ND"	"38087"	55.45
+	"North Dakota"	"38"	"Stark County, ND"	"38089"	54.53
+	"North Dakota"	"38"	"Steele County, ND"	"38091"	50.42
+	"North Dakota"	"38"	"Stutsman County, ND"	"38093"	51.59
+	"North Dakota"	"38"	"Towner County, ND"	"38095"	48.68
+	"North Dakota"	"38"	"Traill County, ND"	"38097"	51.04
+	"North Dakota"	"38"	"Walsh County, ND"	"38099"	49.16
+	"North Dakota"	"38"	"Ward County, ND"	"38101"	50.65
+	"North Dakota"	"38"	"Wells County, ND"	"38103"	50.96
+	"North Dakota"	"38"	"Williams County, ND"	"38105"	52.08
+"Total"	"North Dakota"	"38"			51.98
+	"Ohio"	"39"	"Adams County, OH"	"39001"	62.51
+	"Ohio"	"39"	"Allen County, OH"	"39003"	58.95
+	"Ohio"	"39"	"Ashland County, OH"	"39005"	57.64
+	"Ohio"	"39"	"Ashtabula County, OH"	"39007"	55.83
+	"Ohio"	"39"	"Athens County, OH"	"39009"	61.92
+	"Ohio"	"39"	"Auglaize County, OH"	"39011"	58.88
+	"Ohio"	"39"	"Belmont County, OH"	"39013"	59.40
+	"Ohio"	"39"	"Brown County, OH"	"39015"	61.92
+	"Ohio"	"39"	"Butler County, OH"	"39017"	61.51
+	"Ohio"	"39"	"Carroll County, OH"	"39019"	58.09
+	"Ohio"	"39"	"Champaign County, OH"	"39021"	59.00
+	"Ohio"	"39"	"Clark County, OH"	"39023"	59.55
+	"Ohio"	"39"	"Clermont County, OH"	"39025"	62.17
+	"Ohio"	"39"	"Clinton County, OH"	"39027"	60.67
+	"Ohio"	"39"	"Columbiana County, OH"	"39029"	57.83
+	"Ohio"	"39"	"Coshocton County, OH"	"39031"	59.45
+	"Ohio"	"39"	"Crawford County, OH"	"39033"	58.14
+	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	57.10
+	"Ohio"	"39"	"Darke County, OH"	"39037"	59.27
+	"Ohio"	"39"	"Defiance County, OH"	"39039"	58.68
+	"Ohio"	"39"	"Delaware County, OH"	"39041"	59.42
+	"Ohio"	"39"	"Erie County, OH"	"39043"	56.29
+	"Ohio"	"39"	"Fairfield County, OH"	"39045"	60.65
+	"Ohio"	"39"	"Fayette County, OH"	"39047"	60.54
+	"Ohio"	"39"	"Franklin County, OH"	"39049"	60.62
+	"Ohio"	"39"	"Fulton County, OH"	"39051"	57.90
+	"Ohio"	"39"	"Gallia County, OH"	"39053"	63.46
+	"Ohio"	"39"	"Geauga County, OH"	"39055"	55.79
+	"Ohio"	"39"	"Greene County, OH"	"39057"	60.44
+	"Ohio"	"39"	"Guernsey County, OH"	"39059"	60.07
+	"Ohio"	"39"	"Hamilton County, OH"	"39061"	62.38
+	"Ohio"	"39"	"Hancock County, OH"	"39063"	58.77
+	"Ohio"	"39"	"Hardin County, OH"	"39065"	58.71
+	"Ohio"	"39"	"Harrison County, OH"	"39067"	59.01
+	"Ohio"	"39"	"Henry County, OH"	"39069"	58.63
+	"Ohio"	"39"	"Highland County, OH"	"39071"	61.27
+	"Ohio"	"39"	"Hocking County, OH"	"39073"	61.13
+	"Ohio"	"39"	"Holmes County, OH"	"39075"	58.48
+	"Ohio"	"39"	"Huron County, OH"	"39077"	57.63
+	"Ohio"	"39"	"Jackson County, OH"	"39079"	62.55
+	"Ohio"	"39"	"Jefferson County, OH"	"39081"	58.72
+	"Ohio"	"39"	"Knox County, OH"	"39083"	58.69
+	"Ohio"	"39"	"Lake County, OH"	"39085"	55.37
+	"Ohio"	"39"	"Lawrence County, OH"	"39087"	63.80
+	"Ohio"	"39"	"Licking County, OH"	"39089"	59.65
+	"Ohio"	"39"	"Logan County, OH"	"39091"	58.65
+	"Ohio"	"39"	"Lorain County, OH"	"39093"	57.30
+	"Ohio"	"39"	"Lucas County, OH"	"39095"	58.12
+	"Ohio"	"39"	"Madison County, OH"	"39097"	59.91
+	"Ohio"	"39"	"Mahoning County, OH"	"39099"	57.59
+	"Ohio"	"39"	"Marion County, OH"	"39101"	58.82
+	"Ohio"	"39"	"Medina County, OH"	"39103"	57.72
+	"Ohio"	"39"	"Meigs County, OH"	"39105"	62.67
+	"Ohio"	"39"	"Mercer County, OH"	"39107"	59.15
+	"Ohio"	"39"	"Miami County, OH"	"39109"	59.86
+	"Ohio"	"39"	"Monroe County, OH"	"39111"	60.08
+	"Ohio"	"39"	"Montgomery County, OH"	"39113"	60.72
+	"Ohio"	"39"	"Morgan County, OH"	"39115"	60.88
+	"Ohio"	"39"	"Morrow County, OH"	"39117"	58.03
+	"Ohio"	"39"	"Muskingum County, OH"	"39119"	60.37
+	"Ohio"	"39"	"Noble County, OH"	"39121"	60.47
+	"Ohio"	"39"	"Ottawa County, OH"	"39123"	57.60
+	"Ohio"	"39"	"Paulding County, OH"	"39125"	58.87
+	"Ohio"	"39"	"Perry County, OH"	"39127"	60.68
+	"Ohio"	"39"	"Pickaway County, OH"	"39129"	61.41
+	"Ohio"	"39"	"Pike County, OH"	"39131"	62.03
+	"Ohio"	"39"	"Portage County, OH"	"39133"	57.21
+	"Ohio"	"39"	"Preble County, OH"	"39135"	60.01
+	"Ohio"	"39"	"Putnam County, OH"	"39137"	59.03
+	"Ohio"	"39"	"Richland County, OH"	"39139"	57.43
+	"Ohio"	"39"	"Ross County, OH"	"39141"	61.66
+	"Ohio"	"39"	"Sandusky County, OH"	"39143"	58.00
+	"Ohio"	"39"	"Scioto County, OH"	"39145"	62.84
+	"Ohio"	"39"	"Seneca County, OH"	"39147"	58.23
+	"Ohio"	"39"	"Shelby County, OH"	"39149"	59.01
+	"Ohio"	"39"	"Stark County, OH"	"39151"	57.92
+	"Ohio"	"39"	"Summit County, OH"	"39153"	57.68
+	"Ohio"	"39"	"Trumbull County, OH"	"39155"	57.38
+	"Ohio"	"39"	"Tuscarawas County, OH"	"39157"	58.80
+	"Ohio"	"39"	"Union County, OH"	"39159"	59.37
+	"Ohio"	"39"	"Van Wert County, OH"	"39161"	59.11
+	"Ohio"	"39"	"Vinton County, OH"	"39163"	61.85
+	"Ohio"	"39"	"Warren County, OH"	"39165"	61.31
+	"Ohio"	"39"	"Washington County, OH"	"39167"	61.69
+	"Ohio"	"39"	"Wayne County, OH"	"39169"	57.97
+	"Ohio"	"39"	"Williams County, OH"	"39171"	57.51
+	"Ohio"	"39"	"Wood County, OH"	"39173"	58.49
+	"Ohio"	"39"	"Wyandot County, OH"	"39175"	58.78
+"Total"	"Ohio"	"39"			59.46
+	"Oklahoma"	"40"	"Adair County, OK"	"40001"	68.82
+	"Oklahoma"	"40"	"Alfalfa County, OK"	"40003"	71.44
+	"Oklahoma"	"40"	"Atoka County, OK"	"40005"	73.32
+	"Oklahoma"	"40"	"Beaver County, OK"	"40007"	70.88
+	"Oklahoma"	"40"	"Beckham County, OK"	"40009"	73.08
+	"Oklahoma"	"40"	"Blaine County, OK"	"40011"	71.89
+	"Oklahoma"	"40"	"Bryan County, OK"	"40013"	74.59
+	"Oklahoma"	"40"	"Caddo County, OK"	"40015"	72.86
+	"Oklahoma"	"40"	"Canadian County, OK"	"40017"	72.04
+	"Oklahoma"	"40"	"Carter County, OK"	"40019"	74.25
+	"Oklahoma"	"40"	"Cherokee County, OK"	"40021"	69.86
+	"Oklahoma"	"40"	"Choctaw County, OK"	"40023"	74.37
+	"Oklahoma"	"40"	"Cimarron County, OK"	"40025"	69.76
+	"Oklahoma"	"40"	"Cleveland County, OK"	"40027"	72.00
+	"Oklahoma"	"40"	"Coal County, OK"	"40029"	73.39
+	"Oklahoma"	"40"	"Comanche County, OK"	"40031"	73.95
+	"Oklahoma"	"40"	"Cotton County, OK"	"40033"	75.72
+	"Oklahoma"	"40"	"Craig County, OK"	"40035"	68.97
+	"Oklahoma"	"40"	"Creek County, OK"	"40037"	71.09
+	"Oklahoma"	"40"	"Custer County, OK"	"40039"	72.03
+	"Oklahoma"	"40"	"Delaware County, OK"	"40041"	68.94
+	"Oklahoma"	"40"	"Dewey County, OK"	"40043"	71.20
+	"Oklahoma"	"40"	"Ellis County, OK"	"40045"	71.01
+	"Oklahoma"	"40"	"Garfield County, OK"	"40047"	71.48
+	"Oklahoma"	"40"	"Garvin County, OK"	"40049"	73.20
+	"Oklahoma"	"40"	"Grady County, OK"	"40051"	72.88
+	"Oklahoma"	"40"	"Grant County, OK"	"40053"	70.95
+	"Oklahoma"	"40"	"Greer County, OK"	"40055"	74.43
+	"Oklahoma"	"40"	"Harmon County, OK"	"40057"	75.06
+	"Oklahoma"	"40"	"Harper County, OK"	"40059"	71.24
+	"Oklahoma"	"40"	"Haskell County, OK"	"40061"	71.99
+	"Oklahoma"	"40"	"Hughes County, OK"	"40063"	72.09
+	"Oklahoma"	"40"	"Jackson County, OK"	"40065"	75.64
+	"Oklahoma"	"40"	"Jefferson County, OK"	"40067"	75.61
+	"Oklahoma"	"40"	"Johnston County, OK"	"40069"	73.68
+	"Oklahoma"	"40"	"Kay County, OK"	"40071"	70.13
+	"Oklahoma"	"40"	"Kingfisher County, OK"	"40073"	72.39
+	"Oklahoma"	"40"	"Kiowa County, OK"	"40075"	73.68
+	"Oklahoma"	"40"	"Latimer County, OK"	"40077"	71.46
+	"Oklahoma"	"40"	"Le Flore County, OK"	"40079"	71.35
+	"Oklahoma"	"40"	"Lincoln County, OK"	"40081"	71.62
+	"Oklahoma"	"40"	"Logan County, OK"	"40083"	72.13
+	"Oklahoma"	"40"	"Love County, OK"	"40085"	75.18
+	"Oklahoma"	"40"	"McClain County, OK"	"40087"	72.63
+	"Oklahoma"	"40"	"McCurtain County, OK"	"40089"	73.17
+	"Oklahoma"	"40"	"McIntosh County, OK"	"40091"	71.84
+	"Oklahoma"	"40"	"Major County, OK"	"40093"	71.69
+	"Oklahoma"	"40"	"Marshall County, OK"	"40095"	74.64
+	"Oklahoma"	"40"	"Mayes County, OK"	"40097"	70.06
+	"Oklahoma"	"40"	"Murray County, OK"	"40099"	73.11
+	"Oklahoma"	"40"	"Muskogee County, OK"	"40101"	71.54
+	"Oklahoma"	"40"	"Noble County, OK"	"40103"	71.13
+	"Oklahoma"	"40"	"Nowata County, OK"	"40105"	69.36
+	"Oklahoma"	"40"	"Okfuskee County, OK"	"40107"	71.45
+	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	71.97
+	"Oklahoma"	"40"	"Okmulgee County, OK"	"40111"	71.39
+	"Oklahoma"	"40"	"Osage County, OK"	"40113"	69.98
+	"Oklahoma"	"40"	"Ottawa County, OK"	"40115"	68.79
+	"Oklahoma"	"40"	"Pawnee County, OK"	"40117"	70.94
+	"Oklahoma"	"40"	"Payne County, OK"	"40119"	71.63
+	"Oklahoma"	"40"	"Pittsburg County, OK"	"40121"	72.15
+	"Oklahoma"	"40"	"Pontotoc County, OK"	"40123"	72.31
+	"Oklahoma"	"40"	"Pottawatomie County, OK"	"40125"	71.85
+	"Oklahoma"	"40"	"Pushmataha County, OK"	"40127"	72.44
+	"Oklahoma"	"40"	"Roger Mills County, OK"	"40129"	72.06
+	"Oklahoma"	"40"	"Rogers County, OK"	"40131"	70.32
+	"Oklahoma"	"40"	"Seminole County, OK"	"40133"	71.99
+	"Oklahoma"	"40"	"Sequoyah County, OK"	"40135"	71.03
+	"Oklahoma"	"40"	"Stephens County, OK"	"40137"	74.27
+	"Oklahoma"	"40"	"Texas County, OK"	"40139"	71.08
+	"Oklahoma"	"40"	"Tillman County, OK"	"40141"	75.76
+	"Oklahoma"	"40"	"Tulsa County, OK"	"40143"	70.97
+	"Oklahoma"	"40"	"Wagoner County, OK"	"40145"	71.22
+	"Oklahoma"	"40"	"Washington County, OK"	"40147"	70.03
+	"Oklahoma"	"40"	"Washita County, OK"	"40149"	72.85
+	"Oklahoma"	"40"	"Woods County, OK"	"40151"	71.11
+	"Oklahoma"	"40"	"Woodward County, OK"	"40153"	70.92
+"Total"	"Oklahoma"	"40"			71.96
+	"Oregon"	"41"	"Baker County, OR"	"41001"	54.48
+	"Oregon"	"41"	"Benton County, OR"	"41003"	59.97
+	"Oregon"	"41"	"Clackamas County, OR"	"41005"	55.55
+	"Oregon"	"41"	"Clatsop County, OR"	"41007"	56.53
+	"Oregon"	"41"	"Columbia County, OR"	"41009"	58.55
+	"Oregon"	"41"	"Coos County, OR"	"41011"	58.79
+	"Oregon"	"41"	"Crook County, OR"	"41013"	55.62
+	"Oregon"	"41"	"Curry County, OR"	"41015"	56.65
+	"Oregon"	"41"	"Deschutes County, OR"	"41017"	54.46
+	"Oregon"	"41"	"Douglas County, OR"	"41019"	59.04
+	"Oregon"	"41"	"Gilliam County, OR"	"41021"	60.34
+	"Oregon"	"41"	"Grant County, OR"	"41023"	53.84
+	"Oregon"	"41"	"Harney County, OR"	"41025"	55.83
+	"Oregon"	"41"	"Hood River County, OR"	"41027"	54.61
+	"Oregon"	"41"	"Jackson County, OR"	"41029"	59.28
+	"Oregon"	"41"	"Jefferson County, OR"	"41031"	56.93
+	"Oregon"	"41"	"Josephine County, OR"	"41033"	59.57
+	"Oregon"	"41"	"Klamath County, OR"	"41035"	54.87
+	"Oregon"	"41"	"Lake County, OR"	"41037"	55.34
+	"Oregon"	"41"	"Lane County, OR"	"41039"	57.59
+	"Oregon"	"41"	"Lincoln County, OR"	"41041"	56.21
+	"Oregon"	"41"	"Linn County, OR"	"41043"	57.58
+	"Oregon"	"41"	"Malheur County, OR"	"41045"	58.34
+	"Oregon"	"41"	"Marion County, OR"	"41047"	57.65
+	"Oregon"	"41"	"Morrow County, OR"	"41049"	59.77
+	"Oregon"	"41"	"Multnomah County, OR"	"41051"	59.61
+	"Oregon"	"41"	"Polk County, OR"	"41053"	59.55
+	"Oregon"	"41"	"Sherman County, OR"	"41055"	60.48
+	"Oregon"	"41"	"Tillamook County, OR"	"41057"	55.18
+	"Oregon"	"41"	"Umatilla County, OR"	"41059"	59.03
+	"Oregon"	"41"	"Union County, OR"	"41061"	54.57
+	"Oregon"	"41"	"Wallowa County, OR"	"41063"	53.19
+	"Oregon"	"41"	"Wasco County, OR"	"41065"	58.22
+	"Oregon"	"41"	"Washington County, OR"	"41067"	58.75
+	"Oregon"	"41"	"Wheeler County, OR"	"41069"	56.04
+	"Oregon"	"41"	"Yamhill County, OR"	"41071"	59.40
+"Total"	"Oregon"	"41"			56.75
+	"Pennsylvania"	"42"	"Adams County, PA"	"42001"	59.74
+	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	58.74
+	"Pennsylvania"	"42"	"Armstrong County, PA"	"42005"	57.22
+	"Pennsylvania"	"42"	"Beaver County, PA"	"42007"	58.37
+	"Pennsylvania"	"42"	"Bedford County, PA"	"42009"	57.71
+	"Pennsylvania"	"42"	"Berks County, PA"	"42011"	59.39
+	"Pennsylvania"	"42"	"Blair County, PA"	"42013"	56.36
+	"Pennsylvania"	"42"	"Bradford County, PA"	"42015"	54.37
+	"Pennsylvania"	"42"	"Bucks County, PA"	"42017"	60.36
+	"Pennsylvania"	"42"	"Butler County, PA"	"42019"	57.26
+	"Pennsylvania"	"42"	"Cambria County, PA"	"42021"	54.89
+	"Pennsylvania"	"42"	"Cameron County, PA"	"42023"	54.59
+	"Pennsylvania"	"42"	"Carbon County, PA"	"42025"	56.23
+	"Pennsylvania"	"42"	"Centre County, PA"	"42027"	55.71
+	"Pennsylvania"	"42"	"Chester County, PA"	"42029"	60.49
+	"Pennsylvania"	"42"	"Clarion County, PA"	"42031"	55.97
+	"Pennsylvania"	"42"	"Clearfield County, PA"	"42033"	55.00
+	"Pennsylvania"	"42"	"Clinton County, PA"	"42035"	55.43
+	"Pennsylvania"	"42"	"Columbia County, PA"	"42037"	56.99
+	"Pennsylvania"	"42"	"Crawford County, PA"	"42039"	54.98
+	"Pennsylvania"	"42"	"Cumberland County, PA"	"42041"	59.71
+	"Pennsylvania"	"42"	"Dauphin County, PA"	"42043"	58.96
+	"Pennsylvania"	"42"	"Delaware County, PA"	"42045"	61.50
+	"Pennsylvania"	"42"	"Elk County, PA"	"42047"	54.05
+	"Pennsylvania"	"42"	"Erie County, PA"	"42049"	52.54
+	"Pennsylvania"	"42"	"Fayette County, PA"	"42051"	58.08
+	"Pennsylvania"	"42"	"Forest County, PA"	"42053"	54.59
+	"Pennsylvania"	"42"	"Franklin County, PA"	"42055"	59.69
+	"Pennsylvania"	"42"	"Fulton County, PA"	"42057"	58.98
+	"Pennsylvania"	"42"	"Greene County, PA"	"42059"	59.35
+	"Pennsylvania"	"42"	"Huntingdon County, PA"	"42061"	57.91
+	"Pennsylvania"	"42"	"Indiana County, PA"	"42063"	56.46
+	"Pennsylvania"	"42"	"Jefferson County, PA"	"42065"	55.30
+	"Pennsylvania"	"42"	"Juniata County, PA"	"42067"	58.52
+	"Pennsylvania"	"42"	"Lackawanna County, PA"	"42069"	54.83
+	"Pennsylvania"	"42"	"Lancaster County, PA"	"42071"	60.56
+	"Pennsylvania"	"42"	"Lawrence County, PA"	"42073"	57.55
+	"Pennsylvania"	"42"	"Lebanon County, PA"	"42075"	59.57
+	"Pennsylvania"	"42"	"Lehigh County, PA"	"42077"	58.85
+	"Pennsylvania"	"42"	"Luzerne County, PA"	"42079"	55.37
+	"Pennsylvania"	"42"	"Lycoming County, PA"	"42081"	55.68
+	"Pennsylvania"	"42"	"Mc Kean County, PA"	"42083"	52.76
+	"Pennsylvania"	"42"	"Mercer County, PA"	"42085"	56.58
+	"Pennsylvania"	"42"	"Mifflin County, PA"	"42087"	57.53
+	"Pennsylvania"	"42"	"Monroe County, PA"	"42089"	55.38
+	"Pennsylvania"	"42"	"Montgomery County, PA"	"42091"	60.63
+	"Pennsylvania"	"42"	"Montour County, PA"	"42093"	58.16
+	"Pennsylvania"	"42"	"Northampton County, PA"	"42095"	58.53
+	"Pennsylvania"	"42"	"Northumberland County, PA"	"42097"	57.95
+	"Pennsylvania"	"42"	"Perry County, PA"	"42099"	58.92
+	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	61.50
+	"Pennsylvania"	"42"	"Pike County, PA"	"42103"	55.30
+	"Pennsylvania"	"42"	"Potter County, PA"	"42105"	52.51
+	"Pennsylvania"	"42"	"Schuylkill County, PA"	"42107"	57.02
+	"Pennsylvania"	"42"	"Snyder County, PA"	"42109"	57.91
+	"Pennsylvania"	"42"	"Somerset County, PA"	"42111"	55.05
+	"Pennsylvania"	"42"	"Sullivan County, PA"	"42113"	53.57
+	"Pennsylvania"	"42"	"Susquehanna County, PA"	"42115"	53.94
+	"Pennsylvania"	"42"	"Tioga County, PA"	"42117"	53.54
+	"Pennsylvania"	"42"	"Union County, PA"	"42119"	57.28
+	"Pennsylvania"	"42"	"Venango County, PA"	"42121"	55.70
+	"Pennsylvania"	"42"	"Warren County, PA"	"42123"	53.82
+	"Pennsylvania"	"42"	"Washington County, PA"	"42125"	58.88
+	"Pennsylvania"	"42"	"Wayne County, PA"	"42127"	53.83
+	"Pennsylvania"	"42"	"Westmoreland County, PA"	"42129"	57.59
+	"Pennsylvania"	"42"	"Wyoming County, PA"	"42131"	55.00
+	"Pennsylvania"	"42"	"York County, PA"	"42133"	60.38
+"Total"	"Pennsylvania"	"42"			56.53
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	58.05
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	57.38
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	57.12
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	56.93
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	57.53
+"Total"	"Rhode Island"	"44"			57.29
+	"South Carolina"	"45"	"Abbeville County, SC"	"45001"	71.52
+	"South Carolina"	"45"	"Aiken County, SC"	"45003"	73.34
+	"South Carolina"	"45"	"Allendale County, SC"	"45005"	75.06
+	"South Carolina"	"45"	"Anderson County, SC"	"45007"	70.33
+	"South Carolina"	"45"	"Bamberg County, SC"	"45009"	74.49
+	"South Carolina"	"45"	"Barnwell County, SC"	"45011"	74.33
+	"South Carolina"	"45"	"Beaufort County, SC"	"45013"	74.89
+	"South Carolina"	"45"	"Berkeley County, SC"	"45015"	74.33
+	"South Carolina"	"45"	"Calhoun County, SC"	"45017"	73.36
+	"South Carolina"	"45"	"Charleston County, SC"	"45019"	74.16
+	"South Carolina"	"45"	"Cherokee County, SC"	"45021"	70.12
+	"South Carolina"	"45"	"Chester County, SC"	"45023"	71.03
+	"South Carolina"	"45"	"Chesterfield County, SC"	"45025"	71.42
+	"South Carolina"	"45"	"Clarendon County, SC"	"45027"	73.62
+	"South Carolina"	"45"	"Colleton County, SC"	"45029"	74.80
+	"South Carolina"	"45"	"Darlington County, SC"	"45031"	72.55
+	"South Carolina"	"45"	"Dillon County, SC"	"45033"	72.27
+	"South Carolina"	"45"	"Dorchester County, SC"	"45035"	74.42
+	"South Carolina"	"45"	"Edgefield County, SC"	"45037"	72.64
+	"South Carolina"	"45"	"Fairfield County, SC"	"45039"	71.89
+	"South Carolina"	"45"	"Florence County, SC"	"45041"	73.18
+	"South Carolina"	"45"	"Georgetown County, SC"	"45043"	73.68
+	"South Carolina"	"45"	"Greenville County, SC"	"45045"	68.71
+	"South Carolina"	"45"	"Greenwood County, SC"	"45047"	71.79
+	"South Carolina"	"45"	"Hampton County, SC"	"45049"	75.42
+	"South Carolina"	"45"	"Horry County, SC"	"45051"	72.49
+	"South Carolina"	"45"	"Jasper County, SC"	"45053"	75.89
+	"South Carolina"	"45"	"Kershaw County, SC"	"45055"	72.16
+	"South Carolina"	"45"	"Lancaster County, SC"	"45057"	70.88
+	"South Carolina"	"45"	"Laurens County, SC"	"45059"	71.02
+	"South Carolina"	"45"	"Lee County, SC"	"45061"	72.69
+	"South Carolina"	"45"	"Lexington County, SC"	"45063"	72.54
+	"South Carolina"	"45"	"McCormick County, SC"	"45065"	72.81
+	"South Carolina"	"45"	"Marion County, SC"	"45067"	72.98
+	"South Carolina"	"45"	"Marlboro County, SC"	"45069"	72.09
+	"South Carolina"	"45"	"Newberry County, SC"	"45071"	71.85
+	"South Carolina"	"45"	"Oconee County, SC"	"45073"	68.73
+	"South Carolina"	"45"	"Orangeburg County, SC"	"45075"	73.91
+	"South Carolina"	"45"	"Pickens County, SC"	"45077"	67.91
+	"South Carolina"	"45"	"Richland County, SC"	"45079"	72.76
+	"South Carolina"	"45"	"Saluda County, SC"	"45081"	72.19
+	"South Carolina"	"45"	"Spartanburg County, SC"	"45083"	69.44
+	"South Carolina"	"45"	"Sumter County, SC"	"45085"	73.17
+	"South Carolina"	"45"	"Union County, SC"	"45087"	71.06
+	"South Carolina"	"45"	"Williamsburg County, SC"	"45089"	73.87
+	"South Carolina"	"45"	"York County, SC"	"45091"	70.10
+"Total"	"South Carolina"	"45"			72.54
+	"South Dakota"	"46"	"Aurora County, SD"	"46003"	58.33
+	"South Dakota"	"46"	"Beadle County, SD"	"46005"	57.22
+	"South Dakota"	"46"	"Bennett County, SD"	"46007"	59.23
+	"South Dakota"	"46"	"Bon Homme County, SD"	"46009"	59.65
+	"South Dakota"	"46"	"Brookings County, SD"	"46011"	54.48
+	"South Dakota"	"46"	"Brown County, SD"	"46013"	54.67
+	"South Dakota"	"46"	"Brule County, SD"	"46015"	59.12
+	"South Dakota"	"46"	"Buffalo County, SD"	"46017"	58.29
+	"South Dakota"	"46"	"Butte County, SD"	"46019"	58.98
+	"South Dakota"	"46"	"Campbell County, SD"	"46021"	55.38
+	"South Dakota"	"46"	"Charles Mix County, SD"	"46023"	59.62
+	"South Dakota"	"46"	"Clark County, SD"	"46025"	54.63
+	"South Dakota"	"46"	"Clay County, SD"	"46027"	59.00
+	"South Dakota"	"46"	"Codington County, SD"	"46029"	53.73
+	"South Dakota"	"46"	"Corson County, SD"	"46031"	56.12
+	"South Dakota"	"46"	"Custer County, SD"	"46033"	57.40
+	"South Dakota"	"46"	"Davison County, SD"	"46035"	58.20
+	"South Dakota"	"46"	"Day County, SD"	"46037"	53.39
+	"South Dakota"	"46"	"Deuel County, SD"	"46039"	53.60
+	"South Dakota"	"46"	"Dewey County, SD"	"46041"	56.92
+	"South Dakota"	"46"	"Douglas County, SD"	"46043"	58.96
+	"South Dakota"	"46"	"Edmunds County, SD"	"46045"	54.86
+	"South Dakota"	"46"	"Fall River County, SD"	"46047"	60.82
+	"South Dakota"	"46"	"Faulk County, SD"	"46049"	55.74
+	"South Dakota"	"46"	"Grant County, SD"	"46051"	54.04
+	"South Dakota"	"46"	"Gregory County, SD"	"46053"	59.20
+	"South Dakota"	"46"	"Haakon County, SD"	"46055"	58.93
+	"South Dakota"	"46"	"Hamlin County, SD"	"46057"	54.33
+	"South Dakota"	"46"	"Hand County, SD"	"46059"	56.69
+	"South Dakota"	"46"	"Hanson County, SD"	"46061"	58.08
+	"South Dakota"	"46"	"Harding County, SD"	"46063"	57.17
+	"South Dakota"	"46"	"Hughes County, SD"	"46065"	58.00
+	"South Dakota"	"46"	"Hutchinson County, SD"	"46067"	58.62
+	"South Dakota"	"46"	"Hyde County, SD"	"46069"	56.57
+	"South Dakota"	"46"	"Jackson County, SD"	"46071"	60.07
+	"South Dakota"	"46"	"Jerauld County, SD"	"46073"	57.31
+	"South Dakota"	"46"	"Jones County, SD"	"46075"	58.90
+	"South Dakota"	"46"	"Kingsbury County, SD"	"46077"	55.31
+	"South Dakota"	"46"	"Lake County, SD"	"46079"	55.34
+	"South Dakota"	"46"	"Lawrence County, SD"	"46081"	53.59
+	"South Dakota"	"46"	"Lincoln County, SD"	"46083"	57.36
+	"South Dakota"	"46"	"Lyman County, SD"	"46085"	59.02
+	"South Dakota"	"46"	"McCook County, SD"	"46087"	56.86
+	"South Dakota"	"46"	"McPherson County, SD"	"46089"	53.79
+	"South Dakota"	"46"	"Marshall County, SD"	"46091"	52.85
+	"South Dakota"	"46"	"Meade County, SD"	"46093"	59.06
+	"South Dakota"	"46"	"Mellette County, SD"	"46095"	59.83
+	"South Dakota"	"46"	"Miner County, SD"	"46097"	56.46
+	"South Dakota"	"46"	"Minnehaha County, SD"	"46099"	56.24
+	"South Dakota"	"46"	"Moody County, SD"	"46101"	55.14
+	"South Dakota"	"46"	"Pennington County, SD"	"46103"	58.28
+	"South Dakota"	"46"	"Perkins County, SD"	"46105"	57.11
+	"South Dakota"	"46"	"Potter County, SD"	"46107"	56.05
+	"South Dakota"	"46"	"Roberts County, SD"	"46109"	53.42
+	"South Dakota"	"46"	"Sanborn County, SD"	"46111"	57.96
+	"South Dakota"	"46"	"Shannon County, SD"	"46113"	60.56
+	"South Dakota"	"46"	"Spink County, SD"	"46115"	56.03
+	"South Dakota"	"46"	"Stanley County, SD"	"46117"	58.70
+	"South Dakota"	"46"	"Sully County, SD"	"46119"	57.42
+	"South Dakota"	"46"	"Todd County, SD"	"46121"	59.20
+	"South Dakota"	"46"	"Tripp County, SD"	"46123"	59.35
+	"South Dakota"	"46"	"Turner County, SD"	"46125"	57.96
+	"South Dakota"	"46"	"Union County, SD"	"46127"	58.46
+	"South Dakota"	"46"	"Walworth County, SD"	"46129"	55.76
+	"South Dakota"	"46"	"Yankton County, SD"	"46135"	59.10
+	"South Dakota"	"46"	"Ziebach County, SD"	"46137"	57.76
+"Total"	"South Dakota"	"46"			57.40
+	"Tennessee"	"47"	"Anderson County, TN"	"47001"	65.80
+	"Tennessee"	"47"	"Bedford County, TN"	"47003"	67.74
+	"Tennessee"	"47"	"Benton County, TN"	"47005"	68.17
+	"Tennessee"	"47"	"Bledsoe County, TN"	"47007"	65.72
+	"Tennessee"	"47"	"Blount County, TN"	"47009"	66.00
+	"Tennessee"	"47"	"Bradley County, TN"	"47011"	68.68
+	"Tennessee"	"47"	"Campbell County, TN"	"47013"	64.41
+	"Tennessee"	"47"	"Cannon County, TN"	"47015"	66.84
+	"Tennessee"	"47"	"Carroll County, TN"	"47017"	68.41
+	"Tennessee"	"47"	"Carter County, TN"	"47019"	60.70
+	"Tennessee"	"47"	"Cheatham County, TN"	"47021"	67.46
+	"Tennessee"	"47"	"Chester County, TN"	"47023"	69.18
+	"Tennessee"	"47"	"Claiborne County, TN"	"47025"	64.43
+	"Tennessee"	"47"	"Clay County, TN"	"47027"	66.18
+	"Tennessee"	"47"	"Cocke County, TN"	"47029"	65.13
+	"Tennessee"	"47"	"Coffee County, TN"	"47031"	67.08
+	"Tennessee"	"47"	"Crockett County, TN"	"47033"	69.36
+	"Tennessee"	"47"	"Cumberland County, TN"	"47035"	63.71
+	"Tennessee"	"47"	"Davidson County, TN"	"47037"	67.77
+	"Tennessee"	"47"	"Decatur County, TN"	"47039"	68.82
+	"Tennessee"	"47"	"DeKalb County, TN"	"47041"	67.16
+	"Tennessee"	"47"	"Dickson County, TN"	"47043"	67.15
+	"Tennessee"	"47"	"Dyer County, TN"	"47045"	69.28
+	"Tennessee"	"47"	"Fayette County, TN"	"47047"	70.11
+	"Tennessee"	"47"	"Fentress County, TN"	"47049"	64.08
+	"Tennessee"	"47"	"Franklin County, TN"	"47051"	67.14
+	"Tennessee"	"47"	"Gibson County, TN"	"47053"	68.82
+	"Tennessee"	"47"	"Giles County, TN"	"47055"	68.15
+	"Tennessee"	"47"	"Grainger County, TN"	"47057"	66.04
+	"Tennessee"	"47"	"Greene County, TN"	"47059"	64.97
+	"Tennessee"	"47"	"Grundy County, TN"	"47061"	64.81
+	"Tennessee"	"47"	"Hamblen County, TN"	"47063"	66.42
+	"Tennessee"	"47"	"Hamilton County, TN"	"47065"	68.31
+	"Tennessee"	"47"	"Hancock County, TN"	"47067"	64.25
+	"Tennessee"	"47"	"Hardeman County, TN"	"47069"	69.61
+	"Tennessee"	"47"	"Hardin County, TN"	"47071"	69.58
+	"Tennessee"	"47"	"Hawkins County, TN"	"47073"	65.32
+	"Tennessee"	"47"	"Haywood County, TN"	"47075"	69.73
+	"Tennessee"	"47"	"Henderson County, TN"	"47077"	68.73
+	"Tennessee"	"47"	"Henry County, TN"	"47079"	67.73
+	"Tennessee"	"47"	"Hickman County, TN"	"47081"	67.77
+	"Tennessee"	"47"	"Houston County, TN"	"47083"	67.59
+	"Tennessee"	"47"	"Humphreys County, TN"	"47085"	67.76
+	"Tennessee"	"47"	"Jackson County, TN"	"47087"	66.70
+	"Tennessee"	"47"	"Jefferson County, TN"	"47089"	66.58
+	"Tennessee"	"47"	"Johnson County, TN"	"47091"	59.11
+	"Tennessee"	"47"	"Knox County, TN"	"47093"	67.29
+	"Tennessee"	"47"	"Lake County, TN"	"47095"	69.00
+	"Tennessee"	"47"	"Lauderdale County, TN"	"47097"	69.79
+	"Tennessee"	"47"	"Lawrence County, TN"	"47099"	67.93
+	"Tennessee"	"47"	"Lewis County, TN"	"47101"	67.57
+	"Tennessee"	"47"	"Lincoln County, TN"	"47103"	68.38
+	"Tennessee"	"47"	"Loudon County, TN"	"47105"	67.87
+	"Tennessee"	"47"	"McMinn County, TN"	"47107"	68.38
+	"Tennessee"	"47"	"McNairy County, TN"	"47109"	69.57
+	"Tennessee"	"47"	"Macon County, TN"	"47111"	66.24
+	"Tennessee"	"47"	"Madison County, TN"	"47113"	69.27
+	"Tennessee"	"47"	"Marion County, TN"	"47115"	66.53
+	"Tennessee"	"47"	"Marshall County, TN"	"47117"	68.00
+	"Tennessee"	"47"	"Maury County, TN"	"47119"	67.88
+	"Tennessee"	"47"	"Meigs County, TN"	"47121"	68.57
+	"Tennessee"	"47"	"Monroe County, TN"	"47123"	65.96
+	"Tennessee"	"47"	"Montgomery County, TN"	"47125"	67.34
+	"Tennessee"	"47"	"Moore County, TN"	"47127"	67.77
+	"Tennessee"	"47"	"Morgan County, TN"	"47129"	64.87
+	"Tennessee"	"47"	"Obion County, TN"	"47131"	68.30
+	"Tennessee"	"47"	"Overton County, TN"	"47133"	65.24
+	"Tennessee"	"47"	"Perry County, TN"	"47135"	68.25
+	"Tennessee"	"47"	"Pickett County, TN"	"47137"	65.13
+	"Tennessee"	"47"	"Polk County, TN"	"47139"	66.95
+	"Tennessee"	"47"	"Putnam County, TN"	"47141"	65.54
+	"Tennessee"	"47"	"Rhea County, TN"	"47143"	66.45
+	"Tennessee"	"47"	"Roane County, TN"	"47145"	67.53
+	"Tennessee"	"47"	"Robertson County, TN"	"47147"	66.85
+	"Tennessee"	"47"	"Rutherford County, TN"	"47149"	67.88
+	"Tennessee"	"47"	"Scott County, TN"	"47151"	64.20
+	"Tennessee"	"47"	"Sequatchie County, TN"	"47153"	65.37
+	"Tennessee"	"47"	"Sevier County, TN"	"47155"	63.38
+	"Tennessee"	"47"	"Shelby County, TN"	"47157"	70.66
+	"Tennessee"	"47"	"Smith County, TN"	"47159"	67.26
+	"Tennessee"	"47"	"Stewart County, TN"	"47161"	67.34
+	"Tennessee"	"47"	"Sullivan County, TN"	"47163"	63.90
+	"Tennessee"	"47"	"Sumner County, TN"	"47165"	66.82
+	"Tennessee"	"47"	"Tipton County, TN"	"47167"	70.08
+	"Tennessee"	"47"	"Trousdale County, TN"	"47169"	66.78
+	"Tennessee"	"47"	"Unicoi County, TN"	"47171"	60.29
+	"Tennessee"	"47"	"Union County, TN"	"47173"	66.26
+	"Tennessee"	"47"	"Van Buren County, TN"	"47175"	65.23
+	"Tennessee"	"47"	"Warren County, TN"	"47177"	66.41
+	"Tennessee"	"47"	"Washington County, TN"	"47179"	64.42
+	"Tennessee"	"47"	"Wayne County, TN"	"47181"	68.36
+	"Tennessee"	"47"	"Weakley County, TN"	"47183"	68.22
+	"Tennessee"	"47"	"White County, TN"	"47185"	66.05
+	"Tennessee"	"47"	"Williamson County, TN"	"47187"	67.48
+	"Tennessee"	"47"	"Wilson County, TN"	"47189"	67.51
+"Total"	"Tennessee"	"47"			67.08
+	"Texas"	"48"	"Anderson County, TX"	"48001"	78.11
+	"Texas"	"48"	"Andrews County, TX"	"48003"	76.60
+	"Texas"	"48"	"Angelina County, TX"	"48005"	78.21
+	"Texas"	"48"	"Aransas County, TX"	"48007"	78.41
+	"Texas"	"48"	"Archer County, TX"	"48009"	77.16
+	"Texas"	"48"	"Armstrong County, TX"	"48011"	72.64
+	"Texas"	"48"	"Atascosa County, TX"	"48013"	84.18
+	"Texas"	"48"	"Austin County, TX"	"48015"	79.86
+	"Texas"	"48"	"Bailey County, TX"	"48017"	72.89
+	"Texas"	"48"	"Bandera County, TX"	"48019"	79.26
+	"Texas"	"48"	"Bastrop County, TX"	"48021"	81.00
+	"Texas"	"48"	"Baylor County, TX"	"48023"	77.20
+	"Texas"	"48"	"Bee County, TX"	"48025"	83.55
+	"Texas"	"48"	"Bell County, TX"	"48027"	79.61
+	"Texas"	"48"	"Bexar County, TX"	"48029"	81.63
+	"Texas"	"48"	"Blanco County, TX"	"48031"	78.91
+	"Texas"	"48"	"Borden County, TX"	"48033"	77.07
+	"Texas"	"48"	"Bosque County, TX"	"48035"	78.54
+	"Texas"	"48"	"Bowie County, TX"	"48037"	75.14
+	"Texas"	"48"	"Brazoria County, TX"	"48039"	77.24
+	"Texas"	"48"	"Brazos County, TX"	"48041"	79.88
+	"Texas"	"48"	"Brewster County, TX"	"48043"	78.52
+	"Texas"	"48"	"Briscoe County, TX"	"48045"	73.51
+	"Texas"	"48"	"Brooks County, TX"	"48047"	85.83
+	"Texas"	"48"	"Brown County, TX"	"48049"	78.54
+	"Texas"	"48"	"Burleson County, TX"	"48051"	80.36
+	"Texas"	"48"	"Burnet County, TX"	"48053"	79.09
+	"Texas"	"48"	"Caldwell County, TX"	"48055"	81.55
+	"Texas"	"48"	"Calhoun County, TX"	"48057"	79.04
+	"Texas"	"48"	"Callahan County, TX"	"48059"	77.14
+	"Texas"	"48"	"Cameron County, TX"	"48061"	82.92
+	"Texas"	"48"	"Camp County, TX"	"48063"	76.25
+	"Texas"	"48"	"Carson County, TX"	"48065"	71.15
+	"Texas"	"48"	"Cass County, TX"	"48067"	75.76
+	"Texas"	"48"	"Castro County, TX"	"48069"	72.16
+	"Texas"	"48"	"Chambers County, TX"	"48071"	75.74
+	"Texas"	"48"	"Cherokee County, TX"	"48073"	77.69
+	"Texas"	"48"	"Childress County, TX"	"48075"	76.31
+	"Texas"	"48"	"Clay County, TX"	"48077"	76.61
+	"Texas"	"48"	"Cochran County, TX"	"48079"	73.46
+	"Texas"	"48"	"Coke County, TX"	"48081"	78.34
+	"Texas"	"48"	"Coleman County, TX"	"48083"	78.40
+	"Texas"	"48"	"Collin County, TX"	"48085"	76.31
+	"Texas"	"48"	"Collingsworth County, TX"	"48087"	74.24
+	"Texas"	"48"	"Colorado County, TX"	"48089"	80.27
+	"Texas"	"48"	"Comal County, TX"	"48091"	80.06
+	"Texas"	"48"	"Comanche County, TX"	"48093"	78.10
+	"Texas"	"48"	"Concho County, TX"	"48095"	79.14
+	"Texas"	"48"	"Cooke County, TX"	"48097"	75.56
+	"Texas"	"48"	"Coryell County, TX"	"48099"	78.73
+	"Texas"	"48"	"Cottle County, TX"	"48101"	76.93
+	"Texas"	"48"	"Crane County, TX"	"48103"	80.21
+	"Texas"	"48"	"Crockett County, TX"	"48105"	79.36
+	"Texas"	"48"	"Crosby County, TX"	"48107"	74.53
+	"Texas"	"48"	"Culberson County, TX"	"48109"	75.99
+	"Texas"	"48"	"Dallam County, TX"	"48111"	70.17
+	"Texas"	"48"	"Dallas County, TX"	"48113"	77.49
+	"Texas"	"48"	"Dawson County, TX"	"48115"	76.14
+	"Texas"	"48"	"Deaf Smith County, TX"	"48117"	71.12
+	"Texas"	"48"	"Delta County, TX"	"48119"	75.53
+	"Texas"	"48"	"Denton County, TX"	"48121"	76.90
+	"Texas"	"48"	"DeWitt County, TX"	"48123"	81.95
+	"Texas"	"48"	"Dickens County, TX"	"48125"	75.91
+	"Texas"	"48"	"Dimmit County, TX"	"48127"	85.63
+	"Texas"	"48"	"Donley County, TX"	"48129"	73.15
+	"Texas"	"48"	"Duval County, TX"	"48131"	84.77
+	"Texas"	"48"	"Eastland County, TX"	"48133"	77.33
+	"Texas"	"48"	"Ector County, TX"	"48135"	77.90
+	"Texas"	"48"	"Edwards County, TX"	"48137"	79.47
+	"Texas"	"48"	"Ellis County, TX"	"48139"	77.90
+	"Texas"	"48"	"El Paso County, TX"	"48141"	75.92
+	"Texas"	"48"	"Erath County, TX"	"48143"	77.60
+	"Texas"	"48"	"Falls County, TX"	"48145"	79.46
+	"Texas"	"48"	"Fannin County, TX"	"48147"	75.05
+	"Texas"	"48"	"Fayette County, TX"	"48149"	80.63
+	"Texas"	"48"	"Fisher County, TX"	"48151"	77.84
+	"Texas"	"48"	"Floyd County, TX"	"48153"	73.35
+	"Texas"	"48"	"Foard County, TX"	"48155"	77.01
+	"Texas"	"48"	"Fort Bend County, TX"	"48157"	79.25
+	"Texas"	"48"	"Franklin County, TX"	"48159"	75.90
+	"Texas"	"48"	"Freestone County, TX"	"48161"	78.49
+	"Texas"	"48"	"Frio County, TX"	"48163"	84.59
+	"Texas"	"48"	"Gaines County, TX"	"48165"	75.78
+	"Texas"	"48"	"Galveston County, TX"	"48167"	75.61
+	"Texas"	"48"	"Garza County, TX"	"48169"	76.80
+	"Texas"	"48"	"Gillespie County, TX"	"48171"	78.01
+	"Texas"	"48"	"Glasscock County, TX"	"48173"	77.89
+	"Texas"	"48"	"Goliad County, TX"	"48175"	82.54
+	"Texas"	"48"	"Gonzales County, TX"	"48177"	82.05
+	"Texas"	"48"	"Gray County, TX"	"48179"	71.32
+	"Texas"	"48"	"Grayson County, TX"	"48181"	75.37
+	"Texas"	"48"	"Gregg County, TX"	"48183"	77.13
+	"Texas"	"48"	"Grimes County, TX"	"48185"	79.52
+	"Texas"	"48"	"Guadalupe County, TX"	"48187"	81.78
+	"Texas"	"48"	"Hale County, TX"	"48189"	73.21
+	"Texas"	"48"	"Hall County, TX"	"48191"	75.85
+	"Texas"	"48"	"Hamilton County, TX"	"48193"	77.97
+	"Texas"	"48"	"Hansford County, TX"	"48195"	71.09
+	"Texas"	"48"	"Hardeman County, TX"	"48197"	76.56
+	"Texas"	"48"	"Hardin County, TX"	"48199"	78.13
+	"Texas"	"48"	"Harris County, TX"	"48201"	78.72
+	"Texas"	"48"	"Harrison County, TX"	"48203"	76.57
+	"Texas"	"48"	"Hartley County, TX"	"48205"	70.90
+	"Texas"	"48"	"Haskell County, TX"	"48207"	77.76
+	"Texas"	"48"	"Hays County, TX"	"48209"	79.80
+	"Texas"	"48"	"Hemphill County, TX"	"48211"	71.80
+	"Texas"	"48"	"Henderson County, TX"	"48213"	77.80
+	"Texas"	"48"	"Hidalgo County, TX"	"48215"	86.62
+	"Texas"	"48"	"Hill County, TX"	"48217"	78.38
+	"Texas"	"48"	"Hockley County, TX"	"48219"	73.99
+	"Texas"	"48"	"Hood County, TX"	"48221"	78.27
+	"Texas"	"48"	"Hopkins County, TX"	"48223"	75.81
+	"Texas"	"48"	"Houston County, TX"	"48225"	78.55
+	"Texas"	"48"	"Howard County, TX"	"48227"	77.84
+	"Texas"	"48"	"Hudspeth County, TX"	"48229"	74.68
+	"Texas"	"48"	"Hunt County, TX"	"48231"	76.08
+	"Texas"	"48"	"Hutchinson County, TX"	"48233"	72.34
+	"Texas"	"48"	"Irion County, TX"	"48235"	78.61
+	"Texas"	"48"	"Jack County, TX"	"48237"	76.72
+	"Texas"	"48"	"Jackson County, TX"	"48239"	80.60
+	"Texas"	"48"	"Jasper County, TX"	"48241"	77.76
+	"Texas"	"48"	"Jeff Davis County, TX"	"48243"	72.93
+	"Texas"	"48"	"Jefferson County, TX"	"48245"	76.69
+	"Texas"	"48"	"Jim Hogg County, TX"	"48247"	85.61
+	"Texas"	"48"	"Jim Wells County, TX"	"48249"	84.53
+	"Texas"	"48"	"Johnson County, TX"	"48251"	77.83
+	"Texas"	"48"	"Jones County, TX"	"48253"	78.26
+	"Texas"	"48"	"Karnes County, TX"	"48255"	83.24
+	"Texas"	"48"	"Kaufman County, TX"	"48257"	77.44
+	"Texas"	"48"	"Kendall County, TX"	"48259"	78.41
+	"Texas"	"48"	"Kenedy County, TX"	"48261"	83.97
+	"Texas"	"48"	"Kent County, TX"	"48263"	77.50
+	"Texas"	"48"	"Kerr County, TX"	"48265"	78.03
+	"Texas"	"48"	"Kimble County, TX"	"48267"	78.88
+	"Texas"	"48"	"King County, TX"	"48269"	77.28
+	"Texas"	"48"	"Kinney County, TX"	"48271"	83.27
+	"Texas"	"48"	"Kleberg County, TX"	"48273"	82.89
+	"Texas"	"48"	"Knox County, TX"	"48275"	77.55
+	"Texas"	"48"	"Lamar County, TX"	"48277"	74.89
+	"Texas"	"48"	"Lamb County, TX"	"48279"	73.26
+	"Texas"	"48"	"Lampasas County, TX"	"48281"	78.75
+	"Texas"	"48"	"La Salle County, TX"	"48283"	85.77
+	"Texas"	"48"	"Lavaca County, TX"	"48285"	81.02
+	"Texas"	"48"	"Lee County, TX"	"48287"	80.52
+	"Texas"	"48"	"Leon County, TX"	"48289"	78.88
+	"Texas"	"48"	"Liberty County, TX"	"48291"	78.19
+	"Texas"	"48"	"Limestone County, TX"	"48293"	78.57
+	"Texas"	"48"	"Lipscomb County, TX"	"48295"	70.76
+	"Texas"	"48"	"Live Oak County, TX"	"48297"	84.75
+	"Texas"	"48"	"Llano County, TX"	"48299"	80.05
+	"Texas"	"48"	"Loving County, TX"	"48301"	79.84
+	"Texas"	"48"	"Lubbock County, TX"	"48303"	74.23
+	"Texas"	"48"	"Lynn County, TX"	"48305"	75.27
+	"Texas"	"48"	"McCulloch County, TX"	"48307"	79.03
+	"Texas"	"48"	"McLennan County, TX"	"48309"	79.05
+	"Texas"	"48"	"McMullen County, TX"	"48311"	85.44
+	"Texas"	"48"	"Madison County, TX"	"48313"	79.37
+	"Texas"	"48"	"Marion County, TX"	"48315"	76.36
+	"Texas"	"48"	"Martin County, TX"	"48317"	77.41
+	"Texas"	"48"	"Mason County, TX"	"48319"	79.36
+	"Texas"	"48"	"Matagorda County, TX"	"48321"	78.04
+	"Texas"	"48"	"Maverick County, TX"	"48323"	85.13
+	"Texas"	"48"	"Medina County, TX"	"48325"	82.01
+	"Texas"	"48"	"Menard County, TX"	"48327"	78.53
+	"Texas"	"48"	"Midland County, TX"	"48329"	78.33
+	"Texas"	"48"	"Milam County, TX"	"48331"	80.20
+	"Texas"	"48"	"Mills County, TX"	"48333"	78.01
+	"Texas"	"48"	"Mitchell County, TX"	"48335"	78.21
+	"Texas"	"48"	"Montague County, TX"	"48337"	75.97
+	"Texas"	"48"	"Montgomery County, TX"	"48339"	78.94
+	"Texas"	"48"	"Moore County, TX"	"48341"	71.46
+	"Texas"	"48"	"Morris County, TX"	"48343"	75.86
+	"Texas"	"48"	"Motley County, TX"	"48345"	75.91
+	"Texas"	"48"	"Nacogdoches County, TX"	"48347"	77.46
+	"Texas"	"48"	"Navarro County, TX"	"48349"	78.35
+	"Texas"	"48"	"Newton County, TX"	"48351"	77.37
+	"Texas"	"48"	"Nolan County, TX"	"48353"	76.77
+	"Texas"	"48"	"Nueces County, TX"	"48355"	83.08
+	"Texas"	"48"	"Ochiltree County, TX"	"48357"	71.00
+	"Texas"	"48"	"Oldham County, TX"	"48359"	71.84
+	"Texas"	"48"	"Orange County, TX"	"48361"	77.57
+	"Texas"	"48"	"Palo Pinto County, TX"	"48363"	77.76
+	"Texas"	"48"	"Panola County, TX"	"48365"	77.01
+	"Texas"	"48"	"Parker County, TX"	"48367"	77.26
+	"Texas"	"48"	"Parmer County, TX"	"48369"	72.03
+	"Texas"	"48"	"Pecos County, TX"	"48371"	79.02
+	"Texas"	"48"	"Polk County, TX"	"48373"	78.20
+	"Texas"	"48"	"Potter County, TX"	"48375"	72.06
+	"Texas"	"48"	"Presidio County, TX"	"48377"	76.34
+	"Texas"	"48"	"Rains County, TX"	"48379"	76.57
+	"Texas"	"48"	"Randall County, TX"	"48381"	71.74
+	"Texas"	"48"	"Reagan County, TX"	"48383"	78.44
+	"Texas"	"48"	"Real County, TX"	"48385"	78.70
+	"Texas"	"48"	"Red River County, TX"	"48387"	75.05
+	"Texas"	"48"	"Reeves County, TX"	"48389"	80.36
+	"Texas"	"48"	"Refugio County, TX"	"48391"	80.42
+	"Texas"	"48"	"Roberts County, TX"	"48393"	71.63
+	"Texas"	"48"	"Robertson County, TX"	"48395"	79.45
+	"Texas"	"48"	"Rockwall County, TX"	"48397"	77.03
+	"Texas"	"48"	"Runnels County, TX"	"48399"	78.74
+	"Texas"	"48"	"Rusk County, TX"	"48401"	77.07
+	"Texas"	"48"	"Sabine County, TX"	"48403"	77.23
+	"Texas"	"48"	"San Augustine County, TX"	"48405"	77.44
+	"Texas"	"48"	"San Jacinto County, TX"	"48407"	78.58
+	"Texas"	"48"	"San Patricio County, TX"	"48409"	82.79
+	"Texas"	"48"	"San Saba County, TX"	"48411"	79.06
+	"Texas"	"48"	"Schleicher County, TX"	"48413"	78.27
+	"Texas"	"48"	"Scurry County, TX"	"48415"	77.03
+	"Texas"	"48"	"Shackelford County, TX"	"48417"	77.61
+	"Texas"	"48"	"Shelby County, TX"	"48419"	77.15
+	"Texas"	"48"	"Sherman County, TX"	"48421"	71.11
+	"Texas"	"48"	"Smith County, TX"	"48423"	77.10
+	"Texas"	"48"	"Somervell County, TX"	"48425"	78.60
+	"Texas"	"48"	"Starr County, TX"	"48427"	87.10
+	"Texas"	"48"	"Stephens County, TX"	"48429"	78.10
+	"Texas"	"48"	"Sterling County, TX"	"48431"	77.96
+	"Texas"	"48"	"Stonewall County, TX"	"48433"	78.06
+	"Texas"	"48"	"Sutton County, TX"	"48435"	78.99
+	"Texas"	"48"	"Swisher County, TX"	"48437"	72.45
+	"Texas"	"48"	"Tarrant County, TX"	"48439"	77.75
+	"Texas"	"48"	"Taylor County, TX"	"48441"	77.20
+	"Texas"	"48"	"Terrell County, TX"	"48443"	80.98
+	"Texas"	"48"	"Terry County, TX"	"48445"	74.90
+	"Texas"	"48"	"Throckmorton County, TX"	"48447"	77.58
+	"Texas"	"48"	"Titus County, TX"	"48449"	75.95
+	"Texas"	"48"	"Tom Green County, TX"	"48451"	78.98
+	"Texas"	"48"	"Travis County, TX"	"48453"	80.35
+	"Texas"	"48"	"Trinity County, TX"	"48455"	78.63
+	"Texas"	"48"	"Tyler County, TX"	"48457"	77.82
+	"Texas"	"48"	"Upshur County, TX"	"48459"	76.69
+	"Texas"	"48"	"Upton County, TX"	"48461"	79.01
+	"Texas"	"48"	"Uvalde County, TX"	"48463"	82.45
+	"Texas"	"48"	"Val Verde County, TX"	"48465"	82.50
+	"Texas"	"48"	"Van Zandt County, TX"	"48467"	77.00
+	"Texas"	"48"	"Victoria County, TX"	"48469"	81.33
+	"Texas"	"48"	"Walker County, TX"	"48471"	79.06
+	"Texas"	"48"	"Waller County, TX"	"48473"	79.58
+	"Texas"	"48"	"Ward County, TX"	"48475"	81.24
+	"Texas"	"48"	"Washington County, TX"	"48477"	79.99
+	"Texas"	"48"	"Webb County, TX"	"48479"	85.61
+	"Texas"	"48"	"Wharton County, TX"	"48481"	79.96
+	"Texas"	"48"	"Wheeler County, TX"	"48483"	72.40
+	"Texas"	"48"	"Wichita County, TX"	"48485"	76.59
+	"Texas"	"48"	"Wilbarger County, TX"	"48487"	76.75
+	"Texas"	"48"	"Willacy County, TX"	"48489"	83.50
+	"Texas"	"48"	"Williamson County, TX"	"48491"	79.81
+	"Texas"	"48"	"Wilson County, TX"	"48493"	82.83
+	"Texas"	"48"	"Winkler County, TX"	"48495"	79.08
+	"Texas"	"48"	"Wise County, TX"	"48497"	76.90
+	"Texas"	"48"	"Wood County, TX"	"48499"	76.51
+	"Texas"	"48"	"Yoakum County, TX"	"48501"	74.31
+	"Texas"	"48"	"Young County, TX"	"48503"	77.30
+	"Texas"	"48"	"Zapata County, TX"	"48505"	86.85
+	"Texas"	"48"	"Zavala County, TX"	"48507"	84.94
+"Total"	"Texas"	"48"			78.14
+	"Utah"	"49"	"Beaver County, UT"	"49001"	58.59
+	"Utah"	"49"	"Box Elder County, UT"	"49003"	59.27
+	"Utah"	"49"	"Cache County, UT"	"49005"	52.87
+	"Utah"	"49"	"Carbon County, UT"	"49007"	53.76
+	"Utah"	"49"	"Daggett County, UT"	"49009"	49.90
+	"Utah"	"49"	"Davis County, UT"	"49011"	61.48
+	"Utah"	"49"	"Duchesne County, UT"	"49013"	50.20
+	"Utah"	"49"	"Emery County, UT"	"49015"	61.04
+	"Utah"	"49"	"Garfield County, UT"	"49017"	58.22
+	"Utah"	"49"	"Grand County, UT"	"49019"	60.83
+	"Utah"	"49"	"Iron County, UT"	"49021"	58.05
+	"Utah"	"49"	"Juab County, UT"	"49023"	59.90
+	"Utah"	"49"	"Kane County, UT"	"49025"	63.15
+	"Utah"	"49"	"Millard County, UT"	"49027"	61.19
+	"Utah"	"49"	"Morgan County, UT"	"49029"	52.51
+	"Utah"	"49"	"Piute County, UT"	"49031"	52.29
+	"Utah"	"49"	"Rich County, UT"	"49033"	51.33
+	"Utah"	"49"	"Salt Lake County, UT"	"49035"	57.78
+	"Utah"	"49"	"San Juan County, UT"	"49037"	63.03
+	"Utah"	"49"	"Sanpete County, UT"	"49039"	53.03
+	"Utah"	"49"	"Sevier County, UT"	"49041"	53.24
+	"Utah"	"49"	"Summit County, UT"	"49043"	45.90
+	"Utah"	"49"	"Tooele County, UT"	"49045"	61.29
+	"Utah"	"49"	"Uintah County, UT"	"49047"	57.27
+	"Utah"	"49"	"Utah County, UT"	"49049"	56.02
+	"Utah"	"49"	"Wasatch County, UT"	"49051"	49.03
+	"Utah"	"49"	"Washington County, UT"	"49053"	65.27
+	"Utah"	"49"	"Wayne County, UT"	"49055"	60.27
+	"Utah"	"49"	"Weber County, UT"	"49057"	56.87
+"Total"	"Utah"	"49"			58.56
+	"Vermont"	"50"	"Addison County, VT"	"50001"	51.25
+	"Vermont"	"50"	"Bennington County, VT"	"50003"	49.73
+	"Vermont"	"50"	"Caledonia County, VT"	"50005"	48.70
+	"Vermont"	"50"	"Chittenden County, VT"	"50007"	51.27
+	"Vermont"	"50"	"Essex County, VT"	"50009"	47.38
+	"Vermont"	"50"	"Franklin County, VT"	"50011"	50.29
+	"Vermont"	"50"	"Grand Isle County, VT"	"50013"	52.75
+	"Vermont"	"50"	"Lamoille County, VT"	"50015"	48.67
+	"Vermont"	"50"	"Orange County, VT"	"50017"	50.12
+	"Vermont"	"50"	"Orleans County, VT"	"50019"	48.37
+	"Vermont"	"50"	"Rutland County, VT"	"50021"	50.40
+	"Vermont"	"50"	"Washington County, VT"	"50023"	48.95
+	"Vermont"	"50"	"Windham County, VT"	"50025"	51.00
+	"Vermont"	"50"	"Windsor County, VT"	"50027"	50.73
+"Total"	"Vermont"	"50"			49.90
+	"Virginia"	"51"	"Accomack County, VA"	"51001"	61.34
+	"Virginia"	"51"	"Albemarle County, VA"	"51003"	64.99
+	"Virginia"	"51"	"Alleghany County, VA"	"51005"	60.78
+	"Virginia"	"51"	"Amelia County, VA"	"51007"	67.22
+	"Virginia"	"51"	"Amherst County, VA"	"51009"	64.64
+	"Virginia"	"51"	"Appomattox County, VA"	"51011"	66.20
+	"Virginia"	"51"	"Arlington County, VA"	"51013"	63.98
+	"Virginia"	"51"	"Augusta County, VA"	"51015"	60.72
+	"Virginia"	"51"	"Bath County, VA"	"51017"	59.49
+	"Virginia"	"51"	"Bedford County, VA"	"51019"	64.85
+	"Virginia"	"51"	"Bland County, VA"	"51021"	59.25
+	"Virginia"	"51"	"Botetourt County, VA"	"51023"	62.92
+	"Virginia"	"51"	"Brunswick County, VA"	"51025"	68.07
+	"Virginia"	"51"	"Buchanan County, VA"	"51027"	62.30
+	"Virginia"	"51"	"Buckingham County, VA"	"51029"	66.36
+	"Virginia"	"51"	"Campbell County, VA"	"51031"	66.35
+	"Virginia"	"51"	"Caroline County, VA"	"51033"	66.12
+	"Virginia"	"51"	"Carroll County, VA"	"51035"	60.95
+	"Virginia"	"51"	"Charles City County, VA"	"51036"	67.72
+	"Virginia"	"51"	"Charlotte County, VA"	"51037"	67.16
+	"Virginia"	"51"	"Chesterfield County, VA"	"51041"	67.27
+	"Virginia"	"51"	"Clarke County, VA"	"51043"	62.67
+	"Virginia"	"51"	"Craig County, VA"	"51045"	60.61
+	"Virginia"	"51"	"Culpeper County, VA"	"51047"	64.70
+	"Virginia"	"51"	"Cumberland County, VA"	"51049"	67.02
+	"Virginia"	"51"	"Dickenson County, VA"	"51051"	62.15
+	"Virginia"	"51"	"Dinwiddie County, VA"	"51053"	67.63
+	"Virginia"	"51"	"Essex County, VA"	"51057"	66.14
+	"Virginia"	"51"	"Fairfax County, VA"	"51059"	64.10
+	"Virginia"	"51"	"Fauquier County, VA"	"51061"	63.95
+	"Virginia"	"51"	"Floyd County, VA"	"51063"	60.14
+	"Virginia"	"51"	"Fluvanna County, VA"	"51065"	66.33
+	"Virginia"	"51"	"Franklin County, VA"	"51067"	64.95
+	"Virginia"	"51"	"Frederick County, VA"	"51069"	61.60
+	"Virginia"	"51"	"Giles County, VA"	"51071"	59.90
+	"Virginia"	"51"	"Gloucester County, VA"	"51073"	66.19
+	"Virginia"	"51"	"Goochland County, VA"	"51075"	66.73
+	"Virginia"	"51"	"Grayson County, VA"	"51077"	58.41
+	"Virginia"	"51"	"Greene County, VA"	"51079"	60.94
+	"Virginia"	"51"	"Greensville County, VA"	"51081"	68.49
+	"Virginia"	"51"	"Halifax County, VA"	"51083"	67.72
+	"Virginia"	"51"	"Hanover County, VA"	"51085"	66.64
+	"Virginia"	"51"	"Henrico County, VA"	"51087"	67.18
+	"Virginia"	"51"	"Henry County, VA"	"51089"	66.27
+	"Virginia"	"51"	"Highland County, VA"	"51091"	56.52
+	"Virginia"	"51"	"Isle of Wight County, VA"	"51093"	67.85
+	"Virginia"	"51"	"James City County, VA"	"51095"	67.06
+	"Virginia"	"51"	"King and Queen County, VA"	"51097"	66.40
+	"Virginia"	"51"	"King George County, VA"	"51099"	65.70
+	"Virginia"	"51"	"King William County, VA"	"51101"	66.76
+	"Virginia"	"51"	"Lancaster County, VA"	"51103"	62.73
+	"Virginia"	"51"	"Lee County, VA"	"51105"	62.51
+	"Virginia"	"51"	"Loudoun County, VA"	"51107"	63.17
+	"Virginia"	"51"	"Louisa County, VA"	"51109"	65.99
+	"Virginia"	"51"	"Lunenburg County, VA"	"51111"	67.40
+	"Virginia"	"51"	"Madison County, VA"	"51113"	63.15
+	"Virginia"	"51"	"Mathews County, VA"	"51115"	63.82
+	"Virginia"	"51"	"Mecklenburg County, VA"	"51117"	68.24
+	"Virginia"	"51"	"Middlesex County, VA"	"51119"	65.51
+	"Virginia"	"51"	"Montgomery County, VA"	"51121"	61.37
+	"Virginia"	"51"	"Nelson County, VA"	"51125"	64.05
+	"Virginia"	"51"	"New Kent County, VA"	"51127"	67.22
+	"Virginia"	"51"	"Northampton County, VA"	"51131"	61.41
+	"Virginia"	"51"	"Northumberland County, VA"	"51133"	61.34
+	"Virginia"	"51"	"Nottoway County, VA"	"51135"	67.29
+	"Virginia"	"51"	"Orange County, VA"	"51137"	65.22
+	"Virginia"	"51"	"Page County, VA"	"51139"	61.17
+	"Virginia"	"51"	"Patrick County, VA"	"51141"	63.80
+	"Virginia"	"51"	"Pittsylvania County, VA"	"51143"	66.86
+	"Virginia"	"51"	"Powhatan County, VA"	"51145"	66.93
+	"Virginia"	"51"	"Prince Edward County, VA"	"51147"	67.00
+	"Virginia"	"51"	"Prince George County, VA"	"51149"	67.85
+	"Virginia"	"51"	"Prince William County, VA"	"51153"	64.45
+	"Virginia"	"51"	"Pulaski County, VA"	"51155"	61.57
+	"Virginia"	"51"	"Rappahannock County, VA"	"51157"	62.20
+	"Virginia"	"51"	"Richmond County, VA"	"51159"	65.39
+	"Virginia"	"51"	"Roanoke County, VA"	"51161"	62.92
+	"Virginia"	"51"	"Rockbridge County, VA"	"51163"	61.68
+	"Virginia"	"51"	"Rockingham County, VA"	"51165"	60.99
+	"Virginia"	"51"	"Russell County, VA"	"51167"	61.69
+	"Virginia"	"51"	"Scott County, VA"	"51169"	63.07
+	"Virginia"	"51"	"Shenandoah County, VA"	"51171"	61.60
+	"Virginia"	"51"	"Smyth County, VA"	"51173"	59.42
+	"Virginia"	"51"	"Southampton County, VA"	"51175"	68.55
+	"Virginia"	"51"	"Spotsylvania County, VA"	"51177"	65.59
+	"Virginia"	"51"	"Stafford County, VA"	"51179"	65.30
+	"Virginia"	"51"	"Surry County, VA"	"51181"	67.54
+	"Virginia"	"51"	"Sussex County, VA"	"51183"	68.05
+	"Virginia"	"51"	"Tazewell County, VA"	"51185"	59.58
+	"Virginia"	"51"	"Warren County, VA"	"51187"	61.54
+	"Virginia"	"51"	"Washington County, VA"	"51191"	61.99
+	"Virginia"	"51"	"Westmoreland County, VA"	"51193"	63.65
+	"Virginia"	"51"	"Wise County, VA"	"51195"	61.11
+	"Virginia"	"51"	"Wythe County, VA"	"51197"	60.48
+	"Virginia"	"51"	"York County, VA"	"51199"	65.85
+	"Virginia"	"51"	"Alexandria city, VA"	"51510"	64.71
+	"Virginia"	"51"	"Bedford city, VA"	"51515"	65.46
+	"Virginia"	"51"	"Bristol city, VA"	"51520"	63.95
+	"Virginia"	"51"	"Buena Vista city, VA"	"51530"	62.13
+	"Virginia"	"51"	"Charlottesville city, VA"	"51540"	65.67
+	"Virginia"	"51"	"Chesapeake city, VA"	"51550"	68.06
+	"Virginia"	"51"	"Clifton Forge city, VA"	"51560"	63.13
+	"Virginia"	"51"	"Colonial Heights city, VA"	"51570"	67.69
+	"Virginia"	"51"	"Covington city, VA"	"51580"	61.24
+	"Virginia"	"51"	"Danville city, VA"	"51590"	67.74
+	"Virginia"	"51"	"Emporia city, VA"	"51595"	68.46
+	"Virginia"	"51"	"Fairfax city, VA"	"51600"	63.87
+	"Virginia"	"51"	"Falls Church city, VA"	"51610"	63.81
+	"Virginia"	"51"	"Franklin city, VA"	"51620"	68.76
+	"Virginia"	"51"	"Fredericksburg city, VA"	"51630"	65.74
+	"Virginia"	"51"	"Galax city, VA"	"51640"	60.92
+	"Virginia"	"51"	"Hampton city, VA"	"51650"	64.98
+	"Virginia"	"51"	"Harrisonburg city, VA"	"51660"	62.27
+	"Virginia"	"51"	"Hopewell city, VA"	"51670"	67.73
+	"Virginia"	"51"	"Lexington city, VA"	"51678"	63.13
+	"Virginia"	"51"	"Lynchburg city, VA"	"51680"	65.81
+	"Virginia"	"51"	"Manassas city, VA"	"51683"	64.47
+	"Virginia"	"51"	"Manassas Park city, VA"	"51685"	64.17
+	"Virginia"	"51"	"Martinsville city, VA"	"51690"	66.61
+	"Virginia"	"51"	"Newport News city, VA"	"51700"	66.11
+	"Virginia"	"51"	"Norfolk city, VA"	"51710"	65.86
+	"Virginia"	"51"	"Norton city, VA"	"51720"	59.62
+	"Virginia"	"51"	"Petersburg city, VA"	"51730"	67.84
+	"Virginia"	"51"	"Poquoson city, VA"	"51735"	63.66
+	"Virginia"	"51"	"Portsmouth city, VA"	"51740"	67.78
+	"Virginia"	"51"	"Radford city, VA"	"51750"	62.23
+	"Virginia"	"51"	"Richmond city, VA"	"51760"	67.10
+	"Virginia"	"51"	"Roanoke city, VA"	"51770"	64.77
+	"Virginia"	"51"	"Salem city, VA"	"51775"	63.69
+	"Virginia"	"51"	"South Boston  city, VA"	"51780"	67.90
+	"Virginia"	"51"	"Staunton city, VA"	"51790"	62.08
+	"Virginia"	"51"	"Suffolk city, VA"	"51800"	68.46
+	"Virginia"	"51"	"Virginia Beach city, VA"	"51810"	66.74
+	"Virginia"	"51"	"Waynesboro city, VA"	"51820"	62.13
+	"Virginia"	"51"	"Williamsburg city, VA"	"51830"	66.83
+	"Virginia"	"51"	"Winchester city, VA"	"51840"	62.02
+"Total"	"Virginia"	"51"			64.32
+	"Washington"	"53"	"Adams County, WA"	"53001"	60.83
+	"Washington"	"53"	"Asotin County, WA"	"53003"	58.14
+	"Washington"	"53"	"Benton County, WA"	"53005"	64.15
+	"Washington"	"53"	"Chelan County, WA"	"53007"	49.54
+	"Washington"	"53"	"Clallam County, WA"	"53009"	53.13
+	"Washington"	"53"	"Clark County, WA"	"53011"	59.36
+	"Washington"	"53"	"Columbia County, WA"	"53013"	57.66
+	"Washington"	"53"	"Cowlitz County, WA"	"53015"	56.64
+	"Washington"	"53"	"Douglas County, WA"	"53017"	57.58
+	"Washington"	"53"	"Ferry County, WA"	"53019"	53.11
+	"Washington"	"53"	"Franklin County, WA"	"53021"	63.76
+	"Washington"	"53"	"Garfield County, WA"	"53023"	57.65
+	"Washington"	"53"	"Grant County, WA"	"53025"	61.48
+	"Washington"	"53"	"Grays Harbor County, WA"	"53027"	56.54
+	"Washington"	"53"	"Island County, WA"	"53029"	55.78
+	"Washington"	"53"	"Jefferson County, WA"	"53031"	51.10
+	"Washington"	"53"	"King County, WA"	"53033"	54.07
+	"Washington"	"53"	"Kitsap County, WA"	"53035"	59.21
+	"Washington"	"53"	"Kittitas County, WA"	"53037"	53.34
+	"Washington"	"53"	"Klickitat County, WA"	"53039"	58.79
+	"Washington"	"53"	"Lewis County, WA"	"53041"	54.42
+	"Washington"	"53"	"Lincoln County, WA"	"53043"	58.12
+	"Washington"	"53"	"Mason County, WA"	"53045"	56.21
+	"Washington"	"53"	"Okanogan County, WA"	"53047"	50.28
+	"Washington"	"53"	"Pacific County, WA"	"53049"	56.51
+	"Washington"	"53"	"Pend Oreille County, WA"	"53051"	52.25
+	"Washington"	"53"	"Pierce County, WA"	"53053"	52.82
+	"Washington"	"53"	"San Juan County, WA"	"53055"	52.19
+	"Washington"	"53"	"Skagit County, WA"	"53057"	50.12
+	"Washington"	"53"	"Skamania County, WA"	"53059"	52.02
+	"Washington"	"53"	"Snohomish County, WA"	"53061"	51.44
+	"Washington"	"53"	"Spokane County, WA"	"53063"	57.07
+	"Washington"	"53"	"Stevens County, WA"	"53065"	55.11
+	"Washington"	"53"	"Thurston County, WA"	"53067"	58.82
+	"Washington"	"53"	"Wahkiakum County, WA"	"53069"	57.83
+	"Washington"	"53"	"Walla Walla County, WA"	"53071"	63.03
+	"Washington"	"53"	"Whatcom County, WA"	"53073"	48.97
+	"Washington"	"53"	"Whitman County, WA"	"53075"	59.25
+	"Washington"	"53"	"Yakima County, WA"	"53077"	55.24
+"Total"	"Washington"	"53"			55.18
+	"West Virginia"	"54"	"Barbour County, WV"	"54001"	59.21
+	"West Virginia"	"54"	"Berkeley County, WV"	"54003"	61.94
+	"West Virginia"	"54"	"Boone County, WV"	"54005"	62.43
+	"West Virginia"	"54"	"Braxton County, WV"	"54007"	61.41
+	"West Virginia"	"54"	"Brooke County, WV"	"54009"	58.96
+	"West Virginia"	"54"	"Cabell County, WV"	"54011"	63.98
+	"West Virginia"	"54"	"Calhoun County, WV"	"54013"	62.22
+	"West Virginia"	"54"	"Clay County, WV"	"54015"	62.02
+	"West Virginia"	"54"	"Doddridge County, WV"	"54017"	61.07
+	"West Virginia"	"54"	"Fayette County, WV"	"54019"	59.76
+	"West Virginia"	"54"	"Gilmer County, WV"	"54021"	62.02
+	"West Virginia"	"54"	"Grant County, WV"	"54023"	58.96
+	"West Virginia"	"54"	"Greenbrier County, WV"	"54025"	58.00
+	"West Virginia"	"54"	"Hampshire County, WV"	"54027"	60.52
+	"West Virginia"	"54"	"Hancock County, WV"	"54029"	58.71
+	"West Virginia"	"54"	"Hardy County, WV"	"54031"	59.71
+	"West Virginia"	"54"	"Harrison County, WV"	"54033"	60.57
+	"West Virginia"	"54"	"Jackson County, WV"	"54035"	62.95
+	"West Virginia"	"54"	"Jefferson County, WV"	"54037"	62.35
+	"West Virginia"	"54"	"Kanawha County, WV"	"54039"	63.09
+	"West Virginia"	"54"	"Lewis County, WV"	"54041"	60.90
+	"West Virginia"	"54"	"Lincoln County, WV"	"54043"	64.08
+	"West Virginia"	"54"	"Logan County, WV"	"54045"	62.80
+	"West Virginia"	"54"	"McDowell County, WV"	"54047"	61.81
+	"West Virginia"	"54"	"Marion County, WV"	"54049"	60.06
+	"West Virginia"	"54"	"Marshall County, WV"	"54051"	59.62
+	"West Virginia"	"54"	"Mason County, WV"	"54053"	63.50
+	"West Virginia"	"54"	"Mercer County, WV"	"54055"	59.70
+	"West Virginia"	"54"	"Mineral County, WV"	"54057"	60.15
+	"West Virginia"	"54"	"Mingo County, WV"	"54059"	63.60
+	"West Virginia"	"54"	"Monongalia County, WV"	"54061"	59.57
+	"West Virginia"	"54"	"Monroe County, WV"	"54063"	60.48
+	"West Virginia"	"54"	"Morgan County, WV"	"54065"	61.10
+	"West Virginia"	"54"	"Nicholas County, WV"	"54067"	58.55
+	"West Virginia"	"54"	"Ohio County, WV"	"54069"	59.31
+	"West Virginia"	"54"	"Pendleton County, WV"	"54071"	57.14
+	"West Virginia"	"54"	"Pleasants County, WV"	"54073"	61.67
+	"West Virginia"	"54"	"Pocahontas County, WV"	"54075"	55.08
+	"West Virginia"	"54"	"Preston County, WV"	"54077"	57.13
+	"West Virginia"	"54"	"Putnam County, WV"	"54079"	63.84
+	"West Virginia"	"54"	"Raleigh County, WV"	"54081"	59.74
+	"West Virginia"	"54"	"Randolph County, WV"	"54083"	54.98
+	"West Virginia"	"54"	"Ritchie County, WV"	"54085"	61.71
+	"West Virginia"	"54"	"Roane County, WV"	"54087"	62.64
+	"West Virginia"	"54"	"Summers County, WV"	"54089"	60.61
+	"West Virginia"	"54"	"Taylor County, WV"	"54091"	59.68
+	"West Virginia"	"54"	"Tucker County, WV"	"54093"	54.95
+	"West Virginia"	"54"	"Tyler County, WV"	"54095"	61.11
+	"West Virginia"	"54"	"Upshur County, WV"	"54097"	59.07
+	"West Virginia"	"54"	"Wayne County, WV"	"54099"	64.19
+	"West Virginia"	"54"	"Webster County, WV"	"54101"	57.41
+	"West Virginia"	"54"	"Wetzel County, WV"	"54103"	60.01
+	"West Virginia"	"54"	"Wirt County, WV"	"54105"	62.21
+	"West Virginia"	"54"	"Wood County, WV"	"54107"	62.18
+	"West Virginia"	"54"	"Wyoming County, WV"	"54109"	61.41
+"Total"	"West Virginia"	"54"			60.16
+	"Wisconsin"	"55"	"Adams County, WI"	"55001"	53.53
+	"Wisconsin"	"55"	"Ashland County, WI"	"55003"	48.71
+	"Wisconsin"	"55"	"Barron County, WI"	"55005"	51.01
+	"Wisconsin"	"55"	"Bayfield County, WI"	"55007"	48.65
+	"Wisconsin"	"55"	"Brown County, WI"	"55009"	52.54
+	"Wisconsin"	"55"	"Buffalo County, WI"	"55011"	53.30
+	"Wisconsin"	"55"	"Burnett County, WI"	"55013"	51.32
+	"Wisconsin"	"55"	"Calumet County, WI"	"55015"	52.90
+	"Wisconsin"	"55"	"Chippewa County, WI"	"55017"	51.95
+	"Wisconsin"	"55"	"Clark County, WI"	"55019"	51.75
+	"Wisconsin"	"55"	"Columbia County, WI"	"55021"	54.40
+	"Wisconsin"	"55"	"Crawford County, WI"	"55023"	55.02
+	"Wisconsin"	"55"	"Dane County, WI"	"55025"	54.85
+	"Wisconsin"	"55"	"Dodge County, WI"	"55027"	53.90
+	"Wisconsin"	"55"	"Door County, WI"	"55029"	48.68
+	"Wisconsin"	"55"	"Douglas County, WI"	"55031"	49.98
+	"Wisconsin"	"55"	"Dunn County, WI"	"55033"	52.42
+	"Wisconsin"	"55"	"Eau Claire County, WI"	"55035"	52.54
+	"Wisconsin"	"55"	"Florence County, WI"	"55037"	49.24
+	"Wisconsin"	"55"	"Fond du Lac County, WI"	"55039"	53.13
+	"Wisconsin"	"55"	"Forest County, WI"	"55041"	48.98
+	"Wisconsin"	"55"	"Grant County, WI"	"55043"	55.42
+	"Wisconsin"	"55"	"Green County, WI"	"55045"	55.38
+	"Wisconsin"	"55"	"Green Lake County, WI"	"55047"	53.83
+	"Wisconsin"	"55"	"Iowa County, WI"	"55049"	54.71
+	"Wisconsin"	"55"	"Iron County, WI"	"55051"	47.72
+	"Wisconsin"	"55"	"Jackson County, WI"	"55053"	53.01
+	"Wisconsin"	"55"	"Jefferson County, WI"	"55055"	54.92
+	"Wisconsin"	"55"	"Juneau County, WI"	"55057"	53.62
+	"Wisconsin"	"55"	"Kenosha County, WI"	"55059"	54.75
+	"Wisconsin"	"55"	"Kewaunee County, WI"	"55061"	49.44
+	"Wisconsin"	"55"	"La Crosse County, WI"	"55063"	53.94
+	"Wisconsin"	"55"	"Lafayette County, WI"	"55065"	55.55
+	"Wisconsin"	"55"	"Langlade County, WI"	"55067"	49.62
+	"Wisconsin"	"55"	"Lincoln County, WI"	"55069"	49.91
+	"Wisconsin"	"55"	"Manitowoc County, WI"	"55071"	50.07
+	"Wisconsin"	"55"	"Marathon County, WI"	"55073"	51.07
+	"Wisconsin"	"55"	"Marinette County, WI"	"55075"	50.66
+	"Wisconsin"	"55"	"Marquette County, WI"	"55077"	53.98
+	"Wisconsin"	"55"	"Menominee County, WI"	"55078"	51.52
+	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	53.46
+	"Wisconsin"	"55"	"Monroe County, WI"	"55081"	53.31
+	"Wisconsin"	"55"	"Oconto County, WI"	"55083"	52.02
+	"Wisconsin"	"55"	"Oneida County, WI"	"55085"	49.03
+	"Wisconsin"	"55"	"Outagamie County, WI"	"55087"	53.24
+	"Wisconsin"	"55"	"Ozaukee County, WI"	"55089"	52.46
+	"Wisconsin"	"55"	"Pepin County, WI"	"55091"	53.45
+	"Wisconsin"	"55"	"Pierce County, WI"	"55093"	52.67
+	"Wisconsin"	"55"	"Polk County, WI"	"55095"	51.26
+	"Wisconsin"	"55"	"Portage County, WI"	"55097"	52.20
+	"Wisconsin"	"55"	"Price County, WI"	"55099"	49.36
+	"Wisconsin"	"55"	"Racine County, WI"	"55101"	54.32
+	"Wisconsin"	"55"	"Richland County, WI"	"55103"	54.57
+	"Wisconsin"	"55"	"Rock County, WI"	"55105"	55.53
+	"Wisconsin"	"55"	"Rusk County, WI"	"55107"	50.79
+	"Wisconsin"	"55"	"St. Croix County, WI"	"55109"	52.05
+	"Wisconsin"	"55"	"Sauk County, WI"	"55111"	54.33
+	"Wisconsin"	"55"	"Sawyer County, WI"	"55113"	49.69
+	"Wisconsin"	"55"	"Shawano County, WI"	"55115"	52.21
+	"Wisconsin"	"55"	"Sheboygan County, WI"	"55117"	51.87
+	"Wisconsin"	"55"	"Taylor County, WI"	"55119"	50.37
+	"Wisconsin"	"55"	"Trempealeau County, WI"	"55121"	53.28
+	"Wisconsin"	"55"	"Vernon County, WI"	"55123"	53.97
+	"Wisconsin"	"55"	"Vilas County, WI"	"55125"	48.26
+	"Wisconsin"	"55"	"Walworth County, WI"	"55127"	54.91
+	"Wisconsin"	"55"	"Washburn County, WI"	"55129"	50.41
+	"Wisconsin"	"55"	"Washington County, WI"	"55131"	52.84
+	"Wisconsin"	"55"	"Waukesha County, WI"	"55133"	53.94
+	"Wisconsin"	"55"	"Waupaca County, WI"	"55135"	52.93
+	"Wisconsin"	"55"	"Waushara County, WI"	"55137"	53.18
+	"Wisconsin"	"55"	"Winnebago County, WI"	"55139"	53.63
+	"Wisconsin"	"55"	"Wood County, WI"	"55141"	52.58
+"Total"	"Wisconsin"	"55"			51.97
+	"Wyoming"	"56"	"Albany County, WY"	"56001"	51.21
+	"Wyoming"	"56"	"Big Horn County, WY"	"56003"	53.34
+	"Wyoming"	"56"	"Campbell County, WY"	"56005"	57.55
+	"Wyoming"	"56"	"Carbon County, WY"	"56007"	51.09
+	"Wyoming"	"56"	"Converse County, WY"	"56009"	56.39
+	"Wyoming"	"56"	"Crook County, WY"	"56011"	56.50
+	"Wyoming"	"56"	"Fremont County, WY"	"56013"	50.70
+	"Wyoming"	"56"	"Goshen County, WY"	"56015"	61.19
+	"Wyoming"	"56"	"Hot Springs County, WY"	"56017"	53.27
+	"Wyoming"	"56"	"Johnson County, WY"	"56019"	54.46
+	"Wyoming"	"56"	"Laramie County, WY"	"56021"	57.93
+	"Wyoming"	"56"	"Lincoln County, WY"	"56023"	48.81
+	"Wyoming"	"56"	"Natrona County, WY"	"56025"	54.72
+	"Wyoming"	"56"	"Niobrara County, WY"	"56027"	59.02
+	"Wyoming"	"56"	"Park County, WY"	"56029"	45.33
+	"Wyoming"	"56"	"Platte County, WY"	"56031"	59.57
+	"Wyoming"	"56"	"Sheridan County, WY"	"56033"	53.74
+	"Wyoming"	"56"	"Sublette County, WY"	"56035"	46.30
+	"Wyoming"	"56"	"Sweetwater County, WY"	"56037"	52.57
+	"Wyoming"	"56"	"Teton County, WY"	"56039"	43.44
+	"Wyoming"	"56"	"Uinta County, WY"	"56041"	50.57
+	"Wyoming"	"56"	"Washakie County, WY"	"56043"	55.37
+	"Wyoming"	"56"	"Weston County, WY"	"56045"	57.60
+"Total"	"Wyoming"	"56"			52.49
+"Total"					62.46
+"---"
+"Dataset: North America Land Data Assimilation System (NLDAS) Daily Air Temperatures and Heat Index (1979-2011)"
+"Query Parameters:"
+"Group By: State; County"
+"Show Totals: True"
+"Show Zero Values: True"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/nldas.html for more information."
+"---"
+"Query Date: Nov 17, 2020 4:58:38 PM"
+"---"
+"Suggested Citation: North America Land Data Assimilation System (NLDAS) Daily Air Temperatures and Heat Index, years 1979-2011"
+"on CDC WONDER Online Database, released 2013. Accessed at http://wonder.cdc.gov/NASA-NLDAS.html on Nov 17, 2020 4:58:38 PM"

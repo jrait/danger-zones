@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+  background-image:linear-gradient(rgb(255, 166, 236),aquamarine);
+  min-height: 1000px;
+  padding: 30px;
+}
+
+.Main {
+  min-height: 1000px;
+}
+
+.form{
+  display:flex;
+  justify-content: center;
+}
+
+.footer{
+  color:gray;
+}
+.Factor{
+  font-size:45pt;
+  font-weight:3pt;
+  margin: 20px;
+  border-radius: 10px;
+  
+}
+
+.countyInfo {
+  background-color: rgb(74, 112, 112);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+form{
+  width:400px;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Snapshot {
+  align-self:center;
+  background-color: darkslategray;
+  border:1px solid white;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px;
+  color: white;
+  width: 500px;
+  padding: 40px;
+  margin: 40px;
+}
+
