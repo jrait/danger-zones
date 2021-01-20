@@ -3,4 +3,4 @@ Display current virus data on a county-by-county basis and determine riskiness o
 
 Technologies used: React, MongoDB, Express, Node.js, Mongoose, axios, Bootstrap
 
-County data pulled from US Census data.  Case data pulled form usafacts.org
+County data pulled from US Census data.  Case data pulled from usafacts.org
